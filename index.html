@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily Signal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header" aria-label="Daily Signal masthead">
+      <div class="masthead-row">
+        <h1>Daily Signal</h1>
+        <div class="header-actions">
+          <time id="todayDate" class="today-date">Today</time>
+          <button id="themeToggle" class="theme-toggle" type="button" aria-label="Switch to light mode" title="Toggle theme">
+            <span class="theme-icon" aria-hidden="true">☾</span>
+            <span class="theme-text">Theme</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="header-grid">
+        <div>
+          <p class="eyebrow">Personal current affairs desk</p>
+          <p class="lede">A quiet daily briefing for AI, technology, and the current affairs worth finishing.</p>
+        </div>
+        <div class="progress-panel" aria-live="polite" aria-label="Reading progress">
+          <span id="progressText">0/0 read today</span>
+          <div class="progress-track">
+            <div id="progressBar" class="progress-bar"></div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="News controls">
+        <div class="filter-group" id="topicFilters">
+          <button class="filter-button active" data-topic="all">All</button>
+          <button class="filter-button" data-topic="ai">AI</button>
+          <button class="filter-button" data-topic="tech">Tech</button>
+          <button class="filter-button" data-topic="current-affairs">Current Affairs</button>
+          <button class="filter-button" data-topic="saved">Saved</button>
+          <button class="filter-button" data-topic="unread">Unread</button>
+        </div>
+        <input id="searchInput" class="search-input" type="search" placeholder="Search today..." />
+      </section>
+
+      <section class="summary-grid" aria-label="Reading summary">
+        <article>
+          <span class="summary-label">Unread</span>
+          <strong id="unreadCount">0</strong>
+        </article>
+        <article>
+          <span class="summary-label">Saved</span>
+          <strong id="savedCount">0</strong>
+        </article>
+        <article>
+          <span class="summary-label">Updated</span>
+          <strong id="updatedAt">Today</strong>
+        </article>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2>Today's Must-Read</h2>
+          <p>Mark each story as read after you open it.</p>
+        </div>
+        <div id="articleList" class="article-list"></div>
+        <p id="emptyState" class="empty-state" hidden>No stories match this view.</p>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
