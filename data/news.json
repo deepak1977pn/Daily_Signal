@@ -1,185 +1,225 @@
 {
-  "updatedAt": "2026-06-11T14:26:17.287Z",
+  "updatedAt": "2026-06-12T12:42:10.253Z",
   "articles": [
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWlZNUVUNjBlQjJoVlU5dzlka0lPZEh2NTNjX2FMYUJrYWxxUFd2cG5wZjNSdVNhWnpUUTM4SmQ3eGRTckJDanlyS0F1YzBYZGhEVW5yVENoVDJWNUNHdWRVU2ZscTJQVW85MHdoODRONzc4OXNNdC1lXzE5cldvZTBGRmdydlhUWU9jNDFKekxJUkdCc1NFbTF30gGaAUFVX3lxTE5NaVk1RVQ2MGVCMmhWVTl3OWRrSU9kSHY1M2NfYUxhQmthbHFQV3ZwbnBmM1J1U2FaelRRMzhKZDd4ZFNyQkNqeXJLQXVjMFhkaERVbnJUQ2hUMlY1Q0d1ZFVTZmxxMlBVbzkwd2g4NE43Nzg5c010LWVfMTlyV29lMEZGZ3J2WFRZT2M0MUp6TElSR0JzU0VtMXc?oc=5",
-      "title": "Regulating Artificial Intelligence In Indian Judiciary: From Institutional Experimentation To A National... - Live Law",
-      "description": "Regulating Artificial Intelligence In Indian Judiciary: From Institutional Experimentation To A National...&nbsp;&nbsp;Live Law",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWlZNUVUNjBlQjJoVlU5dzlka0lPZEh2NTNjX2FMYUJrYWxxUFd2cG5wZjNSdVNhWnpUUTM4SmQ3eGRTckJDanlyS0F1YzBYZGhEVW5yVENoVDJWNUNHdWRVU2ZscTJQVW85MHdoODRONzc4OXNNdC1lXzE5cldvZTBGRmdydlhUWU9jNDFKekxJUkdCc1NFbTF30gGaAUFVX3lxTE5NaVk1RVQ2MGVCMmhWVTl3OWRrSU9kSHY1M2NfYUxhQmthbHFQV3ZwbnBmM1J1U2FaelRRMzhKZDd4ZFNyQkNqeXJLQXVjMFhkaERVbnJUQ2hUMlY1Q0d1ZFVTZmxxMlBVbzkwd2g4NE43Nzg5c010LWVfMTlyV29lMEZGZ3J2WFRZT2M0MUp6TElSR0JzU0VtMXc?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTXNmaUFRalo0NUNrLVE0cHlTVGN3X05qM1ZHbjBCTmR0MlNsZUFfb3pUcTdoZENxS293cVVhZnpPRnhCNkFXY3V4dmRNWUh3ZUpNYVN2UGMxZk9fUzhETHd1WDdSX3M1ZEFFOVF3a0VWOXR0TEEzc0YxSFBMMVRaWkxkY3kxWHM2WVRtQWt1S3NWczNIVkd2b3pfX2JacEk4cU1xbG9IMjZvMmRacXZMRjlRUjB0ZTROZjYxSTZBX2J2UW9BQU5WME1MX2duYm9CdThTQVk5VmhZbGNnZTQ3MFlQSVXSAeQBQVVfeXFMT01zZmlBUWpaNDVDay1RNHB5U1Rjd19OajNWR24wQk5kdDJTbGVBX296VHE3aGRDcUtvd3FVYWZ6T0Z4QjZBV2N1eHZkTVlId2VKTWFTdlBjMWZPX1M4REx3dVg3Ul9zNWRBRTlRd2tFVjl0dExBM3NGMUhQTDFUWlpMZGN5MVhzNllUbUFrdUtzVnMzSFZHdm96X19iWnBJOHFNcWxvSDI2bzJkWnF2TEY5UVIwdGU0TmY2MUk2QV9idlFvQUFOVjBNTF9nbmJvQnU4U0FZOVZoWWxjZ2U0NzBZUElV?oc=5",
+      "title": "AICTE Introduces PG Certificate Courses in AI, ML and Emerging Technologies - All Details - Telegraph India",
+      "description": "AICTE Introduces PG Certificate Courses in AI, ML and Emerging Technologies - All Details&nbsp;&nbsp;Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTXNmaUFRalo0NUNrLVE0cHlTVGN3X05qM1ZHbjBCTmR0MlNsZUFfb3pUcTdoZENxS293cVVhZnpPRnhCNkFXY3V4dmRNWUh3ZUpNYVN2UGMxZk9fUzhETHd1WDdSX3M1ZEFFOVF3a0VWOXR0TEEzc0YxSFBMMVRaWkxkY3kxWHM2WVRtQWt1S3NWczNIVkd2b3pfX2JacEk4cU1xbG9IMjZvMmRacXZMRjlRUjB0ZTROZjYxSTZBX2J2UW9BQU5WME1MX2duYm9CdThTQVk5VmhZbGNnZTQ3MFlQSVXSAeQBQVVfeXFMT01zZmlBUWpaNDVDay1RNHB5U1Rjd19OajNWR24wQk5kdDJTbGVBX296VHE3aGRDcUtvd3FVYWZ6T0Z4QjZBV2N1eHZkTVlId2VKTWFTdlBjMWZPX1M4REx3dVg3Ul9zNWRBRTlRd2tFVjl0dExBM3NGMUhQTDFUWlpMZGN5MVhzNllUbUFrdUtzVnMzSFZHdm96X19iWnBJOHFNcWxvSDI2bzJkWnF2TEY5UVIwdGU0TmY2MUk2QV9idlFvQUFOVjBNTF9nbmJvQnU4U0FZOVZoWWxjZ2U0NzBZUElV?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-06-11T08:30:19.000Z"
+      "publishedAt": "2026-06-12T07:18:31.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXZIQWc0N3F3SklBWG9HWGlicTRWN1FMYVNLb1JFY2lZRFk1UU1MaUhMMERxTTdRY040dHppN1ppRG91Y19tY19FbWdNRldTZ2p3SXR3YklzaVBFUkZYcnpkWkE3M1NGcVdORVkxVmFWcXVEbEprWllZN1FzNmVGcHdlQkNaQXB5RG55UWduYUNwSFBoNzM2Q3pZRU1yVjNjQmVnNF96RldWcjZETldPOUlSTURmN21N?oc=5",
-      "title": "Artificial intelligence requires unlearning to discover new physics laws - Open Access Government",
-      "description": "Artificial intelligence requires unlearning to discover new physics laws&nbsp;&nbsp;Open Access Government",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXZIQWc0N3F3SklBWG9HWGlicTRWN1FMYVNLb1JFY2lZRFk1UU1MaUhMMERxTTdRY040dHppN1ppRG91Y19tY19FbWdNRldTZ2p3SXR3YklzaVBFUkZYcnpkWkE3M1NGcVdORVkxVmFWcXVEbEprWllZN1FzNmVGcHdlQkNaQXB5RG55UWduYUNwSFBoNzM2Q3pZRU1yVjNjQmVnNF96RldWcjZETldPOUlSTURmN21N?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDk3aHNZYWdqUFRxb21GQnBNdXFzZ1d4blBzUlhfUHZvb0dBcUlfUHZaSy14c3ludnlGMXVpam01LV91c2R5MmVXWTF2SDdwNDE0R05CZHAtem1zN0dQOUYzR1V6SjhoZ1lGSXBwYlhidlZheXF2UFR2SHJLaTZiZm5xQVNiUTBjQVFVUlE3UENGTHoxZVlPMXNtck52bmc4Y3pzcU9ERG03bjN4dWZSX3dZcFNUZw?oc=5",
+      "title": "Piyush Goyal inaugurates AI & Machine Learning for Trade Mark search and IP Sarthi Chat Bot - News On AIR",
+      "description": "Piyush Goyal inaugurates AI & Machine Learning for Trade Mark search and IP Sarthi Chat Bot&nbsp;&nbsp;News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDk3aHNZYWdqUFRxb21GQnBNdXFzZ1d4blBzUlhfUHZvb0dBcUlfUHZaSy14c3ludnlGMXVpam01LV91c2R5MmVXWTF2SDdwNDE0R05CZHAtem1zN0dQOUYzR1V6SjhoZ1lGSXBwYlhidlZheXF2UFR2SHJLaTZiZm5xQVNiUTBjQVFVUlE3UENGTHoxZVlPMXNtck52bmc4Y3pzcU9ERG03bjN4dWZSX3dZcFNUZw?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-06-11T08:12:32.000Z"
+      "publishedAt": "2026-06-12T05:12:01.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEtUdER5bHl2M1plU0RuNjhfcjJSdzBxYm1acElEdThQS1BCT3hiM1BnQTE2Q1pTS3NheWhqaEh4WkNDd2hjMy1RYmY5RGJyZ29uN0pDN3E5UHhqVnZjeXpoRjVVeDlrdkR2azZZZ1JTS1NMZjU4czlpS0VMVXJjeHNYTkhrVkRJcnU4N1BnMFdxak56ZlJlTWtxbTVKY21MRGlzTDBhX1ZRNEhnNndBU2V3VFdnbDZNenlocGE3ZTlnZWtwX2otZXE5UU1qS0dINE9hQlhwUHJjZ1BiRWoxZ1BRMWc3TkJM?oc=5",
-      "title": "IIT Roorkee invites applications for 11th Batch of Data Science, Machine Learning & Generative AI Programme - Elets Technomedia",
-      "description": "IIT Roorkee invites applications for 11th Batch of Data Science, Machine Learning & Generative AI Programme&nbsp;&nbsp;Elets Technomedia",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNEtUdER5bHl2M1plU0RuNjhfcjJSdzBxYm1acElEdThQS1BCT3hiM1BnQTE2Q1pTS3NheWhqaEh4WkNDd2hjMy1RYmY5RGJyZ29uN0pDN3E5UHhqVnZjeXpoRjVVeDlrdkR2azZZZ1JTS1NMZjU4czlpS0VMVXJjeHNYTkhrVkRJcnU4N1BnMFdxak56ZlJlTWtxbTVKY21MRGlzTDBhX1ZRNEhnNndBU2V3VFdnbDZNenlocGE3ZTlnZWtwX2otZXE5UU1qS0dINE9hQlhwUHJjZ1BiRWoxZ1BRMWc3TkJM?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOTNrNU1PMm5kX3hqVURxVG1TSEVpeXRHT1MyWDJManJrRThCQS1wWDFwWEQ4M0dKdXJ6WjBkUlVKZk8yVnVQTHM0Q2tjal8tOGUtQzF5Z0RPN01nY2JRLUVCNzRtazN1RTBhUzk3T1hUbDFZbmtiVkFJSUpEalV1TjNNSGM4RWlZejVFV1U2bUxPakVBb2NkUTRwUG14cWF3b25VcUhlSFR6TXcyVGhudDFWdFR2bF84ZzFESl9qVUJGWURkaU1HZWhaeWJ6all0V0xUckJKdEpaR3h6ZzVWV2daNmd3SDNHVHN4WEM4S1A?oc=5",
+      "title": "Artificial Intelligence Market Set for Explosive Growth as Automation, Generative AI, and Intelligent Decision-Making Transform Industries - vocal.media",
+      "description": "Artificial Intelligence Market Set for Explosive Growth as Automation, Generative AI, and Intelligent Decision-Making Transform Industries&nbsp;&nbsp;vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOTNrNU1PMm5kX3hqVURxVG1TSEVpeXRHT1MyWDJManJrRThCQS1wWDFwWEQ4M0dKdXJ6WjBkUlVKZk8yVnVQTHM0Q2tjal8tOGUtQzF5Z0RPN01nY2JRLUVCNzRtazN1RTBhUzk3T1hUbDFZbmtiVkFJSUpEalV1TjNNSGM4RWlZejVFV1U2bUxPakVBb2NkUTRwUG14cWF3b25VcUhlSFR6TXcyVGhudDFWdFR2bF84ZzFESl9qVUJGWURkaU1HZWhaeWJ6all0V0xUckJKdEpaR3h6ZzVWV2daNmd3SDNHVHN4WEM4S1A?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-06-11T09:55:10.000Z"
+      "publishedAt": "2026-06-12T10:32:46.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVJURHFsMTlVSHY5RDR1bnBYZWdWNDR4aVMyV2xHS0hCRmJwS0l3NEsyejFiZGN3MFZLbmJ6QWExWm9MNlNtMUN4LVVKVGl1V3dJeTZqM2M0bE55T2hPZk9mYWNkaEloTTlDdUxIbTZ2OWs4VkZhb1FsSlB1dEVTQ0pXYXJSQ0laNXVwX1I2RFNOWEd0N2VpNDhSRFREbjhDQ2ZjYjBB?oc=5",
-      "title": "How frontier teams are reinventing AI-native development - Amazon Web Services (AWS)",
-      "description": "How frontier teams are reinventing AI-native development&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVJURHFsMTlVSHY5RDR1bnBYZWdWNDR4aVMyV2xHS0hCRmJwS0l3NEsyejFiZGN3MFZLbmJ6QWExWm9MNlNtMUN4LVVKVGl1V3dJeTZqM2M0bE55T2hPZk9mYWNkaEloTTlDdUxIbTZ2OWs4VkZhb1FsSlB1dEVTQ0pXYXJSQ0laNXVwX1I2RFNOWEd0N2VpNDhSRFREbjhDQ2ZjYjBB?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnR5WHlaYWxteDdFanAyWXdyZXpHR3R0cHppQ1ZvcEVlVU9uYlFLTHBuaklyTkJqUEtvVklnZmZJaS0xeDhSeWxyY2xfYjZ3UkNZbUtrZEdkLTROZThvZjkwckJPdjllZlpoUF9xZm5peHlJWVJ3ZVBzMmR3cUR3bGRYRDhpR1gyazItbWdRc2RNUnVFWWhvbGdNdHJKRERXUGNjN0V2aDlqQQ?oc=5",
+      "title": "Extract Data with On-demand and Batch Pipelines Dynamically - Amazon Web Services (AWS)",
+      "description": "Extract Data with On-demand and Batch Pipelines Dynamically&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnR5WHlaYWxteDdFanAyWXdyZXpHR3R0cHppQ1ZvcEVlVU9uYlFLTHBuaklyTkJqUEtvVklnZmZJaS0xeDhSeWxyY2xfYjZ3UkNZbUtrZEdkLTROZThvZjkwckJPdjllZlpoUF9xZm5peHlJWVJ3ZVBzMmR3cUR3bGRYRDhpR1gyazItbWdRc2RNUnVFWWhvbGdNdHJKRERXUGNjN0V2aDlqQQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-06-11T00:54:42.000Z"
+      "publishedAt": "2026-06-11T19:40:33.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiekFVX3lxTE9lYlVGWEZhVVN0Rl9CR2IzeGNsaHNGNDVvbHY2eHFrWUlpN0lVeG9kZmFLRmhGclYxWFYtOEJ3VlNob0xfSFlYSUszQW4zZUI0M2k0VElDMEZzZWlDdHRGckk3MVFUTlg1Zi1ZQ3NfaEVVaTJTUzBoYVJB?oc=5",
-      "title": "Digital Campus 4.0 Launched - BW Education",
-      "description": "Digital Campus 4.0 Launched&nbsp;&nbsp;BW Education",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lYlVGWEZhVVN0Rl9CR2IzeGNsaHNGNDVvbHY2eHFrWUlpN0lVeG9kZmFLRmhGclYxWFYtOEJ3VlNob0xfSFlYSUszQW4zZUI0M2k0VElDMEZzZWlDdHRGckk3MVFUTlg1Zi1ZQ3NfaEVVaTJTUzBoYVJB?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkd6bVNpcFd2Y1BEbzJISGhudVpVU183Z0ZNSDM0YzBOTkg0ZjQwVkJ2ZVA4eGRtNDdueEJTYVlIVzBGTzc3VHRXRjctVlZUai1NQWZUcEdGXzgxSTViQUhNM29yVjNVR2FjZDdGa0Z5RC1Hdmc1OExIR3YwN18wZE5B?oc=5",
+      "title": "AI Robots Market Size to Surpass USD 144.38 Bn by 2035 - TimesTech",
+      "description": "AI Robots Market Size to Surpass USD 144.38 Bn by 2035&nbsp;&nbsp;TimesTech",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkd6bVNpcFd2Y1BEbzJISGhudVpVU183Z0ZNSDM0YzBOTkg0ZjQwVkJ2ZVA4eGRtNDdueEJTYVlIVzBGTzc3VHRXRjctVlZUai1NQWZUcEdGXzgxSTViQUhNM29yVjNVR2FjZDdGa0Z5RC1Hdmc1OExIR3YwN18wZE5B?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-06-11T12:21:31.000Z"
+      "publishedAt": "2026-06-12T04:44:29.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3llYzRsS0d5ZllHY21YandVZlNENVlmSEEwYjFpOEJZa213UWMxYWg0WWdDUWNWNmI0REZSU0RkTHJnbS1fMjZKUzU1NmtVdmRWV0NnUEhHa1dwejBfaTZtenhSa09BNmw5UnVOUmZ4UUphMWdIbWduYVo3MVptY1RZSGw1RXFFb3dCY2J2enNDNC1GQnBLNldlQm9wTFRpRnVxalhtTUJDYVo4cmdkdWVralpqd085aEE?oc=5",
-      "title": "Can ADI's Communications Segment Emerge as a New Growth Driver? - TradingView",
-      "description": "Can ADI's Communications Segment Emerge as a New Growth Driver?&nbsp;&nbsp;TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3llYzRsS0d5ZllHY21YandVZlNENVlmSEEwYjFpOEJZa213UWMxYWg0WWdDUWNWNmI0REZSU0RkTHJnbS1fMjZKUzU1NmtVdmRWV0NnUEhHa1dwejBfaTZtenhSa09BNmw5UnVOUmZ4UUphMWdIbWduYVo3MVptY1RZSGw1RXFFb3dCY2J2enNDNC1GQnBLNldlQm9wTFRpRnVxalhtTUJDYVo4cmdkdWVralpqd085aEE?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjhELUdUeFc5UDIyRy05YS1RRzVqN01scWlqV3R6X3JvX1F0MVBpc1ZncHpyOUs5ZHh6aWhPODI1OHRkdWlaajdDRGk4OFpMNU1mOWpXR2NpSnB3TjBwYlN4a1lpR3hDMmZQV2VBQTh6QmZsRVc4ei11dTM1VE5XbWVSRUhNUmFBWnpWQUgySXVyMFl5WDMyUGpWd25OWm8tVUJLME1kWjhOelY2RHQtdlZLdFViVEZ2bXNBMWgtQTcxcGZsSC1jU1E3a18?oc=5",
+      "title": "AI use is surging across HHS, jumping 148% at the FDA in 2025, Bipartisan Policy Center data finds - Fierce Healthcare",
+      "description": "AI use is surging across HHS, jumping 148% at the FDA in 2025, Bipartisan Policy Center data finds&nbsp;&nbsp;Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjhELUdUeFc5UDIyRy05YS1RRzVqN01scWlqV3R6X3JvX1F0MVBpc1ZncHpyOUs5ZHh6aWhPODI1OHRkdWlaajdDRGk4OFpMNU1mOWpXR2NpSnB3TjBwYlN4a1lpR3hDMmZQV2VBQTh6QmZsRVc4ei11dTM1VE5XbWVSRUhNUmFBWnpWQUgySXVyMFl5WDMyUGpWd25OWm8tVUJLME1kWjhOelY2RHQtdlZLdFViVEZ2bXNBMWgtQTcxcGZsSC1jU1E3a18?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-06-11T13:03:00.000Z"
+      "publishedAt": "2026-06-11T18:00:00.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaUtUdFBRTGZwa3hnMjhhT19oZC1oQmdLWkhqc19LbjdOWDEySUtjYmJBMEpOUVdCTWg5ME5ad1ctS1hScGcwT1FTUUVJSXhicUZYc1JzLUIzd3c1QURnZVRR?oc=5",
-      "title": "How AI chatbots become better learning coaches - Tech Xplore",
-      "description": "How AI chatbots become better learning coaches&nbsp;&nbsp;Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaUtUdFBRTGZwa3hnMjhhT19oZC1oQmdLWkhqc19LbjdOWDEySUtjYmJBMEpOUVdCTWg5ME5ad1ctS1hScGcwT1FTUUVJSXhicUZYc1JzLUIzd3c1QURnZVRR?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMidEFVX3lxTE5RT3FjcXhUUklEMWNoR0dnRmh6VnhrVW16eG9XSmtxVlhKcEMxZXhKODVSUHRaRlQ5Wk5NdUtITjV5RFBSSHo5VDUweXpFRlI0LUxfX3EtMFFlSzMyS3hIQUIyZndXdi1ZRVNORUlmTkU2OUY3?oc=5",
+      "title": "Today’s need is Skills in AI: Jitender Joshi - Garhwal Post",
+      "description": "Today’s need is Skills in AI: Jitender Joshi&nbsp;&nbsp;Garhwal Post",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RT3FjcXhUUklEMWNoR0dnRmh6VnhrVW16eG9XSmtxVlhKcEMxZXhKODVSUHRaRlQ5Wk5NdUtITjV5RFBSSHo5VDUweXpFRlI0LUxfX3EtMFFlSzMyS3hIQUIyZndXdi1ZRVNORUlmTkU2OUY3?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-06-11T01:40:02.000Z"
+      "publishedAt": "2026-06-11T16:42:32.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFZxZjh1U19ORFlSX0UwODBjR01GeTU5M25Dbi1ldXYwYjlDS0k2bVppWWFGNXRmUzNNaVlxMjVEdVhTYkFfandJSE1oVDZUam8tb0laV3RyVTh1ZWlOSWJLRlNpSDVSLWVhVzkyUGFvc2lrR1ZNblF5SnJlbWJQUTRWVzlLTVpjbVR0NHBlQXjSAZABQVVfeXFMUEhWcWY4dVNfTkRZUl9FMDgwY0dNRnk1OTNuQ24tZXV2MGI5Q0tJNm1aaVlhRjV0ZlMzTWlZcTI1RHVYU2JBX2p3SUhNaFQ2VGpvLW9JWld0clU4dWVpTkliS0ZTaUg1Ui1lYVc5MlBhb3Npa0dWTW5ReUpyZW1iUFE0Vlc5S01aY21UdDRwZUF4?oc=5",
-      "title": "Teaching children AI in an ethically unready society - ucanews.com",
-      "description": "Teaching children AI in an ethically unready society&nbsp;&nbsp;ucanews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSFZxZjh1U19ORFlSX0UwODBjR01GeTU5M25Dbi1ldXYwYjlDS0k2bVppWWFGNXRmUzNNaVlxMjVEdVhTYkFfandJSE1oVDZUam8tb0laV3RyVTh1ZWlOSWJLRlNpSDVSLWVhVzkyUGFvc2lrR1ZNblF5SnJlbWJQUTRWVzlLTVpjbVR0NHBlQXjSAZABQVVfeXFMUEhWcWY4dVNfTkRZUl9FMDgwY0dNRnk1OTNuQ24tZXV2MGI5Q0tJNm1aaVlhRjV0ZlMzTWlZcTI1RHVYU2JBX2p3SUhNaFQ2VGpvLW9JWld0clU4dWVpTkliS0ZTaUg1Ui1lYVc5MlBhb3Npa0dWTW5ReUpyZW1iUFE0Vlc5S01aY21UdDRwZUF4?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMizAJBVV95cUxPYVdBZFJUS0lJTkFDaDVOUGpXcEZaQzhmbW53TVozai1mdlJwUUdkdEh6SzdQYkJHbFNIdFFhVVJCUTM1WHoxaVoxT1J5UkV4Xy0zTTJFQlVQYW9JbTBKbU12RzRGTTJrRlQ4djI4LWh5aW1jT2djOFpHV0I1RkxKbzFfNFRFY21TTzNMbjFDbjNxNnFsaFVFeVlTdTJCd0JsdEttanZYTzh2NGNOMVgxUzdHX2NybVVuSTJOVmtmQ1VCLTdkOEI1bFdFWjlLWE96MzBoaHlELVpzR2dDWVNPQ2FITktnbVIzX0pQTmNZRTVodnRIbzRHRmZmNUExdzdaU1pWZks4YkIwZXU4NGZEVGFDdVNHVzFOQUtOeFFTQ3MteGh1aC1Ta2hxSHpHeDBibnB1VTIyOWl2R3oxRGFFY0swazc5bFhpOTllYQ?oc=5",
+      "title": "GPU as a Service Market to Reach USD 14.4 Billion by 2033 at 16.0% CAGR, Fueled by Generative AI, Machine Learning, and Cloud Infrastructure Expansion - Grand View Research, Inc. - PR Newswire",
+      "description": "GPU as a Service Market to Reach USD 14.4 Billion by 2033 at 16.0% CAGR, Fueled by Generative AI, Machine Learning, and Cloud Infrastructure Expansion - Grand View Research, Inc.&nbsp;&nbsp;PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPYVdBZFJUS0lJTkFDaDVOUGpXcEZaQzhmbW53TVozai1mdlJwUUdkdEh6SzdQYkJHbFNIdFFhVVJCUTM1WHoxaVoxT1J5UkV4Xy0zTTJFQlVQYW9JbTBKbU12RzRGTTJrRlQ4djI4LWh5aW1jT2djOFpHV0I1RkxKbzFfNFRFY21TTzNMbjFDbjNxNnFsaFVFeVlTdTJCd0JsdEttanZYTzh2NGNOMVgxUzdHX2NybVVuSTJOVmtmQ1VCLTdkOEI1bFdFWjlLWE96MzBoaHlELVpzR2dDWVNPQ2FITktnbVIzX0pQTmNZRTVodnRIbzRHRmZmNUExdzdaU1pWZks4YkIwZXU4NGZEVGFDdVNHVzFOQUtOeFFTQ3MteGh1aC1Ta2hxSHpHeDBibnB1VTIyOWl2R3oxRGFFY0swazc5bFhpOTllYQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-06-11T12:18:00.000Z"
+      "publishedAt": "2026-06-11T17:32:00.000Z"
     },
     {
-      "id": "tech-https://www.bbc.com/news/videos/clyrvrde160o",
-      "title": "US-Canada border library gets new Quebec-only entrance",
-      "description": "Article URL: https://www.bbc.com/news/videos/clyrvrde160o\nComments URL: https://news.ycombinator.com/item?id=48490245\nPoints: 14\n# Comments: 1",
-      "url": "https://www.bbc.com/news/videos/clyrvrde160o",
+      "id": "tech-https://arxiv.org/abs/2606.13473",
+      "title": "Maxproof",
+      "description": "Article URL: https://arxiv.org/abs/2606.13473\nComments URL: https://news.ycombinator.com/item?id=48503014\nPoints: 10\n# Comments: 0",
+      "url": "https://arxiv.org/abs/2606.13473",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-06-11T13:42:42.000Z"
+      "publishedAt": "2026-06-12T12:00:02.000Z"
     },
     {
-      "id": "tech-https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "description": "Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6\nComments URL: https://news.ycombinator.com/item?id=48490057\nPoints: 45\n# Comments: 16",
-      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "id": "tech-https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
+      "title": "David Hockney, Who Restored the Human Form to Art, Dies at 88",
+      "description": "Article URL: https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html\nComments URL: https://news.ycombinator.com/item?id=48502730\nPoints: 32\n# Comments: 2",
+      "url": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-06-11T13:26:59.000Z"
+      "publishedAt": "2026-06-12T11:26:54.000Z"
     },
     {
-      "id": "tech-https://github.com/huggingface/open-r1",
-      "title": "Open Reproduction of DeepSeek-R1",
-      "description": "Article URL: https://github.com/huggingface/open-r1\nComments URL: https://news.ycombinator.com/item?id=48489917\nPoints: 16\n# Comments: 1",
-      "url": "https://github.com/huggingface/open-r1",
+      "id": "tech-https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "description": "Article URL: https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/\nComments URL: https://news.ycombinator.com/item?id=48502601\nPoints: 62\n# Comments: 41",
+      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-06-11T13:14:31.000Z"
+      "publishedAt": "2026-06-12T11:11:42.000Z"
     },
     {
-      "id": "tech-https://twitter.com/awscloud/status/2064449711155589396",
-      "title": "More AI-generated code doesn't make your team faster. It might slow you",
-      "description": "Article URL: https://twitter.com/awscloud/status/2064449711155589396\nComments URL: https://news.ycombinator.com/item?id=48489835\nPoints: 30\n# Comments: 10",
-      "url": "https://twitter.com/awscloud/status/2064449711155589396",
+      "id": "tech-https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "description": "Article URL: https://huggingface.co/moonshotai/Kimi-K2.7-Code\nComments URL: https://news.ycombinator.com/item?id=48502347\nPoints: 77\n# Comments: 18",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-06-11T13:06:08.000Z"
+      "publishedAt": "2026-06-12T10:42:50.000Z"
     },
     {
-      "id": "tech-https://www.bls.gov/news.release/ppi.nr0.htm",
-      "title": "Core PPI up 9.6% annualized (0.8% MoM) in May",
-      "description": "Article URL: https://www.bls.gov/news.release/ppi.nr0.htm\nComments URL: https://news.ycombinator.com/item?id=48489655\nPoints: 63\n# Comments: 30",
-      "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+      "id": "tech-https://www.fastmail.com/blog/the-future-of-email/",
+      "title": "The Future of Email",
+      "description": "Article URL: https://www.fastmail.com/blog/the-future-of-email/\nComments URL: https://news.ycombinator.com/item?id=48502321\nPoints: 65\n# Comments: 63",
+      "url": "https://www.fastmail.com/blog/the-future-of-email/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-06-11T12:51:43.000Z"
+      "publishedAt": "2026-06-12T10:38:31.000Z"
     },
     {
-      "id": "tech-https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "title": "Lines of Code Got a Better Publicist",
-      "description": "Article URL: https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/\nComments URL: https://news.ycombinator.com/item?id=48489402\nPoints: 117\n# Comments: 56",
-      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "id": "tech-https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+      "title": "AUR Packages Compromised with Infostealer and Rootkit",
+      "description": "Article URL: https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577\nComments URL: https://news.ycombinator.com/item?id=48500447\nPoints: 85\n# Comments: 28",
+      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-06-11T12:26:42.000Z"
+      "publishedAt": "2026-06-12T05:59:39.000Z"
     },
     {
-      "id": "tech-https://vale.rocks/posts/game-console-browsers",
-      "title": "Web Browsers on Video Game Consoles",
-      "description": "Article URL: https://vale.rocks/posts/game-console-browsers\nComments URL: https://news.ycombinator.com/item?id=48487897\nPoints: 92\n# Comments: 47",
-      "url": "https://vale.rocks/posts/game-console-browsers",
+      "id": "tech-https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "description": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/\nComments URL: https://news.ycombinator.com/item?id=48500012\nPoints: 804\n# Comments: 307",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-06-11T08:47:36.000Z"
+      "publishedAt": "2026-06-12T04:42:53.000Z"
     },
     {
-      "id": "tech-https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
-      "title": "Why AI hasn't replaced software engineers, and won't",
-      "description": "Article URL: https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers\nComments URL: https://news.ycombinator.com/item?id=48487540\nPoints: 138\n# Comments: 134",
-      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "id": "tech-https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "title": "Claude Fable is relentlessly proactive",
+      "description": "Article URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/\nComments URL: https://news.ycombinator.com/item?id=48498573\nPoints: 529\n# Comments: 418",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-06-11T07:51:17.000Z"
+      "publishedAt": "2026-06-12T01:06:51.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMif0FVX3lxTE9JbmVPdHRwYkJtSG9VZnpuY00ydEVsOE5NZC01aFpWaU1ybDRDQ3lPWFNNZmJGdUxzVnl1TGwzbWdYcXVlOGw4WW0zdHN1clF4dS1wOFAwZW5xb3MzZG1aTklSZ1QtM1F0T3h2ZGNPd09PWThTSC1rZmZPSWctREE?oc=5",
-      "title": "World Day Against Child Labour, Theme, Significance - Vajiram & Ravi",
-      "description": "World Day Against Child Labour, Theme, Significance&nbsp;&nbsp;Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JbmVPdHRwYkJtSG9VZnpuY00ydEVsOE5NZC01aFpWaU1ybDRDQ3lPWFNNZmJGdUxzVnl1TGwzbWdYcXVlOGw4WW0zdHN1clF4dS1wOFAwZW5xb3MzZG1aTklSZ1QtM1F0T3h2ZGNPd09PWThTSC1rZmZPSWctREE?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY21yampqWHRYQkppbEdWTGhnTmMxOHlJR2IwRUp3anFRbjYxUUNNaGVMR29GYldpa2ktS0ZqclhtSGs0bURzVE90SFhBZ19fd0dGeGxjcUxRVzl5WGJLczBEMjJsNGZ6TElsaUxHcUFuSDFUSHlGVWhEZDFaMU0zOFh5VnY1eWtFVXZTZUJyMmQ5cFZiVDVOM3Q1NjF2YzdFbnZwRDJObk9mWDFVOElYSzUtVTFJeFlBWEFidjVHX1lVeTdyYkd5QnBXMlNNc0xTcHhoTHc0MjZMSUVXUjAzeUt4cjZpSGdX0gHuAUFVX3lxTE5yVnplODNXZmxwemRJQlQ0TTMySDktdjlyUkUtbnNDNl9kc2stZlJQRE1xWTZvbEUycG5SZkFDN2dQa19raEU0YjNVOHNrM1REMjlkYjVHcGQ4aWNPUjFWNmluS1pBRjBsMDRBMkVBWUZxRmFya2xiQlNhXzNGbjZTVGZfV2ZmMmdNWnVQZ1FQSWJ1a3hNV3E1ZlIxSE0tN0ZnNlFVX2xSNUE2ZHN4aWpXYlptODJpd2pQbVlGSG9kczNwRkdyaW9fbHotLUtDZXdhdUpNU25rcFFqNFBEb2NpT2c0MTRvY0ktdHMzdGc?oc=5",
+      "title": "This Padma Shri scientist proved India carries world's oldest DNA outside Africa - India Today",
+      "description": "This Padma Shri scientist proved India carries world's oldest DNA outside Africa&nbsp;&nbsp;India Today",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY21yampqWHRYQkppbEdWTGhnTmMxOHlJR2IwRUp3anFRbjYxUUNNaGVMR29GYldpa2ktS0ZqclhtSGs0bURzVE90SFhBZ19fd0dGeGxjcUxRVzl5WGJLczBEMjJsNGZ6TElsaUxHcUFuSDFUSHlGVWhEZDFaMU0zOFh5VnY1eWtFVXZTZUJyMmQ5cFZiVDVOM3Q1NjF2YzdFbnZwRDJObk9mWDFVOElYSzUtVTFJeFlBWEFidjVHX1lVeTdyYkd5QnBXMlNNc0xTcHhoTHc0MjZMSUVXUjAzeUt4cjZpSGdX0gHuAUFVX3lxTE5yVnplODNXZmxwemRJQlQ0TTMySDktdjlyUkUtbnNDNl9kc2stZlJQRE1xWTZvbEUycG5SZkFDN2dQa19raEU0YjNVOHNrM1REMjlkYjVHcGQ4aWNPUjFWNmluS1pBRjBsMDRBMkVBWUZxRmFya2xiQlNhXzNGbjZTVGZfV2ZmMmdNWnVQZ1FQSWJ1a3hNV3E1ZlIxSE0tN0ZnNlFVX2xSNUE2ZHN4aWpXYlptODJpd2pQbVlGSG9kczNwRkdyaW9fbHotLUtDZXdhdUpNU25rcFFqNFBEb2NpT2c0MTRvY0ktdHMzdGc?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-06-11T12:30:04.000Z"
+      "publishedAt": "2026-06-12T12:24:15.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN1ljSWlrcUdVS2xZWURRUk1Ybk5feVpXUGdQUG5BbllMTlo5YWFtcXhidm92LUJGWTA3N21fQUxkYVIxbHFhTm1mYTlGZmlKeXJxMURvbm83dWpYNl82WlFZaFhCZGdvY3JvcVV2WjRzdkRFRjJLS2FXWkl3YXdxLTJaQTBzVmhSZkZYM0dwQXBPcFZFdDlfMndMUlVrOW1scDRsaXdkdnVNMXZtOGxRd0dXN3prQUY3VUo3NFp1NnpSTC1QdWt0WURrdXB3Z3l5RjM2bmxoc1dxaWVGS09ZLWdIa1ozQ03SAe4BQVVfeXFMTUZhaVNyNWlRenRWVm9rNGs2UUtUQnlRLVktb255dmpGRG1ZR0lfUGJ5cWdJRVFFckd2eFAyQXFKOFZaVkwxY3FZT1RMM1RjZ1UtWHJRZjMxNFdLLUtUaXJUTzcwaU5GRkRpa2ZacU1WbDZWb2N6bGhfSU95NTU5eVdPaXYtQU96MzYxR1AzaHNnNzhaN1hFQzZ1S1ZVVUdiR2tmWnNpNFVZTm0ydlZaRVppQTB0QllPclhhdXpVU19pUi1lU05ULVR1MjN6NnktSjBmYVFoMTFEMkw3OXlOdWJTU2daR1RsdzEyN2Q0Zw?oc=5",
-      "title": "Knowledge Nugget: What makes Delhi one of the world’s most bird-diverse capitals? - The Indian Express",
-      "description": "Knowledge Nugget: What makes Delhi one of the world’s most bird-diverse capitals?&nbsp;&nbsp;The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN1ljSWlrcUdVS2xZWURRUk1Ybk5feVpXUGdQUG5BbllMTlo5YWFtcXhidm92LUJGWTA3N21fQUxkYVIxbHFhTm1mYTlGZmlKeXJxMURvbm83dWpYNl82WlFZaFhCZGdvY3JvcVV2WjRzdkRFRjJLS2FXWkl3YXdxLTJaQTBzVmhSZkZYM0dwQXBPcFZFdDlfMndMUlVrOW1scDRsaXdkdnVNMXZtOGxRd0dXN3prQUY3VUo3NFp1NnpSTC1QdWt0WURrdXB3Z3l5RjM2bmxoc1dxaWVGS09ZLWdIa1ozQ03SAe4BQVVfeXFMTUZhaVNyNWlRenRWVm9rNGs2UUtUQnlRLVktb255dmpGRG1ZR0lfUGJ5cWdJRVFFckd2eFAyQXFKOFZaVkwxY3FZT1RMM1RjZ1UtWHJRZjMxNFdLLUtUaXJUTzcwaU5GRkRpa2ZacU1WbDZWb2N6bGhfSU95NTU5eVdPaXYtQU96MzYxR1AzaHNnNzhaN1hFQzZ1S1ZVVUdiR2tmWnNpNFVZTm0ydlZaRVppQTB0QllPclhhdXpVU19pUi1lU05ULVR1MjN6NnktSjBmYVFoMTFEMkw3OXlOdWJTU2daR1RsdzEyN2Q0Zw?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY1hZdkxDdWJfZ0stTkw2UUtSVmltSVA3SG5JN0k1Nlk3eDJJSEJ2WVJ4N3RZUk1rVGxXdHJHeVAyTFdJc0tvNEd0c29SbHh6NTFhOHRad1NDQTJMYUl3SXJZVk9PT0VZWXJ5Z3dmelBqTzBrSDZ0c0JxM3FFTVhPU0RxN212S2ROS1p4bkZBa2VFZldoSklqQkQwLVBlajZUenJ1ZVBRMG9GZU9JV0FGdjBPLThIcGdaTUZncHQzYkc5QWowWUUxZGZZc0xLbENPSzkzNkw0bkJIV2tWcm9N0gHfAUFVX3lxTE5jWFl2TEN1Yl9nSy1OTDZRS1JWaW1JUDdIbkk3STU2WTd4MklIQnZZUng3dFlSTWtUbFd0ckd5UDJMV0lzS280R3Rzb1JseHo1MWE4dFp3U0NBMkxhSXdJcllWT09PRVlZcnlnd2Z6UGpPMGtINnRzQnEzcUVNWE9TRHE3bXZLZE5LWnhuRkFrZUVmV2hKSWpCRDAtUGVqNlR6cnVlUFEwb0ZlT0lXQUZ2ME8tOEhwZ1pNRmdwdDNiRzlBajBZRTFkZllzTEtsQ09LOTM2TDRuQkhXa1Zyb00?oc=5",
+      "title": "Knowledge Nugget | What does SIPRI Report 2026 reveal about global security? - The Indian Express",
+      "description": "Knowledge Nugget | What does SIPRI Report 2026 reveal about global security?&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY1hZdkxDdWJfZ0stTkw2UUtSVmltSVA3SG5JN0k1Nlk3eDJJSEJ2WVJ4N3RZUk1rVGxXdHJHeVAyTFdJc0tvNEd0c29SbHh6NTFhOHRad1NDQTJMYUl3SXJZVk9PT0VZWXJ5Z3dmelBqTzBrSDZ0c0JxM3FFTVhPU0RxN212S2ROS1p4bkZBa2VFZldoSklqQkQwLVBlajZUenJ1ZVBRMG9GZU9JV0FGdjBPLThIcGdaTUZncHQzYkc5QWowWUUxZGZZc0xLbENPSzkzNkw0bkJIV2tWcm9N0gHfAUFVX3lxTE5jWFl2TEN1Yl9nSy1OTDZRS1JWaW1JUDdIbkk3STU2WTd4MklIQnZZUng3dFlSTWtUbFd0ckd5UDJMV0lzS280R3Rzb1JseHo1MWE4dFp3U0NBMkxhSXdJcllWT09PRVlZcnlnd2Z6UGpPMGtINnRzQnEzcUVNWE9TRHE3bXZLZE5LWnhuRkFrZUVmV2hKSWpCRDAtUGVqNlR6cnVlUFEwb0ZlT0lXQUZ2ME8tOEhwZ1pNRmdwdDNiRzlBajBZRTFkZllzTEtsQ09LOTM2TDRuQkhXa1Zyb00?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-06-11T07:58:04.000Z"
+      "publishedAt": "2026-06-12T09:04:41.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT3AwWWlBWjNoeDRwT3NDYWpLMjdVRFh3ME5qVnlPRFRUTGN1ZXE2a3dnbDZaM3RBQ09iQkVMR3Nhd3UwVzh5aFl0Y3hIMWpudmxoclk3cnFLSlJNVVBMMEhhT0llbmVhdmVLUUthUU9GdW12ZWhZUzNmMWs1N3dFamR0RGcyV09Va0tfaTdueENSOGtvWlp3THpyeHA0RjBIVk9na1lCOUJ4bWpndEdkYWw5dDN1eFE2b0JnQThTcnduNjN6Z0wydTVnNFMzTlIyTFVaWXBoMmozSnVn0gHcAUFVX3lxTE5PcDBZaUFaM2h4NHBPc0NhaksyN1VEWHcwTmpWeU9EVFRMY3VlcTZrd2dsNlozdEFDT2JCRUxHc2F3dTBXOHloWXRjeEgxam52bGhyWTdycUtKUk1VUEwwSGFPSWVuZWF2ZUtRS2FRT0Z1bXZlaFlTM2YxazU3d0VqZHREZzJXT1VrS19pN254Q1I4a29aWndMenJ4cDRGMEhWT2drWUI5Qnhtamd0R2RhbDl0M3V4UTZvQmdBOFNyd242M3pnTDJ1NWc0UzNOUjJMVVpZcGgyajNKdWc?oc=5",
+      "title": "12 June Current Affairs: Successful testing of India-assembled C-295 military aircraft; Smriti Mandhana inc... - Bhaskar English",
+      "description": "12 June Current Affairs: Successful testing of India-assembled C-295 military aircraft; Smriti Mandhana inc...&nbsp;&nbsp;Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT3AwWWlBWjNoeDRwT3NDYWpLMjdVRFh3ME5qVnlPRFRUTGN1ZXE2a3dnbDZaM3RBQ09iQkVMR3Nhd3UwVzh5aFl0Y3hIMWpudmxoclk3cnFLSlJNVVBMMEhhT0llbmVhdmVLUUthUU9GdW12ZWhZUzNmMWs1N3dFamR0RGcyV09Va0tfaTdueENSOGtvWlp3THpyeHA0RjBIVk9na1lCOUJ4bWpndEdkYWw5dDN1eFE2b0JnQThTcnduNjN6Z0wydTVnNFMzTlIyTFVaWXBoMmozSnVn0gHcAUFVX3lxTE5PcDBZaUFaM2h4NHBPc0NhaksyN1VEWHcwTmpWeU9EVFRMY3VlcTZrd2dsNlozdEFDT2JCRUxHc2F3dTBXOHloWXRjeEgxam52bGhyWTdycUtKUk1VUEwwSGFPSWVuZWF2ZUtRS2FRT0Z1bXZlaFlTM2YxazU3d0VqZHREZzJXT1VrS19pN254Q1I4a29aWndMenJ4cDRGMEhWT2drWUI5Qnhtamd0R2RhbDl0M3V4UTZvQmdBOFNyd242M3pnTDJ1NWc0UzNOUjJMVVpZcGgyajNKdWc?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-06-12T02:05:35.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiekFVX3lxTE1iVmVzN0NwQWhCeks2aTZ6ZUpwUDJIUUZPZFBZTTE1ZnZXbEEtY3oyS1dNMHVvaEtyWGZ4TW1OMldJTWcyd2NQajQ1QUx6eTB2bDFmVUQ3NjMtNTVKVEZmU1pTOVVZRDg1UFlnWFp2RGMyWTMyNUFhSUtn?oc=5",
+      "title": "Bangladesh, India Strengthen Border Cooperation - GK Today",
+      "description": "Bangladesh, India Strengthen Border Cooperation&nbsp;&nbsp;GK Today",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iVmVzN0NwQWhCeks2aTZ6ZUpwUDJIUUZPZFBZTTE1ZnZXbEEtY3oyS1dNMHVvaEtyWGZ4TW1OMldJTWcyd2NQajQ1QUx6eTB2bDFmVUQ3NjMtNTVKVEZmU1pTOVVZRDg1UFlnWFp2RGMyWTMyNUFhSUtn?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-06-12T10:21:02.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXF5VjdZRUJWWGxPSGNMZVNLaDY0Nmk3eklTNG9YRHRVVlp4M3BrRWNXaVdXYk1GV2pFZm9YVk5oX3JRSHA5aTlWbDZMSzVkdWhhSVBBay1NeUxtRjU1U1p5SXdpdDZ3TXVEdjJxN2c5LXY5M0p0Y0tEYld4dUpHWG5wendMLVlPZ0c0cUtGXzRrc2NWZEpfcTln0gGgAUFVX3lxTE9WdGFCY2JjeHBBNjI1Mm5FMWVaTkR4eURiRUlWaTl0QVhzOU5ENzUxWU5KZUhMeFVnUmktNjBnLTdLc2JIMU5jcUMwY19HNm40aWhLc1RRZ3hOX2dBLUpOTUJnelhlVlNka2I1MmlWdWF6X1JXX2sxQzYxME01NWNzdWpTUEpfZWZaNXh4dllwTVRLTU1obDV2TjgydmJjSko?oc=5",
+      "title": "World’s Largest Whale Graveyard Discovered in Indian Ocean Abyss, Tracking 5-Million-Year History - Jagran Josh",
+      "description": "World’s Largest Whale Graveyard Discovered in Indian Ocean Abyss, Tracking 5-Million-Year History&nbsp;&nbsp;Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXF5VjdZRUJWWGxPSGNMZVNLaDY0Nmk3eklTNG9YRHRVVlp4M3BrRWNXaVdXYk1GV2pFZm9YVk5oX3JRSHA5aTlWbDZMSzVkdWhhSVBBay1NeUxtRjU1U1p5SXdpdDZ3TXVEdjJxN2c5LXY5M0p0Y0tEYld4dUpHWG5wendMLVlPZ0c0cUtGXzRrc2NWZEpfcTln0gGgAUFVX3lxTE9WdGFCY2JjeHBBNjI1Mm5FMWVaTkR4eURiRUlWaTl0QVhzOU5ENzUxWU5KZUhMeFVnUmktNjBnLTdLc2JIMU5jcUMwY19HNm40aWhLc1RRZ3hOX2dBLUpOTUJnelhlVlNka2I1MmlWdWF6X1JXX2sxQzYxME01NWNzdWpTUEpfZWZaNXh4dllwTVRLTU1obDV2TjgydmJjSko?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-06-12T07:03:35.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SWDJKamhTTW1jVFRHYkhRX3RMVUxLSHhsejYtRWx2WEw5U1Zkb2g5NGh2Zm0zeExTbUdNeWVBRWNmUnVWVlBBZHJaX0h0ay1hd3BlZWNrdmhmTjQ?oc=5",
+      "title": "India Didn't Qualify For The FIFA 2026 World Cup, But These 4 Indians Did | Vantage On Firstpost |4K Al Nassar (BFI5RhV1Xt) - Mshale",
+      "description": "India Didn't Qualify For The FIFA 2026 World Cup, But These 4 Indians Did | Vantage On Firstpost |4K Al Nassar (BFI5RhV1Xt)&nbsp;&nbsp;Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SWDJKamhTTW1jVFRHYkhRX3RMVUxLSHhsejYtRWx2WEw5U1Zkb2g5NGh2Zm0zeExTbUdNeWVBRWNmUnVWVlBBZHJaX0h0ay1hd3BlZWNrdmhmTjQ?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-06-12T05:26:42.000Z"
     },
     {
       "id": "current-affairs-https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzJyT3pvdnN6bkNrdnRKUmtZUU02Qy1TOGp5YU82SllMX3AyaUZveDZZd243TjMxT2pjcnBLSFhWc1VoU0VuSXcxdFZObUdyTjlVSnBIN3hhZTFrVFE1Y1RiUnJ4eTJpZVpPR0NHUlpsUy1XRmpfLXlZMFNlMXdjaGFsdTdYQ2c?oc=5",
@@ -192,54 +232,14 @@
       "publishedAt": "2026-06-11T13:33:53.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0wwb3A2V3ZWdkhTQW0yYU5XdEwtdWJTN3hZOGwzYmJWMzJUOHF2RFFGdjM3UWktQ2piN3RmTjVkU0IwWGtoZE8xc0U5U2VYYVNBYk9GSnFDeThIVXZBUExCcEdNTnN6R3BMRW1GM0tqTEVJMGVUbExzLS02dmUtRDhvd3NzX01IRDJHSWlqVDc5QkUtemVsU3FKVjNfSGt4NEV3V0JGbEZ0dFpwZDZvS051Rk9xSDU5NFZYaTh1MkhyeHFNQVpWRE1CQkt5US0zUWJ3bXFyOG10Mno4SktqYQ?oc=5",
-      "title": "School assembly news headlines today- June 12: Top national, sports and world news curated for you - India Today",
-      "description": "School assembly news headlines today- June 12: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM0wwb3A2V3ZWdkhTQW0yYU5XdEwtdWJTN3hZOGwzYmJWMzJUOHF2RFFGdjM3UWktQ2piN3RmTjVkU0IwWGtoZE8xc0U5U2VYYVNBYk9GSnFDeThIVXZBUExCcEdNTnN6R3BMRW1GM0tqTEVJMGVUbExzLS02dmUtRDhvd3NzX01IRDJHSWlqVDc5QkUtemVsU3FKVjNfSGt4NEV3V0JGbEZ0dFpwZDZvS051Rk9xSDU5NFZYaTh1MkhyeHFNQVpWRE1CQkt5US0zUWJ3bXFyOG10Mno4SktqYQ?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMidkFVX3lxTFBLeUthMENLalVCRlBkS2VTaVVod0gxR1U2a1gxSGgyaVFrTGg2Sm94Z1J5eWE0ZV9MRFdvd1lpQ0puS1FIYjlialhWVHVjR0ZlSE0tR3ZYV0xrU3dIVDdVN3p5aTNDUkNUTmZyZUpEekxNal9ZdGc?oc=5",
+      "title": "World Bank Projects India GDP Growth at 6.6% - GK Today",
+      "description": "World Bank Projects India GDP Growth at 6.6%&nbsp;&nbsp;GK Today",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLeUthMENLalVCRlBkS2VTaVVod0gxR1U2a1gxSGgyaVFrTGg2Sm94Z1J5eWE0ZV9MRFdvd1lpQ0puS1FIYjlialhWVHVjR0ZlSE0tR3ZYV0xrU3dIVDdVN3p5aTNDUkNUTmZyZUpEekxNal9ZdGc?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-06-11T12:10:28.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnNBS0JuWF9LWjFjWkEwcVZiQXB4ZVlueDdmNGdmLXZZRXBrTE9tWnNaTUQybDZJektKOUowbkFQTjRDXzBqampSVVRZVW1JUWpTQ1NtdklsWXduandPeElfNFFYM2FYbDFUOTAzX0NmLW5GbkdrZkJRSC1FMU1mOXoyT3NKdU91VVNOSjNhdEhCUlcxWG51UFNTYmtQbkVvdzd6eWpjcExaSmxqSFM4T1d3YzRPVkNubXfSAboBQVVfeXFMT2ZzQUtCblhfS1oxY1pBMHFWYkFweGVZbng3ZjRnZi12WUVwa0xPbVpzWk1EMmw2SXpLSjlKMG5BUE40Q18wampqUlVUWVVtSVFqU0NTbXZJbFl3bmp3T3hJXzRRWDNhWGwxVDkwM19DZi1uRm5Ha2ZCUUgtRTFNZjl6Mk9zSnVPdVVTTkozYXRIQlJXMVhudVBTU2JrUG5Fb3c3enlqY3BMWkpsakhTOE9Xd2M0T1ZDbm13?oc=5",
-      "title": "Boss denied sick leave, woman dies in office: 29-year-old showed medical proof twice before collapsing in w... - Bhaskar English",
-      "description": "Boss denied sick leave, woman dies in office: 29-year-old showed medical proof twice before collapsing in w...&nbsp;&nbsp;Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnNBS0JuWF9LWjFjWkEwcVZiQXB4ZVlueDdmNGdmLXZZRXBrTE9tWnNaTUQybDZJektKOUowbkFQTjRDXzBqampSVVRZVW1JUWpTQ1NtdklsWXduandPeElfNFFYM2FYbDFUOTAzX0NmLW5GbkdrZkJRSC1FMU1mOXoyT3NKdU91VVNOSjNhdEhCUlcxWG51UFNTYmtQbkVvdzd6eWpjcExaSmxqSFM4T1d3YzRPVkNubXfSAboBQVVfeXFMT2ZzQUtCblhfS1oxY1pBMHFWYkFweGVZbng3ZjRnZi12WUVwa0xPbVpzWk1EMmw2SXpLSjlKMG5BUE40Q18wampqUlVUWVVtSVFqU0NTbXZJbFl3bmp3T3hJXzRRWDNhWGwxVDkwM19DZi1uRm5Ha2ZCUUgtRTFNZjl6Mk9zSnVPdVVTTkozYXRIQlJXMVhudVBTU2JrUG5Fb3c3enlqY3BMWkpsakhTOE9Xd2M0T1ZDbm13?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-06-11T08:49:49.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZnV2UGZfUk9iNUhNbUJvdzkxNE9rRzV4LUdzNUcwMFZBZGdKaEF1TjJVYk5hZFU4emlZUTZwa3ZqQWlqRDQyM0JxVUZvS3FmQjAzSmNwc2IwMVlDcXRqdnJaVWp5SU1FV0Q2QkFtYm9iSDdFRnFfOHZkSXJlWjVBTFVWWlRwc19GclJhMVRVNTZFY2tOWVhGQnY0dl9ZdklTU0NmQS1vWFdXT2ZLVjQtb0RiVFhMalc0T0xPc0x1NHZkQ3Jub0dMNHBrS1I3aXB2Z2NaOTVfUUx1azjSAeABQVVfeXFMTXBEZmY3NHdoNG1DaDNiR2F3cmE0NnZiVy1JUjRFNURHUlhGOXZXU2wyRUlxeC0ydV92dEY1bVU4MDN3eWo3U0VFU1l0ZVJ5TDBMWlhtRlpKUHIyZFZKNm11dVBJZndwU3RGT2duYUZaM2YzVnFVem8wU25GY1lIWGhCb0ptYmtUMlBzQnpIY1JhemFBTFRfalZldXItYThsUHdxb1BXdVdwU1dYb0R5TzhXeWtMZ2FsZDg0Y1JSS21ndW9fbjNyMG96WWpSeGU2NXhFUjlOZXU5QlFJQXUzWEs?oc=5",
-      "title": "11 June Current Affairs: Reliance and Meta to build India’s first AI data centre; Srishti Kiran becomes wor... - Bhaskar English",
-      "description": "11 June Current Affairs: Reliance and Meta to build India’s first AI data centre; Srishti Kiran becomes wor...&nbsp;&nbsp;Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZnV2UGZfUk9iNUhNbUJvdzkxNE9rRzV4LUdzNUcwMFZBZGdKaEF1TjJVYk5hZFU4emlZUTZwa3ZqQWlqRDQyM0JxVUZvS3FmQjAzSmNwc2IwMVlDcXRqdnJaVWp5SU1FV0Q2QkFtYm9iSDdFRnFfOHZkSXJlWjVBTFVWWlRwc19GclJhMVRVNTZFY2tOWVhGQnY0dl9ZdklTU0NmQS1vWFdXT2ZLVjQtb0RiVFhMalc0T0xPc0x1NHZkQ3Jub0dMNHBrS1I3aXB2Z2NaOTVfUUx1azjSAeABQVVfeXFMTXBEZmY3NHdoNG1DaDNiR2F3cmE0NnZiVy1JUjRFNURHUlhGOXZXU2wyRUlxeC0ydV92dEY1bVU4MDN3eWo3U0VFU1l0ZVJ5TDBMWlhtRlpKUHIyZFZKNm11dVBJZndwU3RGT2duYUZaM2YzVnFVem8wU25GY1lIWGhCb0ptYmtUMlBzQnpIY1JhemFBTFRfalZldXItYThsUHdxb1BXdVdwU1dYb0R5TzhXeWtMZ2FsZDg0Y1JSS21ndW9fbjNyMG96WWpSeGU2NXhFUjlOZXU5QlFJQXUzWEs?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-06-11T02:54:34.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTNCMjNLLWJTcDNIOUJYa0gyWFBxZjZ2d3RfZU1sZkhvalNuYXo0WDlUanhMMFM0QkVGd1BNT1B5REoxSHRKb1RJOXJrWHdpaHlFYzIzNERnU21NVDl3NUxoZktUUGdWWnpMOHFiSDVzdV9VQkg3NXZlN3FPZGptdV9iZy0?oc=5",
-      "title": "More Than Reactors: The Russia-Iran $25 Billion Signal - Goa Chronicle",
-      "description": "More Than Reactors: The Russia-Iran $25 Billion Signal&nbsp;&nbsp;Goa Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTNCMjNLLWJTcDNIOUJYa0gyWFBxZjZ2d3RfZU1sZkhvalNuYXo0WDlUanhMMFM0QkVGd1BNT1B5REoxSHRKb1RJOXJrWHdpaHlFYzIzNERnU21NVDl3NUxoZktUUGdWWnpMOHFiSDVzdV9VQkg3NXZlN3FPZGptdV9iZy0?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-06-11T04:41:11.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZW5KSWd4Ukc2emlxclY4azVuekRFVU9FYi1ZZG5rTzNzeXhoamhtaW4tN3VTSjBkaXZYcFQ0MjFjUkZWckVvYzRZd1dLXzdxdGlHU3BKOGNUTjBXcm1QUWZPMWtYQlh2eFhvNEZiS3ZHVE5vSmlSU04yTGxTSFhtS3Y4MTZ1ckRvTVE3SEJKb2FZYjVsMnc3V1lzRV83QWZmQkQ0MHhwNDZsZkRrQ1JMb1dzN2hJazlPazM5ZUVqV3kzelXSAcMBQVVfeXFMTmVuSklneFJHNnppcXJWOGs1bnpERVVPRWItWWRua08zc3l4aGpobWluLTd1U0owZGl2WHBUNDIxY1JGVnJFb2M0WXdXS183cXRpR1NwSjhjVE4wV3JtUFFmTzFrWEJYdnhYbzRGYkt2R1ROb0ppUlNOMkxsU0hYbUt2ODE2dXJEb01RN0hCSm9hWWI1bDJ3N1dZc0VfN0FmZkJENDB4cDQ2bGZEa0NSTG9XczdoSWs5T2szOWVFald5M3pV?oc=5",
-      "title": "Busan to host 48th session of UNESCO World Heritage Committee - Onmanorama",
-      "description": "Busan to host 48th session of UNESCO World Heritage Committee&nbsp;&nbsp;Onmanorama",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZW5KSWd4Ukc2emlxclY4azVuekRFVU9FYi1ZZG5rTzNzeXhoamhtaW4tN3VTSjBkaXZYcFQ0MjFjUkZWckVvYzRZd1dLXzdxdGlHU3BKOGNUTjBXcm1QUWZPMWtYQlh2eFhvNEZiS3ZHVE5vSmlSU04yTGxTSFhtS3Y4MTZ1ckRvTVE3SEJKb2FZYjVsMnc3V1lzRV83QWZmQkQ0MHhwNDZsZkRrQ1JMb1dzN2hJazlPazM5ZUVqV3kzelXSAcMBQVVfeXFMTmVuSklneFJHNnppcXJWOGs1bnpERVVPRWItWWRua08zc3l4aGpobWluLTd1U0owZGl2WHBUNDIxY1JGVnJFb2M0WXdXS183cXRpR1NwSjhjVE4wV3JtUFFmTzFrWEJYdnhYbzRGYkt2R1ROb0ppUlNOMkxsU0hYbUt2ODE2dXJEb01RN0hCSm9hWWI1bDJ3N1dZc0VfN0FmZkJENDB4cDQ2bGZEa0NSTG9XczdoSWs5T2szOWVFald5M3pV?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-06-11T11:53:57.000Z"
+      "publishedAt": "2026-06-11T16:15:02.000Z"
     }
   ]
 }
