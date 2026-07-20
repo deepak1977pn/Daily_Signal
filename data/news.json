@@ -1,165 +1,245 @@
 {
-  "updatedAt": "2026-07-19T04:02:01.949Z",
+  "updatedAt": "2026-07-20T04:11:46.334Z",
   "articles": [
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMixAFBVV95cUxOdW5odlVabV94b2xZVTBydjBtRnFQT2QwQ2hrMmRiQ1huNE1LVTItNmQxTndsX0pheW9Ed2xOajRCWXM2clB3aXNRdHlEOXV0TnU1YU14U3Y4Z2RHczhacnVXcnl6ZnBwNEFKRFBrSnhEd1Y2aGNCT0xVQThualpvUUZHbC1IX1dnWTU5WkRsVThaLV9tQjRiSWFmeEVReW1UdWRuTUx4WDNKc2RXZFN3YXNaRFhRY05wRV9nWlRGc3lzT0xw?oc=5",
-      "title": "Engines That Think: How Artificial Intelligence is Powering the Next Revolution in Aircraft Propulsion - LPU",
-      "description": "Engines That Think: How Artificial Intelligence is Powering the Next Revolution in Aircraft Propulsion&nbsp;&nbsp;LPU",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdW5odlVabV94b2xZVTBydjBtRnFQT2QwQ2hrMmRiQ1huNE1LVTItNmQxTndsX0pheW9Ed2xOajRCWXM2clB3aXNRdHlEOXV0TnU1YU14U3Y4Z2RHczhacnVXcnl6ZnBwNEFKRFBrSnhEd1Y2aGNCT0xVQThualpvUUZHbC1IX1dnWTU5WkRsVThaLV9tQjRiSWFmeEVReW1UdWRuTUx4WDNKc2RXZFN3YXNaRFhRY05wRV9nWlRGc3lzT0xw?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMijwFBVV95cUxQcktxWjdPSlRfMC1yWERxNTFXOERrU0Fxd2pCMHFwbjhRblJGdEpaMXpQYklEb0Y4Y19kUjc2ZVpMNWdxTHFtQUttMUpPMDFjTzhhYjdGaEtpUkR3WmxsSGVCWXRuY083dmZlaVVhLW55WWM1dXB0dDVMRnVlXzJib2xBSG1DbGxvMEFRSDFTUQ?oc=5",
+      "title": "Artificial Intelligence (AI) in Threat Intelligence: How It Transforms Modern Cybersecurity - CloudSEK",
+      "description": "Artificial Intelligence (AI) in Threat Intelligence: How It Transforms Modern Cybersecurity&nbsp;&nbsp;CloudSEK",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcktxWjdPSlRfMC1yWERxNTFXOERrU0Fxd2pCMHFwbjhRblJGdEpaMXpQYklEb0Y4Y19kUjc2ZVpMNWdxTHFtQUttMUpPMDFjTzhhYjdGaEtpUkR3WmxsSGVCWXRuY083dmZlaVVhLW55WWM1dXB0dDVMRnVlXzJib2xBSG1DbGxvMEFRSDFTUQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-07-18T12:06:11.000Z"
+      "publishedAt": "2026-07-19T18:30:32.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMib0FVX3lxTFA3TWFkOHZLUGQzMGV4WjdvUVBjQUE4MGZmQXA1Z2RkM1BPZFd1X1JuX1pLZ1VjQkIweVJhMk5SUXpFWncwbHVIelloSmFDcWh6azVaZ1ZKX2ptNDZ5VHVwaHBWcjk5U1NFZFB3UkZGYw?oc=5",
-      "title": "3rd Symposium “Artificial Intelligence in Public Health Research” - Oncodaily",
-      "description": "3rd Symposium “Artificial Intelligence in Public Health Research”&nbsp;&nbsp;Oncodaily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3TWFkOHZLUGQzMGV4WjdvUVBjQUE4MGZmQXA1Z2RkM1BPZFd1X1JuX1pLZ1VjQkIweVJhMk5SUXpFWncwbHVIelloSmFDcWh6azVaZ1ZKX2ptNDZ5VHVwaHBWcjk5U1NFZFB3UkZGYw?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMikwFBVV95cUxOS256RTBsT0lHUWR3QkxoMml2U1QyUS1SVS1mQXlZd3ZaUldGSWwyMGxhdHYxYTFycC1ET19Xc1RvaTg0X2JOV1NxVUN4QXhBNHZWY3ppQ1o5cVhBZ1FPcGQ2UXljTWFjVW9zN05DdUZPUXU3X0tkMHN2NXM0a0NJWE45bVdTbXp4U3ZLenFZNTVMNzQ?oc=5",
+      "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI - UNESCO",
+      "description": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI&nbsp;&nbsp;UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS256RTBsT0lHUWR3QkxoMml2U1QyUS1SVS1mQXlZd3ZaUldGSWwyMGxhdHYxYTFycC1ET19Xc1RvaTg0X2JOV1NxVUN4QXhBNHZWY3ppQ1o5cVhBZ1FPcGQ2UXljTWFjVW9zN05DdUZPUXU3X0tkMHN2NXM0a0NJWE45bVdTbXp4U3ZLenFZNTVMNzQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-07-18T17:27:18.000Z"
+      "publishedAt": "2026-07-20T00:28:32.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LZlJqWUwxNXlzbDZSR3BaSFBySmVIQ2hHMl81OXlLQ0hpSVc2SWlsbVBFSnV5cWlveWF2RmNodXdFbndmMC11SktvRnRDQkRhRzdPZ3lnNS1MdTQ4TzFtM1p3?oc=5",
-      "title": "Kenya launches AI-powered coding competition for schoolchildren - Global Times",
-      "description": "Kenya launches AI-powered coding competition for schoolchildren&nbsp;&nbsp;Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LZlJqWUwxNXlzbDZSR3BaSFBySmVIQ2hHMl81OXlLQ0hpSVc2SWlsbVBFSnV5cWlveWF2RmNodXdFbndmMC11SktvRnRDQkRhRzdPZ3lnNS1MdTQ4TzFtM1p3?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUtXbWZ6MnktajJXazg1N21oLXp5ZGxhcFo5c1RNVmlibXZkYmpjWm1DN2NvZmsyc0p3NklOdW5PSTlaRUVoVnFiQUo0SmtBSjNJeGdwRi1jS1pMOEp1ZkhwQnlOc3JQbjRlSUo4MFRkOS1DeWJLRmNiRWZqN2ZUc2FJTmNabDRzODdVdjhrVUNHZGZvT0FZUjF0Q0NKczRSSDVDSzh4aFJsNFJGMDNoSEJFY2VxczM1dGh3Z25n?oc=5",
+      "title": "AI-powered target identification: How machine learning is finding new drug targets - Drug Discovery News",
+      "description": "AI-powered target identification: How machine learning is finding new drug targets&nbsp;&nbsp;Drug Discovery News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUtXbWZ6MnktajJXazg1N21oLXp5ZGxhcFo5c1RNVmlibXZkYmpjWm1DN2NvZmsyc0p3NklOdW5PSTlaRUVoVnFiQUo0SmtBSjNJeGdwRi1jS1pMOEp1ZkhwQnlOc3JQbjRlSUo4MFRkOS1DeWJLRmNiRWZqN2ZUc2FJTmNabDRzODdVdjhrVUNHZGZvT0FZUjF0Q0NKczRSSDVDSzh4aFJsNFJGMDNoSEJFY2VxczM1dGh3Z25n?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-07-19T01:42:00.000Z"
+      "publishedAt": "2026-07-19T11:36:02.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMinwFBVV95cUxORlJMeVlCUmhNTWtpRmRhTG94SDJES2Z4aHkyR1RseURSblZZalBlMXhKNFhWYzAzQk1Sc2FvMVhTdEVLTDYtMW84aUxpREJLcHRQYzNScVVvNl9KSzVka1ZXNlhXU01TMkpEYTRFT08xb2pkRUNKLXVrSlcwTlEtU2V5WTNBYV9OMTZuSUxSdGF4N2M4dFFFbW9NVXNUTnfSAZ8BQVVfeXFMTkZSTHlZQlJoTU1raUZkYUxveEgyREtmeGh5MkdUbHlEUm5WWWpQZTF4SjRYVmMwM0JNUnNhbzFYU3RFS0w2LTFvOGlMaURCS3B0UGMzUnFVbzZfSks1ZGtWVzZYV1NNUzJKRGE0RU9PMW9qZEVDSi11a0pXME5RLVNleVkzQWFfTjE2bklMUnRheDdjOHRRRW1vTVVzVE53?oc=5",
-      "title": "NIELIT-AI training programme concludes at Udhampur campus of JU - Daily Excelsior",
-      "description": "NIELIT-AI training programme concludes at Udhampur campus of JU&nbsp;&nbsp;Daily Excelsior",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlJMeVlCUmhNTWtpRmRhTG94SDJES2Z4aHkyR1RseURSblZZalBlMXhKNFhWYzAzQk1Sc2FvMVhTdEVLTDYtMW84aUxpREJLcHRQYzNScVVvNl9KSzVka1ZXNlhXU01TMkpEYTRFT08xb2pkRUNKLXVrSlcwTlEtU2V5WTNBYV9OMTZuSUxSdGF4N2M4dFFFbW9NVXNUTnfSAZ8BQVVfeXFMTkZSTHlZQlJoTU1raUZkYUxveEgyREtmeGh5MkdUbHlEUm5WWWpQZTF4SjRYVmMwM0JNUnNhbzFYU3RFS0w2LTFvOGlMaURCS3B0UGMzUnFVbzZfSks1ZGtWVzZYV1NNUzJKRGE0RU9PMW9qZEVDSi11a0pXME5RLVNleVkzQWFfTjE2bklMUnRheDdjOHRRRW1vTVVzVE53?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMie0FVX3lxTE9PcU5HSXVKNGlJOVJUMVU3bmZGbHFlbjFieEcwNmh5ODJxZDVseUVSb1VRTmpOWGZoMW5RRkMzY1hLSVdIU1F3OUZUbm1EdGNOYVBhNTd0QnNGU29sZ1djRjAweGtpSk51eXdQbG5nRzhPbW9mZVRfWWY3RQ?oc=5",
+      "title": "Charting a Responsible Course for AI - Pharmacy Times",
+      "description": "Charting a Responsible Course for AI&nbsp;&nbsp;Pharmacy Times",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PcU5HSXVKNGlJOVJUMVU3bmZGbHFlbjFieEcwNmh5ODJxZDVseUVSb1VRTmpOWGZoMW5RRkMzY1hLSVdIU1F3OUZUbm1EdGNOYVBhNTd0QnNGU29sZ1djRjAweGtpSk51eXdQbG5nRzhPbW9mZVRfWWY3RQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-07-18T23:22:39.000Z"
+      "publishedAt": "2026-07-19T14:48:00.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2FsSDdtaW5xR290NFRpWEFieG5ubC01bnN3RnpWVkN4YXVOdmk5NFVVOG1FTXJjM3htYjN4bS1LWkJKQ3BJMEdWcWNUc19mMm15S2NEdUEtQVd0cUxVemZjUTZLbXBWeFpaNXRERk9xZklIa0xIaFo0M3dMTzhhUnhIbzRYb0pxVHJHLURNZ2ZNQ2RTVkFNanVaWjhzNC0xay1TTjhB?oc=5",
-      "title": "Mathematics in Everyday Life: From Weather Forecasts to Artificial Intelligence - LPU",
-      "description": "Mathematics in Everyday Life: From Weather Forecasts to Artificial Intelligence&nbsp;&nbsp;LPU",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2FsSDdtaW5xR290NFRpWEFieG5ubC01bnN3RnpWVkN4YXVOdmk5NFVVOG1FTXJjM3htYjN4bS1LWkJKQ3BJMEdWcWNUc19mMm15S2NEdUEtQVd0cUxVemZjUTZLbXBWeFpaNXRERk9xZklIa0xIaFo0M3dMTzhhUnhIbzRYb0pxVHJHLURNZ2ZNQ2RTVkFNanVaWjhzNC0xay1TTjhB?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5",
+      "title": "20 New Technology Trends for 2026 | Emerging Technologies 2026 - Simplilearn.com",
+      "description": "20 New Technology Trends for 2026 | Emerging Technologies 2026&nbsp;&nbsp;Simplilearn.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-07-18T11:18:41.000Z"
+      "publishedAt": "2026-07-19T10:30:00.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jdUctcjdNNXNxS2hOT0xwdkZ3RnhQelNhUnBQa0ZHd3BtdmVxZVlxX2dPTEZwWjRPRXhOQWM4ODRudHFhMmFVaDNEeHA0WmFvZGVhX1FxaFhFZjdDbVVTWg?oc=5",
-      "title": "AI & ML Full Course 2026 | Complete Artificial Intelligence And Machine Learning Tutorial | Edureka Great Wall Of China (E67fXLBxDu) - Mshale",
-      "description": "AI & ML Full Course 2026 | Complete Artificial Intelligence And Machine Learning Tutorial | Edureka Great Wall Of China (E67fXLBxDu)&nbsp;&nbsp;Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jdUctcjdNNXNxS2hOT0xwdkZ3RnhQelNhUnBQa0ZHd3BtdmVxZVlxX2dPTEZwWjRPRXhOQWM4ODRudHFhMmFVaDNEeHA0WmFvZGVhX1FxaFhFZjdDbVVTWg?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWhOdmozMnd2VlVjUGZDSFAybjdQUTR5WEZPME90RXdpYkprSWxGQzBJVHUwOXYxMWxER3dpU3l2Z2VpcC16a3JNUDdCb2tuS29razBLdXlQeVFnOXZqVFN4ZjJWQ1RxczQyNThGd0ZWZkJGejVtaXgtY2EtTjBxQmpaeThxenRoYWtvZkQxSko?oc=5",
+      "title": "ASEAN Manufacturers Poised to Unlock US$1.2 Tril AI Growth Opportunity - SME & Entrepreneurship Magazine",
+      "description": "ASEAN Manufacturers Poised to Unlock US$1.2 Tril AI Growth Opportunity&nbsp;&nbsp;SME & Entrepreneurship Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWhOdmozMnd2VlVjUGZDSFAybjdQUTR5WEZPME90RXdpYkprSWxGQzBJVHUwOXYxMWxER3dpU3l2Z2VpcC16a3JNUDdCb2tuS29razBLdXlQeVFnOXZqVFN4ZjJWQ1RxczQyNThGd0ZWZkJGejVtaXgtY2EtTjBxQmpaeThxenRoYWtvZkQxSko?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-07-18T20:31:55.000Z"
+      "publishedAt": "2026-07-20T03:23:51.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lVzBXeDFmWFk0cUdpTnZzLXFwYkV2elh4bXMxNFhxai1jcmtHNl9xbEdWX0VESXNQcmpRM2trcldVNWVkblJmVVJlUDB1YmNIMExDbmFHYXluUkdLbi1n?oc=5",
-      "title": "Integrating omics and artificial intelligence in pediatric environmental health: tools, challenges, and cohort-based insights - Nature",
-      "description": "Integrating omics and artificial intelligence in pediatric environmental health: tools, challenges, and cohort-based insights&nbsp;&nbsp;Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lVzBXeDFmWFk0cUdpTnZzLXFwYkV2elh4bXMxNFhxai1jcmtHNl9xbEdWX0VESXNQcmpRM2trcldVNWVkblJmVVJlUDB1YmNIMExDbmFHYXluUkdLbi1n?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMikAJBVV95cUxNUEZicVB3T1dyVFhqZWJvTUZfTzFaTk1XS1ItUkdTb01ac0pQbHlfY0FkMTJ1UTE2UTA3M1Q5YWs3M1V0LW9majNjaUcxZkR4Mkw1TG5MZDZFdUxOeVY1QWFsZXV3bkV0NUhJajBxNGxMRE9kYUtvWVZNSlF6c0drQ3d6b25QMlN1bjJRaFNFZ2lkaktUZ1FvYk9MRUxOMmxHWUtieHBzUEJSLTB2bUtvQ1ZfX3c1ZmxBblJWN2RVOWlKYjNSSGh3WlZ2ZmdIOUxFYk5EaUx1ajlON0MzQmU4ZThqTE9NNnlpQlVBMjk2Z201V0U5cjJraks5bTc1bjR4dEV2LW9fN0psbG9FZlkyZdIBkAJBVV95cUxNUEZicVB3T1dyVFhqZWJvTUZfTzFaTk1XS1ItUkdTb01ac0pQbHlfY0FkMTJ1UTE2UTA3M1Q5YWs3M1V0LW9majNjaUcxZkR4Mkw1TG5MZDZFdUxOeVY1QWFsZXV3bkV0NUhJajBxNGxMRE9kYUtvWVZNSlF6c0drQ3d6b25QMlN1bjJRaFNFZ2lkaktUZ1FvYk9MRUxOMmxHWUtieHBzUEJSLTB2bUtvQ1ZfX3c1ZmxBblJWN2RVOWlKYjNSSGh3WlZ2ZmdIOUxFYk5EaUx1ajlON0MzQmU4ZThqTE9NNnlpQlVBMjk2Z201V0U5cjJraks5bTc1bjR4dEV2LW9fN0psbG9FZlkyZQ?oc=5",
+      "title": "EAM Jaishankar meets Zanzibar President; discusses expanding cooperation in education, AI, digital sectors - ET Education",
+      "description": "EAM Jaishankar meets Zanzibar President; discusses expanding cooperation in education, AI, digital sectors&nbsp;&nbsp;ET Education",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUEZicVB3T1dyVFhqZWJvTUZfTzFaTk1XS1ItUkdTb01ac0pQbHlfY0FkMTJ1UTE2UTA3M1Q5YWs3M1V0LW9majNjaUcxZkR4Mkw1TG5MZDZFdUxOeVY1QWFsZXV3bkV0NUhJajBxNGxMRE9kYUtvWVZNSlF6c0drQ3d6b25QMlN1bjJRaFNFZ2lkaktUZ1FvYk9MRUxOMmxHWUtieHBzUEJSLTB2bUtvQ1ZfX3c1ZmxBblJWN2RVOWlKYjNSSGh3WlZ2ZmdIOUxFYk5EaUx1ajlON0MzQmU4ZThqTE9NNnlpQlVBMjk2Z201V0U5cjJraks5bTc1bjR4dEV2LW9fN0psbG9FZlkyZdIBkAJBVV95cUxNUEZicVB3T1dyVFhqZWJvTUZfTzFaTk1XS1ItUkdTb01ac0pQbHlfY0FkMTJ1UTE2UTA3M1Q5YWs3M1V0LW9majNjaUcxZkR4Mkw1TG5MZDZFdUxOeVY1QWFsZXV3bkV0NUhJajBxNGxMRE9kYUtvWVZNSlF6c0drQ3d6b25QMlN1bjJRaFNFZ2lkaktUZ1FvYk9MRUxOMmxHWUtieHBzUEJSLTB2bUtvQ1ZfX3c1ZmxBblJWN2RVOWlKYjNSSGh3WlZ2ZmdIOUxFYk5EaUx1ajlON0MzQmU4ZThqTE9NNnlpQlVBMjk2Z201V0U5cjJraks5bTc1bjR4dEV2LW9fN0psbG9FZlkyZQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-07-18T06:25:10.000Z"
+      "publishedAt": "2026-07-20T01:32:35.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMioAFBVV95cUxOYThWaTRpdlB3dnBIWXhvZXJ4WXN1ZUlOVkpXdjM4dGdKb2pRLXFPN2g5aEJRZXNTRFdpZFhPczFId1VIZk44NHd4WDhlZjA1Sy1pdlhaeWVqMFFjRXM4RWpsY1h5aGxaVTBSd1BJUzM3cVluVHdfYzhzZ1NLR0hibDBGNV9MOHFjYnZvMk1SSkFIOVBpLUU1YW9wZTYxSjRG?oc=5",
-      "title": "PM Modi calls for developing collective resolve of AI for global common good at ongoing India AI Impact Summit - News On AIR",
-      "description": "PM Modi calls for developing collective resolve of AI for global common good at ongoing India AI Impact Summit&nbsp;&nbsp;News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYThWaTRpdlB3dnBIWXhvZXJ4WXN1ZUlOVkpXdjM4dGdKb2pRLXFPN2g5aEJRZXNTRFdpZFhPczFId1VIZk44NHd4WDhlZjA1Sy1pdlhaeWVqMFFjRXM4RWpsY1h5aGxaVTBSd1BJUzM3cVluVHdfYzhzZ1NLR0hibDBGNV9MOHFjYnZvMk1SSkFIOVBpLUU1YW9wZTYxSjRG?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3BKemRxU0hZMFYxUzJYcExsd2NPMmVkTml3bTNWdUJNWFpZNTFsZFRybmZtdk8taDBzVXVjRWVjVWZNLTBZV3RuaVJsbmxuMXVhLWpwUUJwTmRYNEwxQXliOWdTZHdYWGJvTlJTcVZ6NmlOOXpwTDdBSEh2ZXFYQVA5Yi1sQVJjZnpva1pTNjV0Y05hTWRkdkotTEkyQm9kbmpQR2YyVTFWT1UtUzFyZW5DdE4zUUo0WFhfUFF3OV9MdzNOQnVibTJSOFljbEIw0gHWAUFVX3lxTE5MOVdCZzdnUVEyRHR2dEpRX2hWUktGM09nenplLTBHcEpHcmJOaWRkS2U1dzRONGNZZndQLW55eUF5OTlwUmNBTkJIUWZld3VjWlc4QkVoekxoOGwzbDN2OS05OEtJcXNXTUxYN0E5dWlreEJsaGtkekl0T0FjVmFQUEtuaDU2S2x3UFdqRURVQklxUktQem5OUWNnRzN4YXd3bVVodDZJMGR3VU15QWduV1JPUmdpaEIzQ29ZWFBOV3lnNXlGejRsV3dUNVZ0RXdrM3lLRWc?oc=5",
+      "title": "Humanoid Robots steal the show at Shanghai AI conference | Future of Artificial Intelligence - WION",
+      "description": "Humanoid Robots steal the show at Shanghai AI conference | Future of Artificial Intelligence&nbsp;&nbsp;WION",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3BKemRxU0hZMFYxUzJYcExsd2NPMmVkTml3bTNWdUJNWFpZNTFsZFRybmZtdk8taDBzVXVjRWVjVWZNLTBZV3RuaVJsbmxuMXVhLWpwUUJwTmRYNEwxQXliOWdTZHdYWGJvTlJTcVZ6NmlOOXpwTDdBSEh2ZXFYQVA5Yi1sQVJjZnpva1pTNjV0Y05hTWRkdkotTEkyQm9kbmpQR2YyVTFWT1UtUzFyZW5DdE4zUUo0WFhfUFF3OV9MdzNOQnVibTJSOFljbEIw0gHWAUFVX3lxTE5MOVdCZzdnUVEyRHR2dEpRX2hWUktGM09nenplLTBHcEpHcmJOaWRkS2U1dzRONGNZZndQLW55eUF5OTlwUmNBTkJIUWZld3VjWlc4QkVoekxoOGwzbDN2OS05OEtJcXNXTUxYN0E5dWlreEJsaGtkekl0T0FjVmFQUEtuaDU2S2x3UFdqRURVQklxUktQem5OUWNnRzN4YXd3bVVodDZJMGR3VU15QWduV1JPUmdpaEIzQ29ZWFBOV3lnNXlGejRsV3dUNVZ0RXdrM3lLRWc?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-07-18T07:21:07.000Z"
+      "publishedAt": "2026-07-19T11:27:00.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiiwFBVV95cUxONy1zS0tVWm1QbUNkd1ZfVjRPZnMzblNHeTdwMkllcHpHbWUwUFFMaVctS0VCMlRDSHJ6SnFtV1Fwbmg2SVpVYnFnRWVaZ3lFUmNkVmg4QTdwM1BveEV5QVNHV1ZlQ25wak9OcWVrTllJdS1EVHVSemk5cmU0b2hxdHE1MU1Sa0xFOEtV?oc=5",
-      "title": "UPSC Prelims Current Affairs for 18 July 2026 - Vajiram & Ravi",
-      "description": "UPSC Prelims Current Affairs for 18 July 2026&nbsp;&nbsp;Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONy1zS0tVWm1QbUNkd1ZfVjRPZnMzblNHeTdwMkllcHpHbWUwUFFMaVctS0VCMlRDSHJ6SnFtV1Fwbmg2SVpVYnFnRWVaZ3lFUmNkVmg4QTdwM1BveEV5QVNHV1ZlQ25wak9OcWVrTllJdS1EVHVSemk5cmU0b2hxdHE1MU1Sa0xFOEtV?oc=5",
+      "id": "tech-https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "description": "Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566\nComments URL: https://news.ycombinator.com/item?id=48973869\nPoints: 56\n# Comments: 9",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-20T02:51:16.000Z"
+    },
+    {
+      "id": "tech-https://github.com/hgaiser/moonshine",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "description": "Article URL: https://github.com/hgaiser/moonshine\nComments URL: https://news.ycombinator.com/item?id=48972970\nPoints: 22\n# Comments: 10",
+      "url": "https://github.com/hgaiser/moonshine",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-20T00:16:50.000Z"
+    },
+    {
+      "id": "tech-https://github.com/Pedroshakoor/grok-build-ios",
+      "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+      "description": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 10\n# Comments: 0",
+      "url": "https://github.com/Pedroshakoor/grok-build-ios",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-19T21:51:26.000Z"
+    },
+    {
+      "id": "tech-https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "description": "Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer\nComments URL: https://news.ycombinator.com/item?id=48971938\nPoints: 48\n# Comments: 8",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-19T21:42:12.000Z"
+    },
+    {
+      "id": "tech-https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "description": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study\nComments URL: https://news.ycombinator.com/item?id=48971738\nPoints: 300\n# Comments: 168",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-19T21:18:10.000Z"
+    },
+    {
+      "id": "tech-https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "description": "Article URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html\nComments URL: https://news.ycombinator.com/item?id=48971566\nPoints: 61\n# Comments: 45",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-19T20:50:42.000Z"
+    },
+    {
+      "id": "tech-https://orionbrowser.com/",
+      "title": "Orion Browser by Kagi",
+      "description": "Article URL: https://orionbrowser.com/\nComments URL: https://news.ycombinator.com/item?id=48970894\nPoints: 92\n# Comments: 79",
+      "url": "https://orionbrowser.com/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-19T19:13:29.000Z"
+    },
+    {
+      "id": "tech-https://justsomebody.dev/blog/mikrotik-home-router",
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "description": "Article URL: https://justsomebody.dev/blog/mikrotik-home-router\nComments URL: https://news.ycombinator.com/item?id=48970772\nPoints: 78\n# Comments: 65",
+      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-07-19T18:57:01.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVFlTmEyWWV3aEMxWVVYRUljRUtTMXpzLUZ4V3VFQ0JpSWlUaHZ2QmhTcHFqUEt6akZJXzFIdEJOLXdvTFdrY1BOMUwzRlJiVG9qQUo2LUFTeWppYnlvdmJvSWNoY1E3ekFGak9mX0tPVFZXVmZ4RVFhX3J4LUMwVkpZVGtseUN5Wkx6SmljblV1M251eGtRLVFhNEhNSFZTRlRUYW5FelkyRHd1aHlsOEJGamhxMk53N1hvVFFPUlEzc2Eya0N2QWg5S0RRX2VSM1BzNHVhZ2JaU0ZjRklGUmZIVXXSAeoBQVVfeXFMTXdpWmRiQkRyVWg2ekV4bW1Vblpqb3l1WXNXLTBYRlk3WF9vczR2M3ZtUHNwQ1dLSC1oNXc4VWNrdFhZNWdxTENlQ3hJb0Y5R0Y5NXY2bXlEeVNlY3J1ay1hRVVEOGl6NGlQcUNLeVl0TkxXNE0xd2dpMjVjaldPWURDeDNPUnVqRzNNYXFRRFdXeS1jQ2ZwTmxUeWt4Yl9vT1FOSXQ3WFYxNERIc2k1UWZwRERDd2Y1aDBoRFd2NThFczRIOFZjeURZUzhDNm02UXhzdkNKM2UzdUdVZnB3bzFmd2EwdHdQUXN3?oc=5",
+      "title": "Weekly current affairs: India's hydrogen train, Skyroot's space milestone and more - The Times of India",
+      "description": "Weekly current affairs: India's hydrogen train, Skyroot's space milestone and more&nbsp;&nbsp;The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVFlTmEyWWV3aEMxWVVYRUljRUtTMXpzLUZ4V3VFQ0JpSWlUaHZ2QmhTcHFqUEt6akZJXzFIdEJOLXdvTFdrY1BOMUwzRlJiVG9qQUo2LUFTeWppYnlvdmJvSWNoY1E3ekFGak9mX0tPVFZXVmZ4RVFhX3J4LUMwVkpZVGtseUN5Wkx6SmljblV1M251eGtRLVFhNEhNSFZTRlRUYW5FelkyRHd1aHlsOEJGamhxMk53N1hvVFFPUlEzc2Eya0N2QWg5S0RRX2VSM1BzNHVhZ2JaU0ZjRklGUmZIVXXSAeoBQVVfeXFMTXdpWmRiQkRyVWg2ekV4bW1Vblpqb3l1WXNXLTBYRlk3WF9vczR2M3ZtUHNwQ1dLSC1oNXc4VWNrdFhZNWdxTENlQ3hJb0Y5R0Y5NXY2bXlEeVNlY3J1ay1hRVVEOGl6NGlQcUNLeVl0TkxXNE0xd2dpMjVjaldPWURDeDNPUnVqRzNNYXFRRFdXeS1jQ2ZwTmxUeWt4Yl9vT1FOSXQ3WFYxNERIc2k1UWZwRERDd2Y1aDBoRFd2NThFczRIOFZjeURZUzhDNm02UXhzdkNKM2UzdUdVZnB3bzFmd2EwdHdQUXN3?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-07-18T06:54:14.000Z"
+      "publishedAt": "2026-07-19T11:34:00.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM09FaTVMcVJISTZRelVXM1RCMFVOeWZuZnBNYmpKU0RTaWh5ODBPRjFiZ3gxbDd4aU5qR25aaC1NRFUtZ2ZqaE5TVHNoaVZUanZoaFZFZDc4dGJOeEg4REx5cHFqUzlBX1gyV2VhMTYyNDNSd1lqSnhYcWVIZEJCcEJVYW5NcjA3eW1UR2xVMTBFTzZBN0FMalhJdGFQNFVZcldOd2RuODBBZko0cmlLNDVXczlWOWl6RHBPWW1JZ2dONks2RlFSeGIwb1hpRW1VQXEycWxkVUFaSndqczR5cNIB4AFBVV95cUxPM09FaTVMcVJISTZRelVXM1RCMFVOeWZuZnBNYmpKU0RTaWh5ODBPRjFiZ3gxbDd4aU5qR25aaC1NRFUtZ2ZqaE5TVHNoaVZUanZoaFZFZDc4dGJOeEg4REx5cHFqUzlBX1gyV2VhMTYyNDNSd1lqSnhYcWVIZEJCcEJVYW5NcjA3eW1UR2xVMTBFTzZBN0FMalhJdGFQNFVZcldOd2RuODBBZko0cmlLNDVXczlWOWl6RHBPWW1JZ2dONks2RlFSeGIwb1hpRW1VQXEycWxkVUFaSndqczR5cA?oc=5",
-      "title": "UPSC Weekly Current Affairs Quiz (July 12 – July 18): 10 key questions with detailed answers for Prelims 2027 - The Indian Express",
-      "description": "UPSC Weekly Current Affairs Quiz (July 12 – July 18): 10 key questions with detailed answers for Prelims 2027&nbsp;&nbsp;The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM09FaTVMcVJISTZRelVXM1RCMFVOeWZuZnBNYmpKU0RTaWh5ODBPRjFiZ3gxbDd4aU5qR25aaC1NRFUtZ2ZqaE5TVHNoaVZUanZoaFZFZDc4dGJOeEg4REx5cHFqUzlBX1gyV2VhMTYyNDNSd1lqSnhYcWVIZEJCcEJVYW5NcjA3eW1UR2xVMTBFTzZBN0FMalhJdGFQNFVZcldOd2RuODBBZko0cmlLNDVXczlWOWl6RHBPWW1JZ2dONks2RlFSeGIwb1hpRW1VQXEycWxkVUFaSndqczR5cNIB4AFBVV95cUxPM09FaTVMcVJISTZRelVXM1RCMFVOeWZuZnBNYmpKU0RTaWh5ODBPRjFiZ3gxbDd4aU5qR25aaC1NRFUtZ2ZqaE5TVHNoaVZUanZoaFZFZDc4dGJOeEg4REx5cHFqUzlBX1gyV2VhMTYyNDNSd1lqSnhYcWVIZEJCcEJVYW5NcjA3eW1UR2xVMTBFTzZBN0FMalhJdGFQNFVZcldOd2RuODBBZko0cmlLNDVXczlWOWl6RHBPWW1JZ2dONks2RlFSeGIwb1hpRW1VQXEycWxkVUFaSndqczR5cA?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazBpTDV5ckpRR0p3cF9wekpESkZxMjRvbGVTczdDc2RnUUx1clZQelU2OFJtVml1bWo2dkZ5cm16MElSaEhjTWF3aFRibXNWbXAyYjhHSG51TmVncDE0OHlhdFc3Q3IzNWdLNlBvNUpRaHNDMTBCblRQX29qZjEtamhjVHBQRjhh?oc=5",
+      "title": "UPSC Mains Current Affairs for 19 July 2026 - Vajiram & Ravi",
+      "description": "UPSC Mains Current Affairs for 19 July 2026&nbsp;&nbsp;Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazBpTDV5ckpRR0p3cF9wekpESkZxMjRvbGVTczdDc2RnUUx1clZQelU2OFJtVml1bWo2dkZ5cm16MElSaEhjTWF3aFRibXNWbXAyYjhHSG51TmVncDE0OHlhdFc3Q3IzNWdLNlBvNUpRaHNDMTBCblRQX29qZjEtamhjVHBQRjhh?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-07-18T14:39:46.000Z"
+      "publishedAt": "2026-07-19T07:13:01.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMixAFBVV95cUxNTzNyaXVXaFVUTFU4czVneHA3bEJqQkRtekw5aDRybGljQTFMY1hOdUV3UE94b2FQNEhwWG91OVp1NF9mV0o5QnVVQmEweDM5b094YnNtRmI1Z3BrQkxYcjlKY0dEa0ZVX2t1NXBRLWptTmpQbkN1WVR1Ynl2SnE1bmhRSzcyLXVDa1VkS2kzS1RrVlFibmd4Y1h6X2h5TG5VYVMwX05kR2VnY3lyZGJuZUFVMFE1Ul9EdmxZMFB5Wjc1Q1Zf?oc=5",
-      "title": "‘Hindutva not an ‘ism’, but the essential state of being Hindu: ‘Hindutva for Gen Z’ Author Yuvraj Pokharna - Goa Chronicle",
-      "description": "‘Hindutva not an ‘ism’, but the essential state of being Hindu: ‘Hindutva for Gen Z’ Author Yuvraj Pokharna&nbsp;&nbsp;Goa Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTzNyaXVXaFVUTFU4czVneHA3bEJqQkRtekw5aDRybGljQTFMY1hOdUV3UE94b2FQNEhwWG91OVp1NF9mV0o5QnVVQmEweDM5b094YnNtRmI1Z3BrQkxYcjlKY0dEa0ZVX2t1NXBRLWptTmpQbkN1WVR1Ynl2SnE1bmhRSzcyLXVDa1VkS2kzS1RrVlFibmd4Y1h6X2h5TG5VYVMwX05kR2VnY3lyZGJuZUFVMFE1Ul9EdmxZMFB5Wjc1Q1Zf?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzJNSkJqOGhzZjdJMXJTdGRacHZfYVhxS0I3MzhBRXlteHVGdXB1WkY5eEpRcUdCa2laZDk2OE52dk4yT0U4aXFSa21Ic0l2NmFSQzhIakNtejlpM2psZTVxX3pBTkx1aGk2T01SZXIwSXlLZjZxamNDb3JzS3BubWR2aklxOEZhRHlhU3dlVUR6bUlha3FhSGhuTkZuajc3d3h6NlJPN1ZfTF9EQ2Jyb9IBtgFBVV95cUxPMFoydXlSVFdHVFBZVEYyUk1KOUlUbzN4SFByNlkwN2Zuai1xQzk5V2RKYTVqb1JEdHBnRndWb3pqNDhRalg0djJ3dHZzSE5FV1A4ZTFmcHJEMGhVbXc2YnVxYnlrSFVDcFVDQWhuTE96elJWVmdienFOSl9NMnU4OTJXY0JBU3VGSVlrbXBVYkhoNEUtNWdSdVdITkRFbjUxa2NhZWNYVkU0R2d0UjJPMXRMMVFkZw?oc=5",
+      "title": "20 July Current Affairs: PV Sindhu becomes first Indian to win Japan Open 2026; President Murmu begins 3-na... - Bhaskar English",
+      "description": "20 July Current Affairs: PV Sindhu becomes first Indian to win Japan Open 2026; President Murmu begins 3-na...&nbsp;&nbsp;Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzJNSkJqOGhzZjdJMXJTdGRacHZfYVhxS0I3MzhBRXlteHVGdXB1WkY5eEpRcUdCa2laZDk2OE52dk4yT0U4aXFSa21Ic0l2NmFSQzhIakNtejlpM2psZTVxX3pBTkx1aGk2T01SZXIwSXlLZjZxamNDb3JzS3BubWR2aklxOEZhRHlhU3dlVUR6bUlha3FhSGhuTkZuajc3d3h6NlJPN1ZfTF9EQ2Jyb9IBtgFBVV95cUxPMFoydXlSVFdHVFBZVEYyUk1KOUlUbzN4SFByNlkwN2Zuai1xQzk5V2RKYTVqb1JEdHBnRndWb3pqNDhRalg0djJ3dHZzSE5FV1A4ZTFmcHJEMGhVbXc2YnVxYnlrSFVDcFVDQWhuTE96elJWVmdienFOSl9NMnU4OTJXY0JBU3VGSVlrbXBVYkhoNEUtNWdSdVdITkRFbjUxa2NhZWNYVkU0R2d0UjJPMXRMMVFkZw?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-07-18T17:46:02.000Z"
+      "publishedAt": "2026-07-19T23:30:00.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUEhNN1dDZkZ6THpzNEk3M2ljOXFsYldRUG11N2xtUllxY3k5MmI3VUwzNy1wc0xFUnVVV1M3LVR1SEptcDlBQnRGakJMRjZXNHdHSng4b3JxVkJFaHJ0Vk5PMjA4M012Z09PR1duV1NWRXNYVzFaWnozOEMxbXN4TE1kYWtSZ0s3SHk0VUNvSFQ0VHI3Q2h2Q3pSMFQ3Q2xPQnJPOFUwUk9KLTd5dlBxZnduRFZhZ0ZhRThvSm81UlBuOVR3TWFUdHZHNFJJSmRkOUhkeWktUy1vSWfSAeABQVVfeXFMUElDaHVEaTdpWEZpYkJnNmxZYjZsN2oyZFBDOEp5Z196c0htTUpWZUdNU2hvS0czbUhNOXdlUXFVV3hWUWZVNjBHRjE0b3BuVHFTYnhUTGNEdEF5ajBkdTlpaXpkUElXTGxkdUFDbkhGaG9KSndBa3VwSE9FT3J1QzVETUdoeURLQS0tVTJmZW1aNVJ0ZHlVLW1yNk9ZV3plaTR1R2V6QkYwdGFQdWNnczFhYUdBRHFzMzhBS0tCeHNIdzlBaDBEOXVyaVAtVE5TSGU3dExPSDlVYU9abFdFSDM?oc=5",
-      "title": "Sonam Wangchuk hospitalised on 21st day of hunger strike | refuses IV fluids despite critical health - WION",
-      "description": "Sonam Wangchuk hospitalised on 21st day of hunger strike | refuses IV fluids despite critical health&nbsp;&nbsp;WION",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUEhNN1dDZkZ6THpzNEk3M2ljOXFsYldRUG11N2xtUllxY3k5MmI3VUwzNy1wc0xFUnVVV1M3LVR1SEptcDlBQnRGakJMRjZXNHdHSng4b3JxVkJFaHJ0Vk5PMjA4M012Z09PR1duV1NWRXNYVzFaWnozOEMxbXN4TE1kYWtSZ0s3SHk0VUNvSFQ0VHI3Q2h2Q3pSMFQ3Q2xPQnJPOFUwUk9KLTd5dlBxZnduRFZhZ0ZhRThvSm81UlBuOVR3TWFUdHZHNFJJSmRkOUhkeWktUy1vSWfSAeABQVVfeXFMUElDaHVEaTdpWEZpYkJnNmxZYjZsN2oyZFBDOEp5Z196c0htTUpWZUdNU2hvS0czbUhNOXdlUXFVV3hWUWZVNjBHRjE0b3BuVHFTYnhUTGNEdEF5ajBkdTlpaXpkUElXTGxkdUFDbkhGaG9KSndBa3VwSE9FT3J1QzVETUdoeURLQS0tVTJmZW1aNVJ0ZHlVLW1yNk9ZV3plaTR1R2V6QkYwdGFQdWNnczFhYUdBRHFzMzhBS0tCeHNIdzlBaDBEOXVyaVAtVE5TSGU3dExPSDlVYU9abFdFSDM?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTzVMc3hGQXhUZng4TXFvc2JseHJsZkw1TGRBckJ4VFNrTUVPUmE2Qms0ZHRPQ1JxbUFieVBOSFhyWldfTGRDMmdvaTRWbFkzeFRHSFpxMHRxMEUxNmR2d0MtLW1oMktjdkIySEpncExlcHpEcVE3Rmh1eWxDbGZ3TGJRNHpseXRqUWhtMExlNGVlMGJvdEVJUkhZMUZ0MDFDMU1WQndpZkU3S1dmX1dqYUZxT1gwaXlicXpJOUJvdGEtTmowZDBUbHlSSG1QOElTMllPWFpxbEM5MnJOcXRFRE1B?oc=5",
+      "title": "School assembly news headlines today- July 20: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- July 20: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTzVMc3hGQXhUZng4TXFvc2JseHJsZkw1TGRBckJ4VFNrTUVPUmE2Qms0ZHRPQ1JxbUFieVBOSFhyWldfTGRDMmdvaTRWbFkzeFRHSFpxMHRxMEUxNmR2d0MtLW1oMktjdkIySEpncExlcHpEcVE3Rmh1eWxDbGZ3TGJRNHpseXRqUWhtMExlNGVlMGJvdEVJUkhZMUZ0MDFDMU1WQndpZkU3S1dmX1dqYUZxT1gwaXlicXpJOUJvdGEtTmowZDBUbHlSSG1QOElTMllPWFpxbEM5MnJOcXRFRE1B?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-07-18T14:12:00.000Z"
+      "publishedAt": "2026-07-19T15:21:59.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2FNd3pKVnBmUndOZEo0SzdiUHFpZXNBZXdEM284bDlSUWhPOVJHMXlNYmdvSlpidkRQMWhuMDJOb2lNTkpId0VmMmExLWUxWHNVb191MzRzZU9ETXlWUDB6TXI1ZEtvdTYwZGtUVE5rZnllVmtmQWYwOWppMmFzaTZVcHA0QQ?oc=5",
-      "title": "Hunger Strikes as a Tool of Protest, Constitutional Basis - Vajiram & Ravi",
-      "description": "Hunger Strikes as a Tool of Protest, Constitutional Basis&nbsp;&nbsp;Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2FNd3pKVnBmUndOZEo0SzdiUHFpZXNBZXdEM284bDlSUWhPOVJHMXlNYmdvSlpidkRQMWhuMDJOb2lNTkpId0VmMmExLWUxWHNVb191MzRzZU9ETXlWUDB6TXI1ZEtvdTYwZGtUVE5rZnllVmtmQWYwOWppMmFzaTZVcHA0QQ?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHZiVVhQZjFzM2pKZ29VN3NCM25PWUp6TW5yUFI1UW1hRGVxaGRrNU9LZFA2UURyLW9sUWlvemtQZ0o2SFk2aHJiVmN0SlpSU05nY0xCaGVBbVRkbktTcjl1Q3lNVVJZRm5nU1JWdFR2d0VHSHhTd0hLaHVaZXg2VXdaZ1FGbGNNZ1ZkU1NTZXRGV2gtejdwM3IxSHhINWI2RXVmVWl3TV9sXzdsUmdPQWREdVYzYmlCdDZJYjRR0gHEAUFVX3lxTFBwRUNhd3p3MVNtRlMwMmxxclF3NHpTYlJzaWtwVkg2bXFFWmo3cXE2clZjTlVpU3p6NU9vYVRiRUtuZ0lFZTlNTW9Tc1I1YmRpUDRVSnc4WFQ1MjQtRElYM2dqaTcyRTh5aVl1QXBJYklGWVlQSHNzV0o3alBmT1RoSmtHU3dZdUNtZVB4WEg0Q0tHU3ZrbFNDdUg5TjZnWU9ENi1kWHNETXZ3aEl0Y1Y1cmFoMW13OGo5YTNtNElJa0k1eUY?oc=5",
+      "title": "UPSC Key: Vikram-1, Tenkasi settlement, and India’s 3 inflations - The Indian Express",
+      "description": "UPSC Key: Vikram-1, Tenkasi settlement, and India’s 3 inflations&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHZiVVhQZjFzM2pKZ29VN3NCM25PWUp6TW5yUFI1UW1hRGVxaGRrNU9LZFA2UURyLW9sUWlvemtQZ0o2SFk2aHJiVmN0SlpSU05nY0xCaGVBbVRkbktTcjl1Q3lNVVJZRm5nU1JWdFR2d0VHSHhTd0hLaHVaZXg2VXdaZ1FGbGNNZ1ZkU1NTZXRGV2gtejdwM3IxSHhINWI2RXVmVWl3TV9sXzdsUmdPQWREdVYzYmlCdDZJYjRR0gHEAUFVX3lxTFBwRUNhd3p3MVNtRlMwMmxxclF3NHpTYlJzaWtwVkg2bXFFWmo3cXE2clZjTlVpU3p6NU9vYVRiRUtuZ0lFZTlNTW9Tc1I1YmRpUDRVSnc4WFQ1MjQtRElYM2dqaTcyRTh5aVl1QXBJYklGWVlQSHNzV0o3alBmT1RoSmtHU3dZdUNtZVB4WEg0Q0tHU3ZrbFNDdUg5TjZnWU9ENi1kWHNETXZ3aEl0Y1Y1cmFoMW13OGo5YTNtNElJa0k1eUY?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-07-18T14:00:46.000Z"
+      "publishedAt": "2026-07-19T13:22:35.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2RHYXMyNTh6bFRLUDFDRTZSX1ZRX2NzQVlYSmdCZXE2empvTm45aVlwWGt1MXpWSEhhS0dSaURLd0JCdTBYMFA5a0tWRm9ETzBDc29rbTdWMDZxdUpvNEVKcG8xUkJtWVdHbVR0aUlvbnhEa3dSVHlQcC1admxWaXFuSlA3ODlEQm9iNGhJU2hNNGMwelU5c21fOGFuanM?oc=5",
-      "title": "World Artificial Intelligence Cooperation Organization, Aim, Funding, News - Vajiram & Ravi",
-      "description": "World Artificial Intelligence Cooperation Organization, Aim, Funding, News&nbsp;&nbsp;Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2RHYXMyNTh6bFRLUDFDRTZSX1ZRX2NzQVlYSmdCZXE2empvTm45aVlwWGt1MXpWSEhhS0dSaURLd0JCdTBYMFA5a0tWRm9ETzBDc29rbTdWMDZxdUpvNEVKcG8xUkJtWVdHbVR0aUlvbnhEa3dSVHlQcC1admxWaXFuSlA3ODlEQm9iNGhJU2hNNGMwelU5c21fOGFuanM?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiygFBVV95cUxQMW96Yi0xVkkyeVgwRWxqalBYQzdrc2xWT0RBUGNVZ2dBZjMwZnBEN2tRWU1NdTdGQWNUc1hadHEzalF6NVV1bklFUktENldib0J6N2JVb1JYYlJVNGhMQ1czbzk0VXQ0N3Y4Zm9sRGo4dFlrUHBjNnZvYW9sMU12UVVsSXN2cl9BNERBY3UyTDdSOTNKR1RFMVZYeTczOGZQZjRfSmtGZEYwaEliSldNdldtUlhRVVU5a3k2Qk1kejdSV1Noajl5Qmtn0gHPAUFVX3lxTE02UUpFQjJTWnNINENVYVVlbEdrNGloeU5pcmdFeFprSWtCQXkxYmpYdlMxWENBY0lnMG5wZVlXYlNZWGNoRHR1eGxldmFoazVoNjRkZklMOEVuSlV4SUtrUWxWMjB3RFRzV3BRZUxyTlh3cWk0Vno2WlF6UWdnbkxaZDFBSE8xY0dtaEpLdnpWZ0F0UFRDbUpWLUxQLWRhYVgzRzkwbmYxUzN4RFl6UEtSSjJ4cWZmN3ljdlBVWElKTVR3UGVWOE0yTm8xNEJ4SQ?oc=5",
+      "title": "Commerce Secy To Visit Geneva For India's Trade Policy Review At WTO - Deccan Chronicle",
+      "description": "Commerce Secy To Visit Geneva For India's Trade Policy Review At WTO&nbsp;&nbsp;Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMW96Yi0xVkkyeVgwRWxqalBYQzdrc2xWT0RBUGNVZ2dBZjMwZnBEN2tRWU1NdTdGQWNUc1hadHEzalF6NVV1bklFUktENldib0J6N2JVb1JYYlJVNGhMQ1czbzk0VXQ0N3Y4Zm9sRGo4dFlrUHBjNnZvYW9sMU12UVVsSXN2cl9BNERBY3UyTDdSOTNKR1RFMVZYeTczOGZQZjRfSmtGZEYwaEliSldNdldtUlhRVVU5a3k2Qk1kejdSV1Noajl5Qmtn0gHPAUFVX3lxTE02UUpFQjJTWnNINENVYVVlbEdrNGloeU5pcmdFeFprSWtCQXkxYmpYdlMxWENBY0lnMG5wZVlXYlNZWGNoRHR1eGxldmFoazVoNjRkZklMOEVuSlV4SUtrUWxWMjB3RFRzV3BRZUxyTlh3cWk0Vno2WlF6UWdnbkxaZDFBSE8xY0dtaEpLdnpWZ0F0UFRDbUpWLUxQLWRhYVgzRzkwbmYxUzN4RFl6UEtSSjJ4cWZmN3ljdlBVWElKTVR3UGVWOE0yTm8xNEJ4SQ?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-07-18T08:12:41.000Z"
+      "publishedAt": "2026-07-19T16:16:06.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdfQm5yMndHT25kVFkxd3BjTlVFS3JOSXZnN2JTZVJDUVBmV1RxOTVxYVBfVTBULXlNUG9VdnNxdGtfS1ZmQW4zTmpvZnZ6ZmJ5cHo1T2REUmtCcW5NcG55cFFKYlluVzFPLW5VZGVhQUxMd1U5cEw0MG5Rcl9HZFNmNTI?oc=5",
-      "title": "Daily Current Affairs – 18 July 2026 - FreeJobAlert.Com",
-      "description": "Daily Current Affairs – 18 July 2026&nbsp;&nbsp;FreeJobAlert.Com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdfQm5yMndHT25kVFkxd3BjTlVFS3JOSXZnN2JTZVJDUVBmV1RxOTVxYVBfVTBULXlNUG9VdnNxdGtfS1ZmQW4zTmpvZnZ6ZmJ5cHo1T2REUmtCcW5NcG55cFFKYlluVzFPLW5VZGVhQUxMd1U5cEw0MG5Rcl9HZFNmNTI?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMinwFBVV95cUxOelRzVVlJaTFnN3hEdmxpR19pMTlZZW54a3g5S09tMXV0NFc4S19mczVDalpSc29UakViTG9aaExpVVVYWldRVzh1X1BaTkdtcmdRMzZCenAyaEl3RE1xdjlWeDU0Sm5xRndseDl2ZHZnN3l5OVVYc3FNRVo4b3BBaDc5V3kzUklHTjlZQWpUZjFVU0Exb3pSQm5zREtWX3c?oc=5",
+      "title": "Beyond ISRO: An Analysis of India’s First Private Orbital Satellite Launch - Goa Chronicle",
+      "description": "Beyond ISRO: An Analysis of India’s First Private Orbital Satellite Launch&nbsp;&nbsp;Goa Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOelRzVVlJaTFnN3hEdmxpR19pMTlZZW54a3g5S09tMXV0NFc4S19mczVDalpSc29UakViTG9aaExpVVVYWldRVzh1X1BaTkdtcmdRMzZCenAyaEl3RE1xdjlWeDU0Sm5xRndseDl2ZHZnN3l5OVVYc3FNRVo4b3BBaDc5V3kzUklHTjlZQWpUZjFVU0Exb3pSQm5zREtWX3c?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-07-18T06:09:43.000Z"
+      "publishedAt": "2026-07-19T13:30:33.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkswOGxpZ0Q3dHk2VkF4bXFNZHdzWEtkeHJUWWltVlJkbDlPWW1QcUJ6Vk1iQzQwUTFSX0dJRkV6Um85U0JDcUtQeklaMGFyV056VV9XRHdKNlkxWjA3c09qT2lQeTRtMHVQajc2SEZ6S0lHY3lxcHpBVUhWbVo3TFlkTDdWQzJRajktVndzWWNocU1RV0Jaa0pzLWRSOHZYR05sakw0US1sTG5wRHdmeElRVjhXdlc0anNSbGZZVXVDdzJtdk9UYU5VdU1QRWJITVZFR9IB2gFBVV95cUxPQThJRlhQUENaQnpvVG1NNzRvdnhZM3lqLVM1MTktRmRoN1I2YlhJb2FGb2laMHRzSG93NTREQjFjQmU1QmxDMnRTcV93b3lrUUtsLVlSRmRyRHQ3bWtDUkFNaW5SakRtb0VUM2s0SEdUZ2ZvTVF4WVd3OHVsSWVjRk92eHh6a1hSX0dDRTBNTC1tS2Q3cVVZaFBsS08zOXRwbGk1UWlONlVkUHFVcG8tUDkwTTMweXZEb09nbU1NZlFmVFpMUXZTc3dmUXVUZXZtbE1OS1hQOTdXZw?oc=5",
-      "title": "World News | Zanzibar President Ali Mwinyi Arrives in New Delhi on Four-day Official Visit - LatestLY",
-      "description": "World News | Zanzibar President Ali Mwinyi Arrives in New Delhi on Four-day Official Visit&nbsp;&nbsp;LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkswOGxpZ0Q3dHk2VkF4bXFNZHdzWEtkeHJUWWltVlJkbDlPWW1QcUJ6Vk1iQzQwUTFSX0dJRkV6Um85U0JDcUtQeklaMGFyV056VV9XRHdKNlkxWjA3c09qT2lQeTRtMHVQajc2SEZ6S0lHY3lxcHpBVUhWbVo3TFlkTDdWQzJRajktVndzWWNocU1RV0Jaa0pzLWRSOHZYR05sakw0US1sTG5wRHdmeElRVjhXdlc0anNSbGZZVXVDdzJtdk9UYU5VdU1QRWJITVZFR9IB2gFBVV95cUxPQThJRlhQUENaQnpvVG1NNzRvdnhZM3lqLVM1MTktRmRoN1I2YlhJb2FGb2laMHRzSG93NTREQjFjQmU1QmxDMnRTcV93b3lrUUtsLVlSRmRyRHQ3bWtDUkFNaW5SakRtb0VUM2s0SEdUZ2ZvTVF4WVd3OHVsSWVjRk92eHh6a1hSX0dDRTBNTC1tS2Q3cVVZaFBsS08zOXRwbGk1UWlONlVkUHFVcG8tUDkwTTMweXZEb09nbU1NZlFmVFpMUXZTc3dmUXVUZXZtbE1OS1hQOTdXZw?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiigJBVV95cUxOUVVDMUw4MkRxM2tXTWlvSGVkbTlYTlZpb1ZOcU5SLXRCSlhtRkFUNURaWmhkckJ6UnJ0Ul96XzQxYTh2THNPSEI0cHhfSGJDeEtRcS1SMWtlT3RvYTZHVl9PeExRZWJZUl9Cem1GOWVWY0ZwX2xra1JUd09JMGl1SWRGUWF5eDhlZUhGQmt4WHNHSm5EcW9GbGV1ZC00VDE1UTZEVVpkSHRNYmQ4T19uV0x0YTRGUFhmSklRVU1PdWtoNVM4Qkh1OG5sR0d4TTNGVGdwZzdjblk0UTVFTFNWaGl6U2RhUHFvb3pSV3E5eWNJaUd1cVM3V3Flcl9TTXZxTl83ZU9ST05ZZ9IBkAJBVV95cUxOQTFfX3pnak5BcUdFTDVVSWdGSUl2T2pQblQwekZGOXVmX3ZQVm5WLU12aGg2Y2ljRVB2WnBkZ3BPQmk0RDNGSUhGZ0RDSER0RkhDTFVZU1JUWGtUOUl0ZzJfQVRBWWFEQThDbEtseVlMamllaFh2RTlINlU3MmFjbFhORVprVkFKblZOdDFSUlozZHVDY0VCWjB2ejAyblM1RHBYa1EzWFhxNUtNSGJjLTEzLU5UQlBuZ2RrVjVfVUc1emx1VC03bmhDckJVUExFdS1ULThLUVpLWTk4ak9PWFdSVnloSHZDdlZwclJXb1BwdGxoTzhnSF9qR2x4bHd3RjV2bkpKSi12Mjl1ZGd5Vw?oc=5",
+      "title": "Today News Headlines for School Assembly, July 20, 2026: School holidays announced for FIFA finals, Delhi HC refuses shifting Wangchuk to private facility - The Indian Express",
+      "description": "Today News Headlines for School Assembly, July 20, 2026: School holidays announced for FIFA finals, Delhi HC refuses shifting Wangchuk to private facility&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUVVDMUw4MkRxM2tXTWlvSGVkbTlYTlZpb1ZOcU5SLXRCSlhtRkFUNURaWmhkckJ6UnJ0Ul96XzQxYTh2THNPSEI0cHhfSGJDeEtRcS1SMWtlT3RvYTZHVl9PeExRZWJZUl9Cem1GOWVWY0ZwX2xra1JUd09JMGl1SWRGUWF5eDhlZUhGQmt4WHNHSm5EcW9GbGV1ZC00VDE1UTZEVVpkSHRNYmQ4T19uV0x0YTRGUFhmSklRVU1PdWtoNVM4Qkh1OG5sR0d4TTNGVGdwZzdjblk0UTVFTFNWaGl6U2RhUHFvb3pSV3E5eWNJaUd1cVM3V3Flcl9TTXZxTl83ZU9ST05ZZ9IBkAJBVV95cUxOQTFfX3pnak5BcUdFTDVVSWdGSUl2T2pQblQwekZGOXVmX3ZQVm5WLU12aGg2Y2ljRVB2WnBkZ3BPQmk0RDNGSUhGZ0RDSER0RkhDTFVZU1JUWGtUOUl0ZzJfQVRBWWFEQThDbEtseVlMamllaFh2RTlINlU3MmFjbFhORVprVkFKblZOdDFSUlozZHVDY0VCWjB2ejAyblM1RHBYa1EzWFhxNUtNSGJjLTEzLU5UQlBuZ2RrVjVfVUc1emx1VC03bmhDckJVUExFdS1ULThLUVpLWTk4ak9PWFdSVnloSHZDdlZwclJXb1BwdGxoTzhnSF9qR2x4bHd3RjV2bkpKSi12Mjl1ZGd5Vw?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-07-19T00:24:16.000Z"
+      "publishedAt": "2026-07-19T12:36:35.000Z"
     }
   ]
 }
