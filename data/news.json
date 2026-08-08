@@ -1,85 +1,245 @@
 {
-  "updatedAt": "2026-08-07T03:24:10.455Z",
+  "updatedAt": "2026-08-08T02:26:20.443Z",
   "articles": [
     {
-      "id": "tech-https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
-      "description": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 87\n# Comments: 48",
-      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-08-07T00:06:28.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHpzdEZVdjI4RF9hNkQyNFEyVGkwaks1MDMtdXQzOTlXMEhZalZsQ09zMHVEbEJ6d0hadWJ1VXZ3WXdNYkphYXJBb0J6WjNpYU1tMmlUcm5PaF9CMmJWckw4dlRPV2ZybWlZRlJOT1o5dHVIX0JVZjFyZDFQMmJtTXdNQktUcVkzVTVKQTZ2NGNmRnJXTklKLVRmS19ERC1LczMwX3dsbXlhOXM?oc=5",
+      "title": "How TReNDS automates root-cause analysis with Amazon Bedrock - Amazon Web Services (AWS)",
+      "description": "How TReNDS automates root-cause analysis with Amazon Bedrock&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHpzdEZVdjI4RF9hNkQyNFEyVGkwaks1MDMtdXQzOTlXMEhZalZsQ09zMHVEbEJ6d0hadWJ1VXZ3WXdNYkphYXJBb0J6WjNpYU1tMmlUcm5PaF9CMmJWckw4dlRPV2ZybWlZRlJOT1o5dHVIX0JVZjFyZDFQMmJtTXdNQktUcVkzVTVKQTZ2NGNmRnJXTklKLVRmS19ERC1LczMwX3dsbXlhOXM?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-07T16:22:50.000Z"
     },
     {
-      "id": "tech-https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "description": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 103\n# Comments: 18",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-08-06T21:52:16.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVQ0MTZoWXpNUl9LTHBtdXF3bnk1VlMzdkhuY1RjTzBwTzJncmhwYVNqeE42YndOclN2enVYa2E4dS1zeXdhN3ptZDE5Mk9zcE1EekRrQ3FyLUxIc3piSnlaU3pMaFp0TGFRNGxaWENISGk5UUF4elpLemY4VlZfbFhGZGtZRHFzVklIeWZnZTZ1SzB6LWMzekhaVWpXVU0?oc=5",
+      "title": "Don’t Confuse AI With Machine Learning - Embedded Computing Design",
+      "description": "Don’t Confuse AI With Machine Learning&nbsp;&nbsp;Embedded Computing Design",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVQ0MTZoWXpNUl9LTHBtdXF3bnk1VlMzdkhuY1RjTzBwTzJncmhwYVNqeE42YndOclN2enVYa2E4dS1zeXdhN3ptZDE5Mk9zcE1EekRrQ3FyLUxIc3piSnlaU3pMaFp0TGFRNGxaWENISGk5UUF4elpLemY4VlZfbFhGZGtZRHFzVklIeWZnZTZ1SzB6LWMzekhaVWpXVU0?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-07T16:28:36.000Z"
     },
     {
-      "id": "tech-https://www.aleksagordic.com/blog/vllm",
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "description": "Article URL: https://www.aleksagordic.com/blog/vllm\nComments URL: https://news.ycombinator.com/item?id=49202852\nPoints: 75\n# Comments: 3",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-08-06T21:30:21.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGR5QWhnZXlVdkRPSERsdHhVVWlmWWdVQWJBNGlPTnI2NDJrOE5taFVyYURtTUlWNjBBeDljak8zNWlMa3V5aVpKblkxODQ3bkZIVjc3UjhlMElUMXZiZUhvSFI2dUIzZFdHbW5PUnRmWm8yeVhTQnBaUkhPUEVCbHVjTWQwaXJTTklDVlBoRVV5c1Y3LV8tU0JMOG5ObHROVjR3VzE1bXdiMlh2aTlpblZWYw?oc=5",
+      "title": "UW’s Machine Learning for High School Teachers Workshop Enriches Classrooms - University of Wyoming",
+      "description": "UW’s Machine Learning for High School Teachers Workshop Enriches Classrooms&nbsp;&nbsp;University of Wyoming",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGR5QWhnZXlVdkRPSERsdHhVVWlmWWdVQWJBNGlPTnI2NDJrOE5taFVyYURtTUlWNjBBeDljak8zNWlMa3V5aVpKblkxODQ3bkZIVjc3UjhlMElUMXZiZUhvSFI2dUIzZFdHbW5PUnRmWm8yeVhTQnBaUkhPUEVCbHVjTWQwaXJTTklDVlBoRVV5c1Y3LV8tU0JMOG5ObHROVjR3VzE1bXdiMlh2aTlpblZWYw?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-07T16:37:57.000Z"
     },
     {
-      "id": "tech-https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "description": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm\nComments URL: https://news.ycombinator.com/item?id=49202716\nPoints: 66\n# Comments: 11",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-08-06T21:18:32.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcU5MNmdyVm5nZWluVUIxZWRyNkZlanJVVkJnREo3ckFFZ0hRblg2MTAtMklwNms3Tk8xeEdDQTJIU2k5ZmNva0RnU2tlNTlYNWw1Vi14WUItbW1LVDNlUHV1RWV6MkRSQnRaWWktWmc2OWhnX01ZUFNwbjVsbWJqOU8wbnpTZ2pCcnJsWk9kUEhSX2hxbUl0czY2X3dxZUhXbWJFODFqUUY2blJXc0RjX0ZVS0RYUmFFZUR5TGRObHBMV045NS1nc2FqUU40TlBmdGJJ?oc=5",
+      "title": "AI, machine learning emerge as top technologies among 74 pc of deep-tech startups: Nasscom - Investment Guru",
+      "description": "AI, machine learning emerge as top technologies among 74 pc of deep-tech startups: Nasscom&nbsp;&nbsp;Investment Guru",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcU5MNmdyVm5nZWluVUIxZWRyNkZlanJVVkJnREo3ckFFZ0hRblg2MTAtMklwNms3Tk8xeEdDQTJIU2k5ZmNva0RnU2tlNTlYNWw1Vi14WUItbW1LVDNlUHV1RWV6MkRSQnRaWWktWmc2OWhnX01ZUFNwbjVsbWJqOU8wbnpTZ2pCcnJsWk9kUEhSX2hxbUl0czY2X3dxZUhXbWJFODFqUUY2blJXc0RjX0ZVS0RYUmFFZUR5TGRObHBMV045NS1nc2FqUU40TlBmdGJJ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-07T12:58:07.000Z"
     },
     {
-      "id": "tech-https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "description": "https://ir.amd.com/news-events/press-releases/detail/1296/am...https://chatjimmy.ai/\n\nComments URL: https://news.ycombinator.com/item?id=49201970\nPoints: 434\n# Comments: 336",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-08-06T20:23:11.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNkl5bURMWlIyMG0yVDRmdjFyMTUwUjBMVm1qSFRUbHJpUkZWb2h1b2lTd0c5YzctZTBCTHlfakxSNGRfN25ZSmNPZjVwVlozRFZIUXZuVklrcGV6NEdvbWdjdVdsY3NjeW5pODdaMi1pdnQ5LXUwWEhkeWg4N3EzU0xuM3JWYVJiampmLWNWS1dDODlBVWZBVU80bzY3ZFJaRG1MTV9hUmNYRF8xQlJzQ3U1Z3I0c0gtR1M0dEZ6dVJnTzBxYURuYw?oc=5",
+      "title": "UPMC, KLAS Research study examines AI adoption trends, governance barriers - Fierce Healthcare",
+      "description": "UPMC, KLAS Research study examines AI adoption trends, governance barriers&nbsp;&nbsp;Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNkl5bURMWlIyMG0yVDRmdjFyMTUwUjBMVm1qSFRUbHJpUkZWb2h1b2lTd0c5YzctZTBCTHlfakxSNGRfN25ZSmNPZjVwVlozRFZIUXZuVklrcGV6NEdvbWdjdVdsY3NjeW5pODdaMi1pdnQ5LXUwWEhkeWg4N3EzU0xuM3JWYVJiampmLWNWS1dDODlBVWZBVU80bzY3ZFJaRG1MTV9hUmNYRF8xQlJzQ3U1Z3I0c0gtR1M0dEZ6dVJnTzBxYURuYw?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-07T17:25:20.000Z"
     },
     {
-      "id": "tech-https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-      "title": "Quake – 30th Anniversary Update",
-      "description": "Article URL: https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update\nComments URL: https://news.ycombinator.com/item?id=49201930\nPoints: 230\n# Comments: 113",
-      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-08-06T20:21:19.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlpuTjlFczBzSkswUXhRSUFrY3ZzUFh6OFdoU09ub0wtUS02X3ZtemN4SWZtTW8xWi1oU3hkWHZMY1JXTVNCWlhFTmJ2VW93UEZsckt2bEZSaWFmOW5IenhIU1dDZUJtOU8wQlYxRWlkSk1KMjM1UklPYnUzRlFFUGVFN1pRT244a0lHQmxR?oc=5",
+      "title": "Marine Corps to Hold Joint MCU-NPS AI Learning Initiatives Hackathon - ExecutiveGov",
+      "description": "Marine Corps to Hold Joint MCU-NPS AI Learning Initiatives Hackathon&nbsp;&nbsp;ExecutiveGov",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlpuTjlFczBzSkswUXhRSUFrY3ZzUFh6OFdoU09ub0wtUS02X3ZtemN4SWZtTW8xWi1oU3hkWHZMY1JXTVNCWlhFTmJ2VW93UEZsckt2bEZSaWFmOW5IenhIU1dDZUJtOU8wQlYxRWlkSk1KMjM1UklPYnUzRlFFUGVFN1pRT244a0lHQmxR?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-07T20:17:27.000Z"
     },
     {
-      "id": "tech-https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "description": "Article URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/\nComments URL: https://news.ycombinator.com/item?id=49201003\nPoints: 161\n# Comments: 110",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-08-06T19:14:21.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMixAFBVV95cUxPZS1ObHJkV1loVTRvQ2RRRUNNeVBIaDdpMWpoUlp2T25vZkpsVlhCaEtud3o2Qzh3bUdMbE96RkdLWmpwWVJLcFdzeXRkS0cyTW5mbVVtY1Y3QW0xNjBzZzRPcVZDOHN0cGZwSFlVZkdHOENpbEdxZFFvRElTZk56RVdHU1R4RFpjNHh4QjJfWkNqSHNoNHVqNjU3a3lfbUhjaDRkNmpLSHB2SVd3ZTlXTlp6dzN3NjhjRXJVbW9uMW1LOUlr?oc=5",
+      "title": "Determining playoff clinching scenarios in the NHL using constraint programming - Amazon Web Services (AWS)",
+      "description": "Determining playoff clinching scenarios in the NHL using constraint programming&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZS1ObHJkV1loVTRvQ2RRRUNNeVBIaDdpMWpoUlp2T25vZkpsVlhCaEtud3o2Qzh3bUdMbE96RkdLWmpwWVJLcFdzeXRkS0cyTW5mbVVtY1Y3QW0xNjBzZzRPcVZDOHN0cGZwSFlVZkdHOENpbEdxZFFvRElTZk56RVdHU1R4RFpjNHh4QjJfWkNqSHNoNHVqNjU3a3lfbUhjaDRkNmpLSHB2SVd3ZTlXTlp6dzN3NjhjRXJVbW9uMW1LOUlr?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-07T16:21:00.000Z"
     },
     {
-      "id": "tech-https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-      "title": "Can you reverse engineer an ASIC?",
-      "description": "Article URL: https://blog.janestreet.com/can-you-reverse-engineer-an-asic/\nComments URL: https://news.ycombinator.com/item?id=49200933\nPoints: 69\n# Comments: 46",
-      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+      "id": "ai-https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUEhRZEtRd3hFLUFHYWRhWl9aMXlCbkxrWWdLVTZqSVBkOFh3X28zTVFiNDV1NVhENWYzQldqc3g0NGJoaWlrWVBhZ3k5bS1Db0RZZjlGMUtGbk5QenVCTzl1QnBwOHpjRlVaUXVFYThhM2RPbXFuS2pFZ1ZsY3VFa3YxUi1EenFrRHZ3Z2ktVTJtaU8tRVBOUUZoVW1BbVk2YVFUNU84bS1vX3hDVUxHRUhCU3BlZWlEZGVVWGxtWW9LVHY4bFNYM19LZUN0dTJ4WW9FQTRxSzNJd1XSAdsBQVVfeXFMTVBIUWRLUXd4RS1BR2FkYVpfWjF5Qm5Ma1lnS1U2aklQZDhYd19vM01RYjQ1dTVYRDVmM0JXanN4NDRiaGlpa1lQYWd5OW0tQ29EWWY5RjFLRm5OUHp1Qk85dUJwcDh6Y0ZVWlF1RWE4YTNkT21xbktqRWdWbGN1RWt2MVItRHpxa0R2d2dpLVUybWlPLUVQTlFGaFVtQW1ZNmFRVDVPOG0tb194Q1VMR0VIQlNwZWVpRGRlVVhsbVlvS1R2OGxTWDNfS2VDdHUyeFlvRUE0cUszSXdV?oc=5",
+      "title": "CBSE Strengthens AI Education: Announces '3030 Eklavya' Online Series for Teachers, Students - Telegraph India",
+      "description": "CBSE Strengthens AI Education: Announces '3030 Eklavya' Online Series for Teachers, Students&nbsp;&nbsp;Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUEhRZEtRd3hFLUFHYWRhWl9aMXlCbkxrWWdLVTZqSVBkOFh3X28zTVFiNDV1NVhENWYzQldqc3g0NGJoaWlrWVBhZ3k5bS1Db0RZZjlGMUtGbk5QenVCTzl1QnBwOHpjRlVaUXVFYThhM2RPbXFuS2pFZ1ZsY3VFa3YxUi1EenFrRHZ3Z2ktVTJtaU8tRVBOUUZoVW1BbVk2YVFUNU84bS1vX3hDVUxHRUhCU3BlZWlEZGVVWGxtWW9LVHY4bFNYM19LZUN0dTJ4WW9FQTRxSzNJd1XSAdsBQVVfeXFMTVBIUWRLUXd4RS1BR2FkYVpfWjF5Qm5Ma1lnS1U2aklQZDhYd19vM01RYjQ1dTVYRDVmM0JXanN4NDRiaGlpa1lQYWd5OW0tQ29EWWY5RjFLRm5OUHp1Qk85dUJwcDh6Y0ZVWlF1RWE4YTNkT21xbktqRWdWbGN1RWt2MVItRHpxa0R2d2dpLVUybWlPLUVQTlFGaFVtQW1ZNmFRVDVPOG0tb194Q1VMR0VIQlNwZWVpRGRlVVhsbVlvS1R2OGxTWDNfS2VDdHUyeFlvRUE0cUszSXdV?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-07T06:13:42.000Z"
+    },
+    {
+      "id": "tech-https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "title": "The Nixpkgs core team has disbanded",
+      "description": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 58\n# Comments: 11",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-06T19:07:33.000Z"
+      "publishedAt": "2026-08-08T01:12:45.000Z"
+    },
+    {
+      "id": "tech-https://genesisopenmodels.anl.gov/",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "description": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 98\n# Comments: 41",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-08-07T22:24:27.000Z"
+    },
+    {
+      "id": "tech-https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "description": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\nComments URL: https://news.ycombinator.com/item?id=49216362\nPoints: 132\n# Comments: 89",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-08-07T21:19:57.000Z"
+    },
+    {
+      "id": "tech-https://github.com/xoreaxeaxeax/repsych",
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "description": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 54\n# Comments: 2",
+      "url": "https://github.com/xoreaxeaxeax/repsych",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-08-07T18:51:45.000Z"
+    },
+    {
+      "id": "tech-https://ancientlibrary.net/",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "description": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 152\n# Comments: 51",
+      "url": "https://ancientlibrary.net/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-08-07T18:51:14.000Z"
+    },
+    {
+      "id": "tech-https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "title": "Managing AI Coding Costs at Scale",
+      "description": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 168\n# Comments: 173",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-08-07T18:25:17.000Z"
+    },
+    {
+      "id": "tech-https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "title": "Assembly Hall of Shame",
+      "description": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=49214098\nPoints: 259\n# Comments: 61",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-08-07T18:01:30.000Z"
+    },
+    {
+      "id": "tech-https://arcprize.org/results/deepseek-v4-flash-0731",
+      "title": "DeepSeek V4 Flash 0731",
+      "description": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 474\n# Comments: 286",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-08-07T17:56:20.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMifkFVX3lxTE13alJEdnJ4a0NiY2FCM05yck5OeWl3c2Qwa2NsS0pOVFJnenM0ZjByXy1uVEhQZW52aWN1LXNYdFlpZEMyVzJPRndDRGQ2SHVHUnVySW9PaEE3N1JPcnFYd3JiaTF6QTkzQ0x0R3ZMdUVGQzNqRWwyOGpZdl8zUQ?oc=5",
+      "title": "Important Days in August 2026, National and International List - Vajiram & Ravi",
+      "description": "Important Days in August 2026, National and International List&nbsp;&nbsp;Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13alJEdnJ4a0NiY2FCM05yck5OeWl3c2Qwa2NsS0pOVFJnenM0ZjByXy1uVEhQZW52aWN1LXNYdFlpZEMyVzJPRndDRGQ2SHVHUnVySW9PaEE3N1JPcnFYd3JiaTF6QTkzQ0x0R3ZMdUVGQzNqRWwyOGpZdl8zUQ?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-08-07T19:57:51.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tX1c0NGFqMXA0UExWalBZdm0zTnhySTJEcV82d1FiZ2R4MGF3TnRKeUdxeFIwNVRZcFBuUVdNNTdtQ3IyLS1HTkFoNFdSeE5saWZQdVgwWlM2VUU?oc=5",
+      "title": "Cabinet approves GOBARdhan (Galvanizing Organic Bio-Agro Resources Dhan) Scheme- A National Circular Bioenergy Scheme | Current Affairs - Vision IAS",
+      "description": "Cabinet approves GOBARdhan (Galvanizing Organic Bio-Agro Resources Dhan) Scheme- A National Circular Bioenergy Scheme | Current Affairs&nbsp;&nbsp;Vision IAS",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tX1c0NGFqMXA0UExWalBZdm0zTnhySTJEcV82d1FiZ2R4MGF3TnRKeUdxeFIwNVRZcFBuUVdNNTdtQ3IyLS1HTkFoNFdSeE5saWZQdVgwWlM2VUU?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-08-07T11:07:58.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVBWTmI4NmJpaVVXaGZ2YjVmT21CWjdETE9zQk93TG9EZDhJTTlIb09PM25qb0p3RjlsOVFoUmR4VnI2NE0tOWkwTnpFRGhkR1hCWWo1QndZZE9vbGx3MTVQSFl0UFNxR2JOak5VX2RfQTF5VXR6NUtDT2t0TThKY2tKeWo?oc=5",
+      "title": "UPSC CURRENT AFFAIRS – 7 AUGUST 2026 - INSIGHTS IAS",
+      "description": "UPSC CURRENT AFFAIRS – 7 AUGUST 2026&nbsp;&nbsp;INSIGHTS IAS",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVBWTmI4NmJpaVVXaGZ2YjVmT21CWjdETE9zQk93TG9EZDhJTTlIb09PM25qb0p3RjlsOVFoUmR4VnI2NE0tOWkwTnpFRGhkR1hCWWo1QndZZE9vbGx3MTVQSFl0UFNxR2JOak5VX2RfQTF5VXR6NUtDT2t0TThKY2tKeWo?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-08-07T10:34:11.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ3I2dUdkUExPcFBDRjBrWjdMc0VoWi1vd2piRnVWbThFSlR4QjZUcDl5Y2lBc0Zrd3JwbU54WXZzNF9GN2Vfc0VsRmJYYmxQWTllRDdwd09aT3kwcU5kQ3NhNTJBSlBLMW5vazhSNG9JQ1ktNk9QbHFXaUhiSnU4dGNXTy1DbU5FRXFfX1pFVDQxMUlfZGVQNERsWGlqc3dHS2tlSGU5ZTJNU0JENWo3eC12VWN4dlhXN1JWcGxscXhBLThuQWRHaWhJblYtZ0FYTzU0aUNCcG8yU3NVQWfSAeQBQVVfeXFMTURhLUZtbWZzM1ZBRU9IaTlaalNCRW1yLThjU19KUGdBa2tUcGdUaDFQc2hmYzBBcVZ5Z214TFJpTmpONjE3b3IwT2M4YkV6Z0IybVJPaVNBaVRZUnBWSjdhTkJIVlJmTk8yR0dwMUtnZUxxS1N2MGpDeEw3TmdGaU0wX25lbkFOMHU3ZlBpYXM4azBuT08xNjJNLWU5RzhFZzktLVlxV0ZGX05Qbk1wcmRDd29FOXJPcFY0ZUU4SVZYYjRXcHVBMllhUHFNSHQydnc2d3F4YmdiMk5IdlE3OWRrVkY2?oc=5",
+      "title": "Pastoralism: Is permanent settlement the only path to development? - The Indian Express",
+      "description": "Pastoralism: Is permanent settlement the only path to development?&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ3I2dUdkUExPcFBDRjBrWjdMc0VoWi1vd2piRnVWbThFSlR4QjZUcDl5Y2lBc0Zrd3JwbU54WXZzNF9GN2Vfc0VsRmJYYmxQWTllRDdwd09aT3kwcU5kQ3NhNTJBSlBLMW5vazhSNG9JQ1ktNk9QbHFXaUhiSnU4dGNXTy1DbU5FRXFfX1pFVDQxMUlfZGVQNERsWGlqc3dHS2tlSGU5ZTJNU0JENWo3eC12VWN4dlhXN1JWcGxscXhBLThuQWRHaWhJblYtZ0FYTzU0aUNCcG8yU3NVQWfSAeQBQVVfeXFMTURhLUZtbWZzM1ZBRU9IaTlaalNCRW1yLThjU19KUGdBa2tUcGdUaDFQc2hmYzBBcVZ5Z214TFJpTmpONjE3b3IwT2M4YkV6Z0IybVJPaVNBaVRZUnBWSjdhTkJIVlJmTk8yR0dwMUtnZUxxS1N2MGpDeEw3TmdGaU0wX25lbkFOMHU3ZlBpYXM4azBuT08xNjJNLWU5RzhFZzktLVlxV0ZGX05Qbk1wcmRDd29FOXJPcFY0ZUU4SVZYYjRXcHVBMllhUHFNSHQydnc2d3F4YmdiMk5IdlE3OWRrVkY2?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-08-07T13:14:13.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDFxMnVzeDlIdTE1dHR6Y2cwOXpTRi1sbldjWHZiejNPckZiQW8wczJBTDNpQlJ1ai1jR0VMYXRtelFzQk90dzgzWHdJcThYa0dad1ZwZ0M1Y29VQkxhWWtBeHJESEd6dFY0elVRWHRHT3l1Vzc3TVBFR0FJaVQzaWJKYURPVFd1SWdSdThhLVJubGNidFBSUlY4cklTMmI5OXJ5TFh4ZWhxYXktQjRHRWY0OGpEQUFTTWxHUGhUVG5zcEZLRjRnYjR1Y2NnWVFmRGR4R0Y2SdIB3AFBVV95cUxOYjZkdGdmelV0TnFpc195bkpzR1BEVUg2V0szWFh6TFp5MHZxeTB1RGxMV1R2NFdRSXNmTzYxZEQwaUJlZnZWOHZ4ekRqLUNCclljZ0Q0eEZ5dlR2bzFCMlFmSnV2UGlueXdSWmc3VEotYTBxd2xQVDdoRERGakFkOUVySTN5Wm9lb0thM0pReU14X2hqTDZNbEt2cnQxZU1OQUtnTE1UZUppRFQ5WEN3OXRISGJjd1RhWmRzS1I5VHRabjFyY05aNkx3YUVweFd3TXloYW14eEtDZE1R?oc=5",
+      "title": "How Gen Z Could Turn India into an Economic Superpower with $3.4 Trillion Gold Treasure | GRATIVAS - WION",
+      "description": "How Gen Z Could Turn India into an Economic Superpower with $3.4 Trillion Gold Treasure | GRATIVAS&nbsp;&nbsp;WION",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWDFxMnVzeDlIdTE1dHR6Y2cwOXpTRi1sbldjWHZiejNPckZiQW8wczJBTDNpQlJ1ai1jR0VMYXRtelFzQk90dzgzWHdJcThYa0dad1ZwZ0M1Y29VQkxhWWtBeHJESEd6dFY0elVRWHRHT3l1Vzc3TVBFR0FJaVQzaWJKYURPVFd1SWdSdThhLVJubGNidFBSUlY4cklTMmI5OXJ5TFh4ZWhxYXktQjRHRWY0OGpEQUFTTWxHUGhUVG5zcEZLRjRnYjR1Y2NnWVFmRGR4R0Y2SdIB3AFBVV95cUxOYjZkdGdmelV0TnFpc195bkpzR1BEVUg2V0szWFh6TFp5MHZxeTB1RGxMV1R2NFdRSXNmTzYxZEQwaUJlZnZWOHZ4ekRqLUNCclljZ0Q0eEZ5dlR2bzFCMlFmSnV2UGlueXdSWmc3VEotYTBxd2xQVDdoRERGakFkOUVySTN5Wm9lb0thM0pReU14X2hqTDZNbEt2cnQxZU1OQUtnTE1UZUppRFQ5WEN3OXRISGJjd1RhWmRzS1I5VHRabjFyY05aNkx3YUVweFd3TXloYW14eEtDZE1R?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-08-07T17:16:00.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWlVERjZJUHdsOVZKMExKSDI1M3JVQlI0Zm1GVFRPb0hTeDV0NFpaMXhSOXhyTV9wUWtESUhiR19MTzJuS1hMSmdiamtxQXByNmpQRm1aTlhiaVlvNjdFTWFwSFJXdWZqTWhVdVhaQ3RfWXdWbGc0eWZqV0MxNndCU29PS1U1QVE3U3ZDc0xRRTJtNWNzZ0Y2VEtNclMwcU9aQ3VTY1hENlNXRVQzZGFPcmRTYzI3am9BZWlGaUFyeUhwT1FiMndMd2NGNFBTdkE3alhWcXlKdGVtSmNqQ3hrYWt3dw?oc=5",
+      "title": "School assembly news headlines today- August 8: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- August 8: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWlVERjZJUHdsOVZKMExKSDI1M3JVQlI0Zm1GVFRPb0hTeDV0NFpaMXhSOXhyTV9wUWtESUhiR19MTzJuS1hMSmdiamtxQXByNmpQRm1aTlhiaVlvNjdFTWFwSFJXdWZqTWhVdVhaQ3RfWXdWbGc0eWZqV0MxNndCU29PS1U1QVE3U3ZDc0xRRTJtNWNzZ0Y2VEtNclMwcU9aQ3VTY1hENlNXRVQzZGFPcmRTYzI3am9BZWlGaUFyeUhwT1FiMndMd2NGNFBTdkE3alhWcXlKdGVtSmNqQ3hrYWt3dw?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-08-07T12:14:45.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMidkFVX3lxTE5hTlJWYjl3TkVaQUpmaGRFa2FQNFVveXFGeXVxcWlXNnBJZEM5UXI2T0NMMEdENEpiTk13ZmxuTjNvV21INGNhM2dmdEpXWEJ0cDZQTklPZ1VFV2dhN3RyVkJhcmtGRk5oMko1SGcxbVY0NFUybGc?oc=5",
+      "title": "World Elephant Day 2026, History, Theme, Conservation Efforts in India - Vajiram & Ravi",
+      "description": "World Elephant Day 2026, History, Theme, Conservation Efforts in India&nbsp;&nbsp;Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hTlJWYjl3TkVaQUpmaGRFa2FQNFVveXFGeXVxcWlXNnBJZEM5UXI2T0NMMEdENEpiTk13ZmxuTjNvV21INGNhM2dmdEpXWEJ0cDZQTklPZ1VFV2dhN3RyVkJhcmtGRk5oMko1SGcxbVY0NFUybGc?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-08-07T12:21:37.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiekFVX3lxTE96czNNT3N6TzZyQ3NBdGNSbVJpUGcyOXBKT0RLQzgweGVaZXQ1OXRmV3dpZVl0ZHhYZkNuMFBpYTFNOXlIOHVadDJyT3lla3pmVmtyNHlfQXRVanFSNU1rRl9NbWMxYkU4d0xUQl95TTlkT0t0MnhzYnR3?oc=5",
+      "title": "National Handloom Day 2026, Date, Theme, History, Significance - Vajiram & Ravi",
+      "description": "National Handloom Day 2026, Date, Theme, History, Significance&nbsp;&nbsp;Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96czNNT3N6TzZyQ3NBdGNSbVJpUGcyOXBKT0RLQzgweGVaZXQ1OXRmV3dpZVl0ZHhYZkNuMFBpYTFNOXlIOHVadDJyT3lla3pmVmtyNHlfQXRVanFSNU1rRl9NbWMxYkU4d0xUQl95TTlkT0t0MnhzYnR3?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-08-07T18:27:26.000Z"
     }
   ]
 }
