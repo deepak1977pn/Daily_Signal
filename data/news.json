@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-28T11:34:55.881Z",
+  "updatedAt": "2026-08-29T07:13:10.797Z",
   "articles": [
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEU4V1dlMDMyNEpNMjJQOE9ZVEZkS3daYmVmbjZWSGNGc0F0bUhyNVZwRENCMUFyVVZVY1lvZ19OU2xmZlA5MEV3Y3h1WWhIcjVZQWN5U2tYWFRrVHNwNzFYMkRjRFF6QjdLSXBnVS1aV0VhWThlS3NrWERVd0RLUWVLUUPSAYQBQVVfeXFMUExFOFdXZTAzMjRKTTIyUDhPWVRGZEt3WmJlZm42VkhjRnNBdG1IcjVWcERDQjFBclVWVWNZb2dfTlNsZmZQOTBFd2N4dVloSHI1WUFjeVNrWFhUa1RzcDcxWDJEY0RRekI3S0lwZ1UtWldFYVk4ZUtza1hEVXdES1FlS1FD?oc=5",
+      "title": "Some Assembly Required, with Machine Learning | Newswise - Newswise",
+      "description": "Some Assembly Required, with Machine Learning | Newswise&nbsp;&nbsp;Newswise",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEU4V1dlMDMyNEpNMjJQOE9ZVEZkS3daYmVmbjZWSGNGc0F0bUhyNVZwRENCMUFyVVZVY1lvZ19OU2xmZlA5MEV3Y3h1WWhIcjVZQWN5U2tYWFRrVHNwNzFYMkRjRFF6QjdLSXBnVS1aV0VhWThlS3NrWERVd0RLUWVLUUPSAYQBQVVfeXFMUExFOFdXZTAzMjRKTTIyUDhPWVRGZEt3WmJlZm42VkhjRnNBdG1IcjVWcERDQjFBclVWVWNZb2dfTlNsZmZQOTBFd2N4dVloSHI1WUFjeVNrWFhUa1RzcDcxWDJEY0RRekI3S0lwZ1UtWldFYVk4ZUtza1hEVXdES1FlS1FD?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-29T01:35:00.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2xCbVNMS0tsLUMzZDhFZ2NkRE5PdFJGSERoNjdpU0xWeGRYVEhKWDFweV95TUhsNWl4SUtMam52aWNQUmVNWGNGVV9xclFjc1pmSjlHOFlWSHU2SzlpQWtBTHc5X1drMVBjMjFwUjB6VHNtUm83RDRTMjA3MVJEVlBsUkc5Y09pbldZUlBRM3RvT2RlOHdCZ1l6Z1dSZGpGNXZzYUFYak8zQURUNGZrcXhZdw?oc=5",
+      "title": "Batch write and discover records in Amazon SageMaker Feature Store - Amazon Web Services (AWS)",
+      "description": "Batch write and discover records in Amazon SageMaker Feature Store&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2xCbVNMS0tsLUMzZDhFZ2NkRE5PdFJGSERoNjdpU0xWeGRYVEhKWDFweV95TUhsNWl4SUtMam52aWNQUmVNWGNGVV9xclFjc1pmSjlHOFlWSHU2SzlpQWtBTHc5X1drMVBjMjFwUjB6VHNtUm83RDRTMjA3MVJEVlBsUkc5Y09pbldZUlBRM3RvT2RlOHdCZ1l6Z1dSZGpGNXZzYUFYak8zQURUNGZrcXhZdw?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-28T19:31:05.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3lEWElBMHNFMG56VTRTTnhoNENCQTVCLUNJY0pvSFFXZS12LTVoM1BqM0ZkMVQySkhfdUxoRWk4VDlEMDQ5TVZmN3dnU2VZcTRhYVhWb1dVN1hJYzVkTk8xZS1YMENqaXBnVk5HQWR1aWdVdnFsU1doZ3I2eElDek1EaU9OTUNaLTZNaGEzek5xZDV1ZjVJdTRtZWVHOHFwRVE?oc=5",
+      "title": "Use AI, ML to convert data into intelligence against criminals: HM Amit Shah - DD News",
+      "description": "Use AI, ML to convert data into intelligence against criminals: HM Amit Shah&nbsp;&nbsp;DD News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3lEWElBMHNFMG56VTRTTnhoNENCQTVCLUNJY0pvSFFXZS12LTVoM1BqM0ZkMVQySkhfdUxoRWk4VDlEMDQ5TVZmN3dnU2VZcTRhYVhWb1dVN1hJYzVkTk8xZS1YMENqaXBnVk5HQWR1aWdVdnFsU1doZ3I2eElDek1EaU9OTUNaLTZNaGEzek5xZDV1ZjVJdTRtZWVHOHFwRVE?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-28T18:45:07.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMic0FVX3lxTE9mYlEzNDFaWXRyU1o0MVBDM0lWd1RZbUdUVEEyNC1YZGhaeTN6SzFGSW96c0VZdGVsaFhYRTE1Szc1OFRPWXJmLWlLSkluZmdYeGNBYk9aeFNYNXZ3WVlVbWxFQjhTRGRWcE85Rzc2RlJfX3c?oc=5",
+      "title": "Artificial Intelligence in Upstream: key$230 Billion at stake - Inspenet",
+      "description": "Artificial Intelligence in Upstream: key$230 Billion at stake&nbsp;&nbsp;Inspenet",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mYlEzNDFaWXRyU1o0MVBDM0lWd1RZbUdUVEEyNC1YZGhaeTN6SzFGSW96c0VZdGVsaFhYRTE1Szc1OFRPWXJmLWlLSkluZmdYeGNBYk9aeFNYNXZ3WVlVbWxFQjhTRGRWcE85Rzc2RlJfX3c?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-28T21:21:53.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMingFBVV95cUxOTndyOWNEYlB4dHI4TlhGQ2k1MUNkSVRtbUp1SlA1NG5ydEt4bWx1TVk0YWtsaDRqY08wYk1xVzBUNDlDQWlUX0ZqT2ZDbGV2V0tlQmxoSHVONGR1YnZ3ZG5IV1ZoYXl5TzJkd1Q5WGpoemIxY3luMG1UT0NOSDJTWXE0U0xUUGFheGJlVXRYZ1dfNmU3WEVLekF4cG5vQQ?oc=5",
+      "title": "World Development Report 2026: The Promise of Artificial Intelligence - Stanford Graduate School of Business",
+      "description": "World Development Report 2026: The Promise of Artificial Intelligence&nbsp;&nbsp;Stanford Graduate School of Business",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTndyOWNEYlB4dHI4TlhGQ2k1MUNkSVRtbUp1SlA1NG5ydEt4bWx1TVk0YWtsaDRqY08wYk1xVzBUNDlDQWlUX0ZqT2ZDbGV2V0tlQmxoSHVONGR1YnZ3ZG5IV1ZoYXl5TzJkd1Q5WGpoemIxY3luMG1UT0NOSDJTWXE0U0xUUGFheGJlVXRYZ1dfNmU3WEVLekF4cG5vQQ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-08-28T20:11:56.000Z"
+    },
     {
       "id": "ai-https://news.google.com/rss/articles/CBMiekFVX3lxTE9lc1pXSlgzd0tBMkl1SUNueF9ZQ0RPTjViSl83Q3dxTm12SHlRM0x2QkxJNXM3NjFBcm9PUU01M2wxZ2F6Q2tNQk5YMzgxX2Z0c2FTTHViUWp1OUVSeXFjanpNQVl5amlSZkFRSnVNdG1SOXEta2FVX0VB0gF_QVVfeXFMT3NMS1VkMW1pb1ptRC1ZeHNWTXYtQVluNU1fYWlETlo3azBQRUhqYXQxMTRZUlVaOURpNkk5aFNyVXBLZmVjS2hOV0VUOS0xUlo4cEN6QmVuSWtGTk9FckFEYk42eDJaY2lQNk1hTnZ1RzJoWVp0NlNBYmhfd2VEOA?oc=5",
       "title": "AI and Machine Learning in Biology: Applications, Benefits & Challenges - BioTecNika",
@@ -12,234 +62,184 @@
       "publishedAt": "2026-08-28T07:39:39.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMinAFBVV95cUxOSm1IcGpIUWhNUGNKZXQ2alNjTEl0VVZCbmp4SS1HT3FJU1Y1dUROdkJ0VjA3Z0dJS3ZVYmlSQUxRTlh4dUJ0SlE4U3pqNU50X1Q0NG9RM0tETUFFc3U5Z09xT0ZpU3V5NXc2MEZJU2FTU0pOc3JRdFhCX3Rjc2JoQzFYdGRpV2RTRS15MjhfUE1scDBTd1l4TjlsQmg?oc=5",
-      "title": "Reviewing Artificial Intelligence in Materials Discovery - Spectroscopy Online",
-      "description": "Reviewing Artificial Intelligence in Materials Discovery&nbsp;&nbsp;Spectroscopy Online",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSm1IcGpIUWhNUGNKZXQ2alNjTEl0VVZCbmp4SS1HT3FJU1Y1dUROdkJ0VjA3Z0dJS3ZVYmlSQUxRTlh4dUJ0SlE4U3pqNU50X1Q0NG9RM0tETUFFc3U5Z09xT0ZpU3V5NXc2MEZJU2FTU0pOc3JRdFhCX3Rjc2JoQzFYdGRpV2RTRS15MjhfUE1scDBTd1l4TjlsQmg?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXVDM3hHZ3lGd0Y5bDdxS0F6TTNXVk1rcy1NTnVQYlVPWmNJSFdqLUNBMERBdzdWc09WQm1aaVc2RmViVHRnczdnWlJGV1hXRXMyOUQzTHRtRV80VmkyUGxDZ3RWNWFDem9vdmVBY3F2M0RMbGNyX0xZV182NjdPajZRY2dlU0oyRUp0am9rNExZeVJvY1ZOZTNWQVFUcVBQamlfSkg4ZWVoR2s?oc=5",
+      "title": "From War Booty to War Learning: The Legal Status of Captured Military Artificial Intelligence - Lieber Institute West Point",
+      "description": "From War Booty to War Learning: The Legal Status of Captured Military Artificial Intelligence&nbsp;&nbsp;Lieber Institute West Point",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXVDM3hHZ3lGd0Y5bDdxS0F6TTNXVk1rcy1NTnVQYlVPWmNJSFdqLUNBMERBdzdWc09WQm1aaVc2RmViVHRnczdnWlJGV1hXRXMyOUQzTHRtRV80VmkyUGxDZ3RWNWFDem9vdmVBY3F2M0RMbGNyX0xZV182NjdPajZRY2dlU0oyRUp0am9rNExZeVJvY1ZOZTNWQVFUcVBQamlfSkg4ZWVoR2s?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-08-28T04:07:30.000Z"
+      "publishedAt": "2026-08-28T17:20:32.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzdtblJnTHd2UjFJci1UdkVyaWRiTUxMak1pTXctZ2pYUmdYdG50Q0tsZkZjaG9SZ1JQaTZ5WWsxTWoxM1NUUzdiZjBkeUZBaV9lZ1RLMmtEeEZ4RmFoV3Y0ajBPYnNoYmRhUmxjdENpUU9jMUYydWcwMEFXbFlXSWx5OFFHMTktQmdKZzlYWk40LWJVX2ZUOUg1aU8tVzA5aU1sTlBuR1M?oc=5",
-      "title": "Build agentic creative workflows with Amazon Quick and fal - Amazon Web Services (AWS)",
-      "description": "Build agentic creative workflows with Amazon Quick and fal&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzdtblJnTHd2UjFJci1UdkVyaWRiTUxMak1pTXctZ2pYUmdYdG50Q0tsZkZjaG9SZ1JQaTZ5WWsxTWoxM1NUUzdiZjBkeUZBaV9lZ1RLMmtEeEZ4RmFoV3Y0ajBPYnNoYmRhUmxjdENpUU9jMUYydWcwMEFXbFlXSWx5OFFHMTktQmdKZzlYWk40LWJVX2ZUOUg1aU8tVzA5aU1sTlBuR1M?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2tLM1Vua2RZUE1jNHhkYVFacUNMa29yUWgxcWEwakxSeldybU5kQmZ2eFFNTWJfMjF4QUZkcWR6dFo0UWF2Y2JWcVFDQ0xpYVdqQ0VSN1ZGNXUwMEJ0UTlGYUVLU3ZkUGJ3SWJtRFdkVGhldl9IZXpjZVA4VHNaU2RPZEw2LU9IWTJoXzdlZFRZdnNaSGpraHplVkF2Q1NhcFdKaGtDU2dBZFowdWI4RkpJY2hVVlAwT2NudHdkYlFBRENib0x4Q0RQNTAxRk9QWmpWS9IB1AFBVV95cUxPU2tLM1Vua2RZUE1jNHhkYVFacUNMa29yUWgxcWEwakxSeldybU5kQmZ2eFFNTWJfMjF4QUZkcWR6dFo0UWF2Y2JWcVFDQ0xpYVdqQ0VSN1ZGNXUwMEJ0UTlGYUVLU3ZkUGJ3SWJtRFdkVGhldl9IZXpjZVA4VHNaU2RPZEw2LU9IWTJoXzdlZFRZdnNaSGpraHplVkF2Q1NhcFdKaGtDU2dBZFowdWI4RkpJY2hVVlAwT2NudHdkYlFBRENib0x4Q0RQNTAxRk9QWmpWSw?oc=5",
+      "title": "Goa University introduces AI elective across PG courses - ET Education",
+      "description": "Goa University introduces AI elective across PG courses&nbsp;&nbsp;ET Education",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2tLM1Vua2RZUE1jNHhkYVFacUNMa29yUWgxcWEwakxSeldybU5kQmZ2eFFNTWJfMjF4QUZkcWR6dFo0UWF2Y2JWcVFDQ0xpYVdqQ0VSN1ZGNXUwMEJ0UTlGYUVLU3ZkUGJ3SWJtRFdkVGhldl9IZXpjZVA4VHNaU2RPZEw2LU9IWTJoXzdlZFRZdnNaSGpraHplVkF2Q1NhcFdKaGtDU2dBZFowdWI4RkpJY2hVVlAwT2NudHdkYlFBRENib0x4Q0RQNTAxRk9QWmpWS9IB1AFBVV95cUxPU2tLM1Vua2RZUE1jNHhkYVFacUNMa29yUWgxcWEwakxSeldybU5kQmZ2eFFNTWJfMjF4QUZkcWR6dFo0UWF2Y2JWcVFDQ0xpYVdqQ0VSN1ZGNXUwMEJ0UTlGYUVLU3ZkUGJ3SWJtRFdkVGhldl9IZXpjZVA4VHNaU2RPZEw2LU9IWTJoXzdlZFRZdnNaSGpraHplVkF2Q1NhcFdKaGtDU2dBZFowdWI4RkpJY2hVVlAwT2NudHdkYlFBRENib0x4Q0RQNTAxRk9QWmpWSw?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-08-27T23:04:22.000Z"
+      "publishedAt": "2026-08-28T17:08:36.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2xndlBMRThRcEpxcGhDTENZQkpzUVBza3Y0aEVHenpHTnR6VHoyLTlsUVpnUTg4TWhaNU9LakdTVlllYzJRaC1mNi0yMWdzWUJITVBKUGhubFNpb1R6RmRKSDVtVUs0OVJRYS1YNkNvTlR2Qk9ubWc1dGpzMXJqa3ZZVkxaVHVnVU9ybUozdnpnM19Ga1VqQXNKaEZqdzN3WVphTDdBM2YxM0hLaGFZVXdPNjBlTW91WjRnVg?oc=5",
-      "title": "Over 8,000 engineering students trained by CTTC under Ministry of MSME - HR Katha",
-      "description": "Over 8,000 engineering students trained by CTTC under Ministry of MSME&nbsp;&nbsp;HR Katha",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2xndlBMRThRcEpxcGhDTENZQkpzUVBza3Y0aEVHenpHTnR6VHoyLTlsUVpnUTg4TWhaNU9LakdTVlllYzJRaC1mNi0yMWdzWUJITVBKUGhubFNpb1R6RmRKSDVtVUs0OVJRYS1YNkNvTlR2Qk9ubWc1dGpzMXJqa3ZZVkxaVHVnVU9ybUozdnpnM19Ga1VqQXNKaEZqdzN3WVphTDdBM2YxM0hLaGFZVXdPNjBlTW91WjRnVg?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-08-28T10:27:13.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTBvZjl4Z1NuSHZNcGZVc0QyZnpnM2VIanJ5aE5qaV9WRHBSaTdWRjEyN3Z4czRvb0hqVmtGUUxVQWxISDR1cEFEQVB5cjRfSC1EZXdUNlRBeEN1dGNzZWdrMGFGWEJybVRRR01CR0FxdW5XdVhkLVBrQ0JFQzctMDhFN2RHaGpOVmxITVltbHlLbGxjbmNR?oc=5",
-      "title": "Commentary: Applying artificial intelligence to fixed income trading - fi-desk.com",
-      "description": "Commentary: Applying artificial intelligence to fixed income trading&nbsp;&nbsp;fi-desk.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTBvZjl4Z1NuSHZNcGZVc0QyZnpnM2VIanJ5aE5qaV9WRHBSaTdWRjEyN3Z4czRvb0hqVmtGUUxVQWxISDR1cEFEQVB5cjRfSC1EZXdUNlRBeEN1dGNzZWdrMGFGWEJybVRRR01CR0FxdW5XdVhkLVBrQ0JFQzctMDhFN2RHaGpOVmxITVltbHlLbGxjbmNR?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-08-27T13:37:53.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzVGaGlILUdrbWY1QkQ1eWhfZE1GNTVXVHFjakw3ZE1wUXFLUS1HS0NfQ2s3NXZJVW1wTUN1Z21tMnhiUlBWS2dNNUdUdjE5Vk5ybmdHdk5fNVh3b3RVME16YnhheFRPMDNTN29FQ1ZibTY3Mnc2RHBaTlVEaHF0TkxsTHFSM2t5cFktd3pyY0lVTXYwZmIyRkEwMHpCOVE3V193YVRCVU15cUZBUmhyNVRVSDJhVVMyU05uTkR3?oc=5",
-      "title": "FAU Researchers Develop Quantum Machine Learning Framework for Heart Disease Prediction - Newswise",
-      "description": "FAU Researchers Develop Quantum Machine Learning Framework for Heart Disease Prediction&nbsp;&nbsp;Newswise",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzVGaGlILUdrbWY1QkQ1eWhfZE1GNTVXVHFjakw3ZE1wUXFLUS1HS0NfQ2s3NXZJVW1wTUN1Z21tMnhiUlBWS2dNNUdUdjE5Vk5ybmdHdk5fNVh3b3RVME16YnhheFRPMDNTN29FQ1ZibTY3Mnc2RHBaTlVEaHF0TkxsTHFSM2t5cFktd3pyY0lVTXYwZmIyRkEwMHpCOVE3V193YVRCVU15cUZBUmhyNVRVSDJhVVMyU05uTkR3?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-08-28T00:20:00.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMidkFVX3lxTFBuMS1SUFRRT0ZaaHVuN0JLbDRodEwwdXB2UXJCWnB0R3dpOGRBcjg2VjhtaVhXUGJOYVFZbnIxczE2ZUhLQi1UTzdTaFFZMzg2ZnNMVmE0NFU4R2x4QThuYy12RW1WdEo3NUY5el9WMkdfY3ZYVXc?oc=5",
-      "title": "AI Experts Speak: Memorable Quotes from Spectrum's AI Coverage - IEEE Spectrum",
-      "description": "AI Experts Speak: Memorable Quotes from Spectrum's AI Coverage&nbsp;&nbsp;IEEE Spectrum",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuMS1SUFRRT0ZaaHVuN0JLbDRodEwwdXB2UXJCWnB0R3dpOGRBcjg2VjhtaVhXUGJOYVFZbnIxczE2ZUhLQi1UTzdTaFFZMzg2ZnNMVmE0NFU4R2x4QThuYy12RW1WdEo3NUY5el9WMkdfY3ZYVXc?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-08-27T15:15:25.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGdfQk9iMlIxdzFqVHotMFA5TEdHY2hXREdvVWRYMUZmQ2d1LVp5eTdvcFd2clVZanQ2YTlDc2NNSEJ3Vl9yR2hxTDRqUzA2TWtJaXVRZHlWUTVWV0d1NnJHUDZac1B3MTZZZEZZWWpib1IxNTk1VHNSQms0enFxa0RkOXA4cEIxZ2Zr?oc=5",
-      "title": "New faculty member brings data expertise to ISE - Auburn University",
-      "description": "New faculty member brings data expertise to ISE&nbsp;&nbsp;Auburn University",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGdfQk9iMlIxdzFqVHotMFA5TEdHY2hXREdvVWRYMUZmQ2d1LVp5eTdvcFd2clVZanQ2YTlDc2NNSEJ3Vl9yR2hxTDRqUzA2TWtJaXVRZHlWUTVWV0d1NnJHUDZac1B3MTZZZEZZWWpib1IxNTk1VHNSQms0enFxa0RkOXA4cEIxZ2Zr?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-08-28T00:24:34.000Z"
-    },
-    {
-      "id": "tech-https://m-reschreiter.at/en/blog/how-i-cut-80-percent-context-overhead-dynamic-tools",
-      "title": "I Cut 80%+ of Context Overhead in My Coding Agent",
-      "description": "Article URL: https://m-reschreiter.at/en/blog/how-i-cut-80-percent-context-overhead-dynamic-tools\nComments URL: https://news.ycombinator.com/item?id=49476278\nPoints: 7\n# Comments: 0",
-      "url": "https://m-reschreiter.at/en/blog/how-i-cut-80-percent-context-overhead-dynamic-tools",
+      "id": "tech-https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "description": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing\nComments URL: https://news.ycombinator.com/item?id=49487341\nPoints: 4\n# Comments: 0",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-28T09:22:46.000Z"
+      "publishedAt": "2026-08-29T06:06:51.000Z"
     },
     {
-      "id": "tech-https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-      "description": "Article URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html\nComments URL: https://news.ycombinator.com/item?id=49476143\nPoints: 76\n# Comments: 12",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "id": "tech-https://github.com/kingroryg/turbokv",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "description": "Article URL: https://github.com/kingroryg/turbokv\nComments URL: https://news.ycombinator.com/item?id=49486334\nPoints: 68\n# Comments: 24",
+      "url": "https://github.com/kingroryg/turbokv",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-28T09:00:46.000Z"
+      "publishedAt": "2026-08-29T02:23:37.000Z"
     },
     {
-      "id": "tech-https://cartographia40k.com/",
-      "title": "Interactive Warhammer 40k Galaxy Map – Cartographia Imperialis",
-      "description": "Article URL: https://cartographia40k.com/\nComments URL: https://news.ycombinator.com/item?id=49475979\nPoints: 4\n# Comments: 0",
-      "url": "https://cartographia40k.com/",
+      "id": "tech-https://www.kumander.org/",
+      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+      "description": "Article URL: https://www.kumander.org/\nComments URL: https://news.ycombinator.com/item?id=49486176\nPoints: 34\n# Comments: 13",
+      "url": "https://www.kumander.org/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-28T08:35:07.000Z"
+      "publishedAt": "2026-08-29T01:48:15.000Z"
     },
     {
-      "id": "tech-https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
-      "title": "Climate change is strengthening El Niño, coral records suggest",
-      "description": "Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest\nComments URL: https://news.ycombinator.com/item?id=49475404\nPoints: 65\n# Comments: 27",
-      "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+      "id": "tech-https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "description": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\nComments URL: https://news.ycombinator.com/item?id=49486172\nPoints: 407\n# Comments: 172",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-28T07:19:16.000Z"
+      "publishedAt": "2026-08-29T01:47:53.000Z"
     },
     {
-      "id": "tech-https://github.com/AlgorithmicResearchGroup/fnscribe",
-      "title": "Show HN: FnScribe – Open-source, offline dictation for macOS",
-      "description": "Article URL: https://github.com/AlgorithmicResearchGroup/fnscribe\nComments URL: https://news.ycombinator.com/item?id=49475159\nPoints: 13\n# Comments: 2",
-      "url": "https://github.com/AlgorithmicResearchGroup/fnscribe",
+      "id": "tech-https://github.com/stemdeckapp/stemdeck",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "description": "Article URL: https://github.com/stemdeckapp/stemdeck\nComments URL: https://news.ycombinator.com/item?id=49486081\nPoints: 69\n# Comments: 13",
+      "url": "https://github.com/stemdeckapp/stemdeck",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-28T06:45:47.000Z"
+      "publishedAt": "2026-08-29T01:24:13.000Z"
     },
     {
-      "id": "tech-https://modal.cx/blog/announcing-flatpak-sta/",
-      "title": "Sovereign Tech Agency invests €500k in Flatpak",
-      "description": "Article URL: https://modal.cx/blog/announcing-flatpak-sta/\nComments URL: https://news.ycombinator.com/item?id=49474786\nPoints: 155\n# Comments: 88",
-      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "id": "tech-https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "description": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/\nComments URL: https://news.ycombinator.com/item?id=49485532\nPoints: 86\n# Comments: 30",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-28T05:42:47.000Z"
+      "publishedAt": "2026-08-28T23:46:10.000Z"
     },
     {
-      "id": "tech-https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "description": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\nComments URL: https://news.ycombinator.com/item?id=49474060\nPoints: 0\n# Comments: 0",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "id": "tech-https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "description": "Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/\nComments URL: https://news.ycombinator.com/item?id=49485452\nPoints: 116\n# Comments: 91",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-28T03:35:15.000Z"
+      "publishedAt": "2026-08-28T23:32:22.000Z"
     },
     {
-      "id": "tech-https://lwn.net/Articles/1088279/",
-      "title": "Bootstrappable Builds: How and Why",
-      "description": "Article URL: https://lwn.net/Articles/1088279/\nComments URL: https://news.ycombinator.com/item?id=49473868\nPoints: 43\n# Comments: 28",
-      "url": "https://lwn.net/Articles/1088279/",
+      "id": "tech-https://pwning.systems/posts/llm-memory-program-analysis/",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "description": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/\nComments URL: https://news.ycombinator.com/item?id=49485416\nPoints: 104\n# Comments: 19",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-08-28T03:02:42.000Z"
+      "publishedAt": "2026-08-28T23:27:45.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUQ3TUh5ZFJ6d21aVVdaOGhiNkdxZzN0WEJodV9waWxOdE9WS280Y1NNVllwWlZ5NXlITHVtWHZuaWxVekpQT25KVkRKTmZUWndSVm55TFRpcmkzZGFiLW43V3FscHVyT3UwSTNQRWFDNHA2YU51Q0ZZNVhuV3dEOXZB?oc=5",
-      "title": "Important Days in September 2026, National and International Days - Vajiram & Ravi",
-      "description": "Important Days in September 2026, National and International Days&nbsp;&nbsp;Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUQ3TUh5ZFJ6d21aVVdaOGhiNkdxZzN0WEJodV9waWxOdE9WS280Y1NNVllwWlZ5NXlITHVtWHZuaWxVekpQT25KVkRKTmZUWndSVm55TFRpcmkzZGFiLW43V3FscHVyT3UwSTNQRWFDNHA2YU51Q0ZZNVhuV3dEOXZB?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLWliZ2VwYkg2QVFHdE5XY3NCYmd3RlFsN29jcGwxZFAydC1MX0FXZTQ3N3c1blBhQmJ0bnZ2eEhOajkwYmtwaVI3ZzhGdlpvNzBkdmN0ZGRGdW1NUUlwWEZuNkJKc193T2NPUjFGMmZwR2lndXkzd0pkaHVZOVZrdnYzX3dWb1QwZlVQdUFkVTdTU3BWTFJJRmVPQmNNVVlMM3paWkpLQ2h6NHpFMHVhcktscUNrc1VWM0RKV0F0UkxvaUNETHBEd0NhMTZGWUQ2aGJLVXV4Z2dpYTBQOE1n0gHmAUFVX3lxTE52eG9OMGFwVmtnTUFKSzB0WWQtNEFucW5JWElfc0VVeThMVTdXZVZ0RWluUUJpRmFsVERKZmw1UktOOVBwTjh1TmJnWS1FWUsxbV9RRmlQWGg2clVZU2Q1WjBlTTRZenZPLXVhWVI5YW9oRGVXeW13SWtSbS1ZckVSa1Q2VzA4M1RQT2JjWGNaUlBWOGd2TDFBeFJZTzA3a3pKc3Zjc2FnYkluVlpsWmEwYUVMckNCSm5ldVdDRUZtNlVUUmtMUHJyd2hxZHdjcTVuVUxzdVlVUEdnYVUtQXBjYTgxY1RR?oc=5",
+      "title": "Knowledge Nugget | How will heat stress affect children and elderly? - The Indian Express",
+      "description": "Knowledge Nugget | How will heat stress affect children and elderly?&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLWliZ2VwYkg2QVFHdE5XY3NCYmd3RlFsN29jcGwxZFAydC1MX0FXZTQ3N3c1blBhQmJ0bnZ2eEhOajkwYmtwaVI3ZzhGdlpvNzBkdmN0ZGRGdW1NUUlwWEZuNkJKc193T2NPUjFGMmZwR2lndXkzd0pkaHVZOVZrdnYzX3dWb1QwZlVQdUFkVTdTU3BWTFJJRmVPQmNNVVlMM3paWkpLQ2h6NHpFMHVhcktscUNrc1VWM0RKV0F0UkxvaUNETHBEd0NhMTZGWUQ2aGJLVXV4Z2dpYTBQOE1n0gHmAUFVX3lxTE52eG9OMGFwVmtnTUFKSzB0WWQtNEFucW5JWElfc0VVeThMVTdXZVZ0RWluUUJpRmFsVERKZmw1UktOOVBwTjh1TmJnWS1FWUsxbV9RRmlQWGg2clVZU2Q1WjBlTTRZenZPLXVhWVI5YW9oRGVXeW13SWtSbS1ZckVSa1Q2VzA4M1RQT2JjWGNaUlBWOGd2TDFBeFJZTzA3a3pKc3Zjc2FnYkluVlpsWmEwYUVMckNCSm5ldVdDRUZtNlVUUmtMUHJyd2hxZHdjcTVuVUxzdVlVUEdnYVUtQXBjYTgxY1RR?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-08-27T18:32:17.000Z"
+      "publishedAt": "2026-08-29T06:34:05.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnhhQmp6aFo3Wk9vRWFQeUpjdkJzdnkzVFhkNVlnTldtaENGZ29aakNFT3BHMFYxeXZYemJqa0c4WFl4YkRPVWE0LTRtR3d5cmxKYlRRQTNORnhqTzJoam1FbEwtTld3Y0RGbnB0TEpPV0V2a2s4SEk2OWVPaGI0Yk5INmVDWnE4eWNxcmYwc05mZTNMWGhwY2xpSTJTU2lrYjZTT1hybUdUWWRVMmQ0TNIBsAFBVV95cUxOcnhhQmp6aFo3Wk9vRWFQeUpjdkJzdnkzVFhkNVlnTldtaENGZ29aakNFT3BHMFYxeXZYemJqa0c4WFl4YkRPVWE0LTRtR3d5cmxKYlRRQTNORnhqTzJoam1FbEwtTld3Y0RGbnB0TEpPV0V2a2s4SEk2OWVPaGI0Yk5INmVDWnE4eWNxcmYwc05mZTNMWGhwY2xpSTJTU2lrYjZTT1hybUdUWWRVMmQ0TA?oc=5",
-      "title": "28 August Current Affairs: India sends Nepal aid; Rajnath Singh launches ₹450 crore projects in Madhya Prad... - Bhaskar English",
-      "description": "28 August Current Affairs: India sends Nepal aid; Rajnath Singh launches ₹450 crore projects in Madhya Prad...&nbsp;&nbsp;Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnhhQmp6aFo3Wk9vRWFQeUpjdkJzdnkzVFhkNVlnTldtaENGZ29aakNFT3BHMFYxeXZYemJqa0c4WFl4YkRPVWE0LTRtR3d5cmxKYlRRQTNORnhqTzJoam1FbEwtTld3Y0RGbnB0TEpPV0V2a2s4SEk2OWVPaGI0Yk5INmVDWnE4eWNxcmYwc05mZTNMWGhwY2xpSTJTU2lrYjZTT1hybUdUWWRVMmQ0TNIBsAFBVV95cUxOcnhhQmp6aFo3Wk9vRWFQeUpjdkJzdnkzVFhkNVlnTldtaENGZ29aakNFT3BHMFYxeXZYemJqa0c4WFl4YkRPVWE0LTRtR3d5cmxKYlRRQTNORnhqTzJoam1FbEwtTld3Y0RGbnB0TEpPV0V2a2s4SEk2OWVPaGI0Yk5INmVDWnE4eWNxcmYwc05mZTNMWGhwY2xpSTJTU2lrYjZTT1hybUdUWWRVMmQ0TA?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMickFVX3lxTE13ZWVmOElXRjdYenhGalMzdjNHdzl6R3FtZW5rOElWdURzazRDZzBidTlLbXBtejh6MWQwaWszal80ejJzYkllQWVPbHpsbFVPRmZXR0dJb3lELW96dFNvT1ByYTd3R2VWcWpOWElGUEVLdw?oc=5",
+      "title": "Current Affairs for 28 August 2026 - Sanskriti IAS",
+      "description": "Current Affairs for 28 August 2026&nbsp;&nbsp;Sanskriti IAS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13ZWVmOElXRjdYenhGalMzdjNHdzl6R3FtZW5rOElWdURzazRDZzBidTlLbXBtejh6MWQwaWszal80ejJzYkllQWVPbHpsbFVPRmZXR0dJb3lELW96dFNvT1ByYTd3R2VWcWpOWElGUEVLdw?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-08-27T23:30:15.000Z"
+      "publishedAt": "2026-08-28T12:20:37.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWVVdWVja1ptY0NFa3RiUnJpNXRfb2dHdGI4dzRlaUVqeVFLbktUdW5wV3hGaE5VbHRVbnBkVVAxRkdLM3ktekhDU2JWQ2IxS0xDWVRKYW8yRXRzakhrUlhQLWE4LXRueHVSSnFMX3oyeDJOOXZKeldPU00ydHR2RlNNUE42R0pwdm9tcGdRRjN4TmlBLXBwdU9BMExtazZuM2VGYVFkd04xOUpYbTNCbzV0eXBtNWtYS3dySVRYa0VGOXJm0gHLAUFVX3lxTE5BSGdXU1JzanAtX01WWloyT3k4SE9FVU53MHZoOE9WUkwwVGdPdVMtbDBBQjBFSXFyeV9kQTR4TWIyaFlXVXVwOW95WlNENTlCMUJzWWdoblZ2ZmJjX0F2NnRJcURpckZra2h0NTQxZnVCMkk5ckdWSmdqUVZYcnFvWnVzaTdEaHl0dDlpWTlTaTV5QUJYRXJGQWpBaGJVRFlZM3dUVGVQcjdyU2dYWHk5bzJwbGt1X0oybXFYQVNKZTdOc0VyOG11dkE4?oc=5",
-      "title": "UPSC Key: Nepal flash flood, UN Human Rights and Economic D-Day - The Indian Express",
-      "description": "UPSC Key: Nepal flash flood, UN Human Rights and Economic D-Day&nbsp;&nbsp;The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWVVdWVja1ptY0NFa3RiUnJpNXRfb2dHdGI4dzRlaUVqeVFLbktUdW5wV3hGaE5VbHRVbnBkVVAxRkdLM3ktekhDU2JWQ2IxS0xDWVRKYW8yRXRzakhrUlhQLWE4LXRueHVSSnFMX3oyeDJOOXZKeldPU00ydHR2RlNNUE42R0pwdm9tcGdRRjN4TmlBLXBwdU9BMExtazZuM2VGYVFkd04xOUpYbTNCbzV0eXBtNWtYS3dySVRYa0VGOXJm0gHLAUFVX3lxTE5BSGdXU1JzanAtX01WWloyT3k4SE9FVU53MHZoOE9WUkwwVGdPdVMtbDBBQjBFSXFyeV9kQTR4TWIyaFlXVXVwOW95WlNENTlCMUJzWWdoblZ2ZmJjX0F2NnRJcURpckZra2h0NTQxZnVCMkk5ckdWSmdqUVZYcnFvWnVzaTdEaHl0dDlpWTlTaTV5QUJYRXJGQWpBaGJVRFlZM3dUVGVQcjdyU2dYWHk5bzJwbGt1X0oybXFYQVNKZTdOc0VyOG11dkE4?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkpwMmYwN3l2TXFISmZvdi14RVBqZVpJbEV2YWZ6SUhWb3A1dkxqUzAyRWFSQ2o5N2lWZTh6UVA0MW1hRVdfMDRqbkZkc0R0VWFMbE56ZXdxcWI1YnJmbjUzbkNROWoycTZBYjdhYzZDQ3NyU0twSXMzV1NtbnNsbEVSMERvV0lMZGlXblMtVS12ZW9JazhZYS1FUjkyZ3V6YjdEQXFMemdGajAtTHliZHJvN2Qxd21WQjNBY01paVPSAcABQVVfeXFMT0pKcDJmMDd5dk1xSEpmb3YteEVQamVaSWxFdmFmeklIVm9wNXZMalMwMkVhUkNqOTdpVmU4elFQNDFtYUVXXzA0am5GZHNEdFVhTGxOemV3cXFiNWJyZm41M25DUTlqMnE2QWI3YWM2Q0NzclNLcElzM1dTbW5zbGxFUjBEb1dJTGRpV25TLVUtdmVvSWs4WWEtRVI5Mmd1emI3REFxTHpnRmowLUx5YmRybzdkMXdtVkIzQWNNaWlT?oc=5",
+      "title": "29 August Current Affairs: NTA appoints 2 new Directors after paper leak; Norway's Prince Harald V passes a... - Bhaskar English",
+      "description": "29 August Current Affairs: NTA appoints 2 new Directors after paper leak; Norway's Prince Harald V passes a...&nbsp;&nbsp;Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkpwMmYwN3l2TXFISmZvdi14RVBqZVpJbEV2YWZ6SUhWb3A1dkxqUzAyRWFSQ2o5N2lWZTh6UVA0MW1hRVdfMDRqbkZkc0R0VWFMbE56ZXdxcWI1YnJmbjUzbkNROWoycTZBYjdhYzZDQ3NyU0twSXMzV1NtbnNsbEVSMERvV0lMZGlXblMtVS12ZW9JazhZYS1FUjkyZ3V6YjdEQXFMemdGajAtTHliZHJvN2Qxd21WQjNBY01paVPSAcABQVVfeXFMT0pKcDJmMDd5dk1xSEpmb3YteEVQamVaSWxFdmFmeklIVm9wNXZMalMwMkVhUkNqOTdpVmU4elFQNDFtYUVXXzA0am5GZHNEdFVhTGxOemV3cXFiNWJyZm41M25DUTlqMnE2QWI3YWM2Q0NzclNLcElzM1dTbW5zbGxFUjBEb1dJTGRpV25TLVUtdmVvSWs4WWEtRVI5Mmd1emI3REFxTHpnRmowLUx5YmRybzdkMXdtVkIzQWNNaWlT?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-08-27T14:38:26.000Z"
+      "publishedAt": "2026-08-28T23:00:00.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT3RNMWNlYXAwV05aTTRfekVJM3J3LV82N0l6Y3RGZjBLLTdiYXMzd3pidEdpMDBtVVNMRllndGc2aUhNVEdfMFprUl9qN2JQU1B5MEFqN1dmRmFTV00ySXA0aWloSmZxcXhRLVZ5MWZYZVRTdEVJd3RmWWhZa2JLb2ttOGRvZzNwN0haYy1rTXB2c0oyWHJTNVZwRHl3SGZMeFdtbk43dXNsal91cHYzSUVpWmNXU2lsU09HRWJDSXlSdnZadWRwYlIzb0VDcy1pZGx0blFmb1QyZDVXNEVvVU1vcUI?oc=5",
-      "title": "School assembly news headlines today- August 28: Top national, sports and world news curated for you - India Today",
-      "description": "School assembly news headlines today- August 28: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT3RNMWNlYXAwV05aTTRfekVJM3J3LV82N0l6Y3RGZjBLLTdiYXMzd3pidEdpMDBtVVNMRllndGc2aUhNVEdfMFprUl9qN2JQU1B5MEFqN1dmRmFTV00ySXA0aWloSmZxcXhRLVZ5MWZYZVRTdEVJd3RmWWhZa2JLb2ttOGRvZzNwN0haYy1rTXB2c0oyWHJTNVZwRHl3SGZMeFdtbk43dXNsal91cHYzSUVpWmNXU2lsU09HRWJDSXlSdnZadWRwYlIzb0VDcy1pZGx0blFmb1QyZDVXNEVvVU1vcUI?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3dKc2N0LUJHeU1UWlcta0o4aXYxTExrNndkNVFtT0hWRklZTkRoQzBJaGE1ak9CX2JwdkE0X1J4MFhjVFpZeWVLa0xjV3I4N0hpemJVNjduNlBLWDYtYUo2a205ZENhNzd1WWtWWEM0RjlLTDJKdkZHUTE5V0FsWGZycHViUVZGVGlNUllVOXIwYWlfSjBrbGkzWldTSjJnN3FmUVBaczIxRjlRblVJb1d2Y0paTXhfQWlIVmI5bjZ4NGtaWjUw0gHMAUFVX3lxTFBxN1Z1MXNocV9RUlota3AtMXlra1M2OXgtdGs5eFVYRkt2cjM3dzhJbEdPYkVZMXNoY0hDd3Z2ZUowMGU2SDVzSjVWUGNqeVY4MzFMVV83ZktZanRxUmkyaUdvMUhtYUJaNDAzMUwyTE1MT2VET1VEcEtSMUxNc3BOYWNTNkxWVS1UYWZqZDNaRFN0TjlFTHZkbkI4Tmd4SmllTW9wVWxqS0FYd2J4Q29PT2FrZTZqX215cXRJVk93bWtzYzNWX3NzUTNudw?oc=5",
+      "title": "Looking to Advance India's Vision for Region Free from Terror: Modi - Deccan Chronicle",
+      "description": "Looking to Advance India's Vision for Region Free from Terror: Modi&nbsp;&nbsp;Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3dKc2N0LUJHeU1UWlcta0o4aXYxTExrNndkNVFtT0hWRklZTkRoQzBJaGE1ak9CX2JwdkE0X1J4MFhjVFpZeWVLa0xjV3I4N0hpemJVNjduNlBLWDYtYUo2a205ZENhNzd1WWtWWEM0RjlLTDJKdkZHUTE5V0FsWGZycHViUVZGVGlNUllVOXIwYWlfSjBrbGkzWldTSjJnN3FmUVBaczIxRjlRblVJb1d2Y0paTXhfQWlIVmI5bjZ4NGtaWjUw0gHMAUFVX3lxTFBxN1Z1MXNocV9RUlota3AtMXlra1M2OXgtdGs5eFVYRkt2cjM3dzhJbEdPYkVZMXNoY0hDd3Z2ZUowMGU2SDVzSjVWUGNqeVY4MzFMVV83ZktZanRxUmkyaUdvMUhtYUJaNDAzMUwyTE1MT2VET1VEcEtSMUxNc3BOYWNTNkxWVS1UYWZqZDNaRFN0TjlFTHZkbkI4Tmd4SmllTW9wVWxqS0FYd2J4Q29PT2FrZTZqX215cXRJVk93bWtzYzNWX3NzUTNudw?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-08-27T13:29:42.000Z"
+      "publishedAt": "2026-08-29T04:09:14.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNDd6aTFqc2VRNzNnSTRFdjMwUXFnZUdDUFFkcFlBVkdVYjRxWVVXMWN4b1pTVmprTS1LbW5SN3pvOFpmanBCNUs3MUN3RE5WbVZOUWtlUEwwQXRJeEZkOFExX2RvNENFbFVWT1JnWF9aU1FiVVlFZjdMYTRCS0NmYV9QMDhvei1wQXRMcTd0RVc4MFhiZUhmQjlfQmsycFh6SzBBNUtNV1FkOC1JNVBsbUVaX2d5N2o0MXZNb1hSTHdsUngtZTZJc2RUbDhOSHgtcFlxN2ktRjBKQk54U3ZxeGIxNTREYjR0UWs2VDJwZHVKT0k2aWc?oc=5",
-      "title": "School assembly news headlines for August 28: Top India, world, sports and business updates - The Economic Times",
-      "description": "School assembly news headlines for August 28: Top India, world, sports and business updates&nbsp;&nbsp;The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNDd6aTFqc2VRNzNnSTRFdjMwUXFnZUdDUFFkcFlBVkdVYjRxWVVXMWN4b1pTVmprTS1LbW5SN3pvOFpmanBCNUs3MUN3RE5WbVZOUWtlUEwwQXRJeEZkOFExX2RvNENFbFVWT1JnWF9aU1FiVVlFZjdMYTRCS0NmYV9QMDhvei1wQXRMcTd0RVc4MFhiZUhmQjlfQmsycFh6SzBBNUtNV1FkOC1JNVBsbUVaX2d5N2o0MXZNb1hSTHdsUngtZTZJc2RUbDhOSHgtcFlxN2ktRjBKQk54U3ZxeGIxNTREYjR0UWs2VDJwZHVKT0k2aWc?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2xhTmJNM2twVlZUSTh5RTRTeFZDM1RjQlhjeWpPOUhYT01UclRtaHFyME5PRndVRUUxZ1EzeXdwQWZHV2tFZVZDNkFqOUdJZWtINXdCT2RBT2xWLTZiOWN4djRKQ25IZFdOemM0djRSOU9HUXRtRVlabUtvQVMzNjY0a0JmM0lJaDRmNkJvVzBXZk5tWWxDX1A4aUU1aDdRM2ptVTdLVHVLMjdXQnR1eXZaN1ljZjJwdERVSzVoTjFGeFBmZElUS0VNVHY1NjRlLUF6WHBobTBrM2NF?oc=5",
+      "title": "UPSC Current Affairs: Art and Culture with Devdutt | Sushruta’s contribution to modern reconstructive surgery - The Indian Express",
+      "description": "UPSC Current Affairs: Art and Culture with Devdutt | Sushruta’s contribution to modern reconstructive surgery&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ2xhTmJNM2twVlZUSTh5RTRTeFZDM1RjQlhjeWpPOUhYT01UclRtaHFyME5PRndVRUUxZ1EzeXdwQWZHV2tFZVZDNkFqOUdJZWtINXdCT2RBT2xWLTZiOWN4djRKQ25IZFdOemM0djRSOU9HUXRtRVlabUtvQVMzNjY0a0JmM0lJaDRmNkJvVzBXZk5tWWxDX1A4aUU1aDdRM2ptVTdLVHVLMjdXQnR1eXZaN1ljZjJwdERVSzVoTjFGeFBmZElUS0VNVHY1NjRlLUF6WHBobTBrM2NF?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-08-27T13:52:00.000Z"
+      "publishedAt": "2026-08-28T14:12:01.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnBfajN1dUxlenFMeVhESXBXdzNtaHB0ZW9tWXp0RVNfUmhyRXE5cVV4bWJXX2laZUZ0TkdVTnVTcTZvSW9DcFA2NWo3bGhOOGZfOVlBSUV3VUFQRVY1VXVqOTFmamZkZnoxUTJ0UnIxRFFSMk9Kdi1OVmlxTjN3Q041eXk0Z2c?oc=5",
-      "title": "Daily Current Affairs – 28 August 2026 - FreeJobAlert.Com",
-      "description": "Daily Current Affairs – 28 August 2026&nbsp;&nbsp;FreeJobAlert.Com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnBfajN1dUxlenFMeVhESXBXdzNtaHB0ZW9tWXp0RVNfUmhyRXE5cVV4bWJXX2laZUZ0TkdVTnVTcTZvSW9DcFA2NWo3bGhOOGZfOVlBSUV3VUFQRVY1VXVqOTFmamZkZnoxUTJ0UnIxRFFSMk9Kdi1OVmlxTjN3Q041eXk0Z2c?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnBldGVjVXNwVlBDRV9oUGFRLXFDeEdzTkRIV2dNekIyMTdncG13NnJxRHJEOFdKYmhzbnNoSjhySERNQTZYS0pYdEtuQjZVRVVoYUFSZnI0TndWOVlvY3hwbzkzUk9ISFhFb2diNllGOVVfYWRha0loYXFQZndqREc5TEc5SWRKa0FSdFhjbDl5N1lwZk9JMGNwck1BQXM1TXpHenVoek9VWndyVWo0WEFiWkYyS2xoeS1n0gHCAUFVX3lxTFB3OUhzUlI4TWd4QXpiYThlX2UwQk1HY0RhLVJoX0Y4Y1VYLWNGbUU4U09NRmNkbTRVMEYzM1MtLXV3WHJ6OHI3amlsVXBqeGpiNFo1S1FzU1lEWnZQTkVnX1FicnowR29FOTFmY09LRnlkNk5Fc2lYbjE2OGJqOXBfOG9BeEtNYW0yVFZwRFJiTzBDZW1YZHN3LU0zSV9BZlcxREZvQk9nSlhWNjlZYnNwOURyRXFpdGRGVDZzekJUbFhB?oc=5",
+      "title": "Beyond Trending: What is minilateralism? - The Indian Express",
+      "description": "Beyond Trending: What is minilateralism?&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnBldGVjVXNwVlBDRV9oUGFRLXFDeEdzTkRIV2dNekIyMTdncG13NnJxRHJEOFdKYmhzbnNoSjhySERNQTZYS0pYdEtuQjZVRVVoYUFSZnI0TndWOVlvY3hwbzkzUk9ISFhFb2diNllGOVVfYWRha0loYXFQZndqREc5TEc5SWRKa0FSdFhjbDl5N1lwZk9JMGNwck1BQXM1TXpHenVoek9VWndyVWo0WEFiWkYyS2xoeS1n0gHCAUFVX3lxTFB3OUhzUlI4TWd4QXpiYThlX2UwQk1HY0RhLVJoX0Y4Y1VYLWNGbUU4U09NRmNkbTRVMEYzM1MtLXV3WHJ6OHI3amlsVXBqeGpiNFo1S1FzU1lEWnZQTkVnX1FicnowR29FOTFmY09LRnlkNk5Fc2lYbjE2OGJqOXBfOG9BeEtNYW0yVFZwRFJiTzBDZW1YZHN3LU0zSV9BZlcxREZvQk9nSlhWNjlZYnNwOURyRXFpdGRGVDZzekJUbFhB?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-08-28T06:01:48.000Z"
+      "publishedAt": "2026-08-28T13:30:19.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMipgFBVV95cUxOSi1NMjg4MWFIa0pmblpoZFRUdWlCVlZWSE9KWUN1OHF2NUkwRWFoV0ZocTZKZTN1eVBuSV9JNXpxc1AyR1RZcWp5X2N2eWZfVldUVTNFcDdCcG4tc2JzQkNReXFjMWtFMG0yVk55cXEtdU1ZNkxmdFRuMDR2TU1SRXViSkdLSW9wM0lfYWpHd20tcHRXMmRGN3M1NnRQeFI0SXExLUtR?oc=5",
-      "title": "World Sanskrit Day 2026: Date, History, Significance and Key Facts - Adda247",
-      "description": "World Sanskrit Day 2026: Date, History, Significance and Key Facts&nbsp;&nbsp;Adda247",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSi1NMjg4MWFIa0pmblpoZFRUdWlCVlZWSE9KWUN1OHF2NUkwRWFoV0ZocTZKZTN1eVBuSV9JNXpxc1AyR1RZcWp5X2N2eWZfVldUVTNFcDdCcG4tc2JzQkNReXFjMWtFMG0yVk55cXEtdU1ZNkxmdFRuMDR2TU1SRXViSkdLSW9wM0lfYWpHd20tcHRXMmRGN3M1NnRQeFI0SXExLUtR?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiYEFVX3lxTE81b3dzLWdqQ1NOTWZtX0E5V3NmTUtmQVU3TVpGeVJxZXQzbjY2ZndJUGtzbC1pTHBTZ1NpQW9nQ25uSmRxZzdGLUxCWEcwQm4wYlI0TkU3MEtiU3liLUxoQw?oc=5",
+      "title": "Super El Niño 2026: Why India Is Facing Record-Breaking Heat | Current Affairs | Drishti IAS Jeļena Ostapenko (rIDdLqqt6v) - Mshale",
+      "description": "Super El Niño 2026: Why India Is Facing Record-Breaking Heat | Current Affairs | Drishti IAS Jeļena Ostapenko (rIDdLqqt6v)&nbsp;&nbsp;Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81b3dzLWdqQ1NOTWZtX0E5V3NmTUtmQVU3TVpGeVJxZXQzbjY2ZndJUGtzbC1pTHBTZ1NpQW9nQ25uSmRxZzdGLUxCWEcwQm4wYlI0TkU3MEtiU3liLUxoQw?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-08-28T08:58:36.000Z"
+      "publishedAt": "2026-08-28T10:14:59.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVHNPdmtFZnp3a2V0aW9nb0o3dlJQdld2OFBUOVBYM2ZTWEJsVXc1OGQ1T2JWWFNJWVVNbllMOUxyUHFzckZQS2l6QzVfQ0haRDR6UnE2M25VRGlCdW9wVXlDYjFTYjVEcmptWTFZN2w4MEFJaHAxcE5FMC1vX0JpWVBuSTBmdUtaNkxvdE55TzZIcnJSSjNlY0NqOUgxRFJ1d1A2X1lTZ0ZGLWgzaXk3SEY1YndQMTRtaHFLVXIzcTF5ekZDTGtIRXFQUk90NkttdThnT1JxcHVId9IB2gFBVV95cUxOVHNPdmtFZnp3a2V0aW9nb0o3dlJQdld2OFBUOVBYM2ZTWEJsVXc1OGQ1T2JWWFNJWVVNbllMOUxyUHFzckZQS2l6QzVfQ0haRDR6UnE2M25VRGlCdW9wVXlDYjFTYjVEcmptWTFZN2w4MEFJaHAxcE5FMC1vX0JpWVBuSTBmdUtaNkxvdE55TzZIcnJSSjNlY0NqOUgxRFJ1d1A2X1lTZ0ZGLWgzaXk3SEY1YndQMTRtaHFLVXIzcTF5ekZDTGtIRXFQUk90NkttdThnT1JxcHVIdw?oc=5",
-      "title": "Asian Games Medal Tally Country Wise from 1951 to 2026: Complete All-Time List - Jagran Josh",
-      "description": "Asian Games Medal Tally Country Wise from 1951 to 2026: Complete All-Time List&nbsp;&nbsp;Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVHNPdmtFZnp3a2V0aW9nb0o3dlJQdld2OFBUOVBYM2ZTWEJsVXc1OGQ1T2JWWFNJWVVNbllMOUxyUHFzckZQS2l6QzVfQ0haRDR6UnE2M25VRGlCdW9wVXlDYjFTYjVEcmptWTFZN2w4MEFJaHAxcE5FMC1vX0JpWVBuSTBmdUtaNkxvdE55TzZIcnJSSjNlY0NqOUgxRFJ1d1A2X1lTZ0ZGLWgzaXk3SEY1YndQMTRtaHFLVXIzcTF5ekZDTGtIRXFQUk90NkttdThnT1JxcHVId9IB2gFBVV95cUxOVHNPdmtFZnp3a2V0aW9nb0o3dlJQdld2OFBUOVBYM2ZTWEJsVXc1OGQ1T2JWWFNJWVVNbllMOUxyUHFzckZQS2l6QzVfQ0haRDR6UnE2M25VRGlCdW9wVXlDYjFTYjVEcmptWTFZN2w4MEFJaHAxcE5FMC1vX0JpWVBuSTBmdUtaNkxvdE55TzZIcnJSSjNlY0NqOUgxRFJ1d1A2X1lTZ0ZGLWgzaXk3SEY1YndQMTRtaHFLVXIzcTF5ekZDTGtIRXFQUk90NkttdThnT1JxcHVIdw?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWxiNWhZZno3ZGtYTlpFNVg1bjd0TlRFV0dGRlpnR2pRbGNoNURUVEd0MVFFd0Q5S3NnV2lrbjBKMU4xSmpiQURuTXQxQ3FUX0ZVVnFDcWZwR3RyM2dPVmVzcDlSX1N1dW9Fa3ZGVGdjVWpOTExsZUs4U2R0YWZCbWp2T0VOX0RKc2x3bEpzaEdYUWpGZnlwa0E3MG1fSzVCa0liSjFDYjFxTF9MT04xNk9WX25ZUHhudWYxYmJ5WUZ3ZjTSAcMBQVVfeXFMT0VsYjVoWWZ6N2RrWE5aRTVYNW43dE5URVdHRkZaZ0dqUWxjaDVEVFRHdDFRRXdEOUtzZ1dpa24wSjFOMUpqYkFEbk10MUNxVF9GVVZxQ3FmcEd0cjNnT1Zlc3A5Ul9TdXVvRWt2RlRnY1VqTkxMbGVLOFNkdGFmQm1qdk9FTl9ESnNsd2xKc2hHWFFqRmZ5cGtBNzBtX0s1QmtJYkoxQ2IxcUxfTE9OMTZPVl9uWVB4bnVmMWJieVlGd2Y0?oc=5",
+      "title": "CAG and IIT Madras Launch CADS: A New Career Path in Digital System Auditing - Bhaskar English",
+      "description": "CAG and IIT Madras Launch CADS: A New Career Path in Digital System Auditing&nbsp;&nbsp;Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWxiNWhZZno3ZGtYTlpFNVg1bjd0TlRFV0dGRlpnR2pRbGNoNURUVEd0MVFFd0Q5S3NnV2lrbjBKMU4xSmpiQURuTXQxQ3FUX0ZVVnFDcWZwR3RyM2dPVmVzcDlSX1N1dW9Fa3ZGVGdjVWpOTExsZUs4U2R0YWZCbWp2T0VOX0RKc2x3bEpzaEdYUWpGZnlwa0E3MG1fSzVCa0liSjFDYjFxTF9MT04xNk9WX25ZUHhudWYxYmJ5WUZ3ZjTSAcMBQVVfeXFMT0VsYjVoWWZ6N2RrWE5aRTVYNW43dE5URVdHRkZaZ0dqUWxjaDVEVFRHdDFRRXdEOUtzZ1dpa24wSjFOMUpqYkFEbk10MUNxVF9GVVZxQ3FmcEd0cjNnT1Zlc3A5Ul9TdXVvRWt2RlRnY1VqTkxMbGVLOFNkdGFmQm1qdk9FTl9ESnNsd2xKc2hHWFFqRmZ5cGtBNzBtX0s1QmtJYkoxQ2IxcUxfTE9OMTZPVl9uWVB4bnVmMWJieVlGd2Y0?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-08-28T06:52:00.000Z"
+      "publishedAt": "2026-08-28T10:51:31.000Z"
     }
   ]
 }
