@@ -1,85 +1,245 @@
 {
-  "updatedAt": "2026-09-17T05:03:12.412Z",
+  "updatedAt": "2026-09-18T04:56:04.111Z",
   "articles": [
     {
-      "id": "tech-https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb",
-      "title": "The President's Power to Pardon Friends and Allies Must End",
-      "description": "Article URL: https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb\nComments URL: https://news.ycombinator.com/item?id=49736289\nPoints: 13\n# Comments: 3",
-      "url": "https://medium.com/freedomofthought/the-presidents-power-to-pardon-friends-and-allies-must-end-b9574f9eedfb",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-09-17T04:09:12.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHRxaDdQdG9PcjNHMFRrX2ZXTEtycUxZOGtQNWVCNC05TzVCNVRNNmZCSWtpSmdndDluTXg5SDdWMTRaRDZ2U2s5QkVyc1lMZHBjQk94em85dG1hYVBOVVVGV0tlVE5hbjdzQWd5ZGQ5WE9RVGozWjEwcEJSWUhqTlFB?oc=5",
+      "title": "Coast Guard to Establish AI & Machine Learning Center at Academy - ExecutiveGov",
+      "description": "Coast Guard to Establish AI & Machine Learning Center at Academy&nbsp;&nbsp;ExecutiveGov",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHRxaDdQdG9PcjNHMFRrX2ZXTEtycUxZOGtQNWVCNC05TzVCNVRNNmZCSWtpSmdndDluTXg5SDdWMTRaRDZ2U2s5QkVyc1lMZHBjQk94em85dG1hYVBOVVVGV0tlVE5hbjdzQWd5ZGQ5WE9RVGozWjEwcEJSWUhqTlFB?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-09-17T21:19:46.000Z"
     },
     {
-      "id": "tech-https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/",
-      "title": "The Painful Truth: The RAM Crisis Is Only Just the Beginning",
-      "description": "Article URL: https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/\nComments URL: https://news.ycombinator.com/item?id=49736220\nPoints: 44\n# Comments: 34",
-      "url": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-09-17T03:57:59.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMixgFBVV95cUxQYlczRzZvdFZNbl9PSEpMYmJZY3NGM0stUGxXdmozdjRNOEFFSlNpdDVEbEdBTmlOdTFMSnpiNG9JQXEtV0h5aEhVNXIydFVUR0NET013RGFRSDE2RWU0MjdoVERvRWVUOHNjV21pTXZXYzJ2SmZfbGVfRUhoWEhyTkVnTWZ4NkhhSGR3TnJGQ0EwcjdjbEJRM1l3cUg0U3Q2d1RSOURUQ09LZTNMNU5wNGVuZTNhcUJyclBQUkNKTXBsWGhBRnc?oc=5",
+      "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent - aws.amazon.com",
+      "description": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent&nbsp;&nbsp;aws.amazon.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYlczRzZvdFZNbl9PSEpMYmJZY3NGM0stUGxXdmozdjRNOEFFSlNpdDVEbEdBTmlOdTFMSnpiNG9JQXEtV0h5aEhVNXIydFVUR0NET013RGFRSDE2RWU0MjdoVERvRWVUOHNjV21pTXZXYzJ2SmZfbGVfRUhoWEhyTkVnTWZ4NkhhSGR3TnJGQ0EwcjdjbEJRM1l3cUg0U3Q2d1RSOURUQ09LZTNMNU5wNGVuZTNhcUJyclBQUkNKTXBsWGhBRnc?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-09-17T17:55:20.000Z"
     },
     {
-      "id": "tech-https://ryan.science/blog/keys-not-included",
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "description": "Article URL: https://ryan.science/blog/keys-not-included\nComments URL: https://news.ycombinator.com/item?id=49735930\nPoints: 70\n# Comments: 18",
-      "url": "https://ryan.science/blog/keys-not-included",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-09-17T03:03:23.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXQtQUg4TzFRWUlFSWNjR2o3RVpUMnQzZWxjYWV6Y2ZZZV91OFlRT3RBZkNLdHlhcGNObFBhUUFOcExYVVR6M2x0RWxsVU1GNUVMUC10X3ZpdVZHZW5SQW1FVXBSV2hVdG5zMFhTOW9STVQ2RGkteWx0WEk5Ym5URTVtVTJ1YjhSSkZTUHNQVzA1ZXY0RFJR?oc=5",
+      "title": "Rice to launch Master of Artificial Intelligence program in fall 2027 - Rice University",
+      "description": "Rice to launch Master of Artificial Intelligence program in fall 2027&nbsp;&nbsp;Rice University",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXQtQUg4TzFRWUlFSWNjR2o3RVpUMnQzZWxjYWV6Y2ZZZV91OFlRT3RBZkNLdHlhcGNObFBhUUFOcExYVVR6M2x0RWxsVU1GNUVMUC10X3ZpdVZHZW5SQW1FVXBSV2hVdG5zMFhTOW9STVQ2RGkteWx0WEk5Ym5URTVtVTJ1YjhSSkZTUHNQVzA1ZXY0RFJR?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-09-17T14:00:26.000Z"
     },
     {
-      "id": "tech-https://www.vanityfair.com/news/2008/05/monsanto200805",
-      "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
-      "description": "Article URL: https://www.vanityfair.com/news/2008/05/monsanto200805\nComments URL: https://news.ycombinator.com/item?id=49735692\nPoints: 28\n# Comments: 12",
-      "url": "https://www.vanityfair.com/news/2008/05/monsanto200805",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-09-17T02:19:49.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KUU9SaW1DQ2dLSXNkM1hZYmlrNWdkUlczVTFHVUFucW1RUkFBZmJjalFQU0ZXSVVVX0QxSDBxSHJPQmMzanVzRTY5OXVFR21jc1ZFVXhJTG9YR0tEbElPTTBqaFQ4OEUy?oc=5",
+      "title": "IIM Raipur to Host Second International Case Conference in January 2027 - PIB",
+      "description": "IIM Raipur to Host Second International Case Conference in January 2027&nbsp;&nbsp;PIB",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KUU9SaW1DQ2dLSXNkM1hZYmlrNWdkUlczVTFHVUFucW1RUkFBZmJjalFQU0ZXSVVVX0QxSDBxSHJPQmMzanVzRTY5OXVFR21jc1ZFVXhJTG9YR0tEbElPTTBqaFQ4OEUy?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-09-17T12:14:00.000Z"
     },
     {
-      "id": "tech-https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-      "description": "Article URL: https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html\nComments URL: https://news.ycombinator.com/item?id=49735410\nPoints: 74\n# Comments: 6",
-      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-09-17T01:39:47.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFEtaE9XVHFHSlBPOUFFamxQYzU5ZEdvSGlEVXNOTmtJbkNhR1lYWW5ReHQ4QUtfNDNJZVhqSmxHbW9kMDVQYlhSZ2stZGhlZlZjNFY4TEJWNjBoYVY5QXZMNXRMT0FRZUY3aWNRNG95TmRlNXlEUVZGWS11aUJYVnR2YmpzSVYxVmZWaEZYWnNFOGRMQllNZXI4a2p6eWVRMWRMTS1ZSGxEVGQ4UHpiUHlzajFaRTZkWFdtQWJ0Z9IBxwFBVV95cUxNbGFHNFNLUGVhWGRfTDduakNoLXhseHk2bVBPaFUwckJqTXZqXzAtTTRJVXpnT2pXOERRUF9KUU1taFgwbTAxZVg5N0V4V0FBRUY2R2I5REMwajRoZXVyX09xcWpNWm9NOVVJN1JrSXB6VHBkTTNGdkxyV1FDTUJRSFhFWUdWamRScXpBeFBDdzllNVRJeVZyV0JsWVVmanQ1R0xGakJpMGlRNmJ2MGRDZTVaX05qS0lkdFBBY05vN1VlaEs5OHdn?oc=5",
+      "title": "Microsoft Offers Free GitHub Courses To Learn AI, Data Science And Machine Learning - NDTV",
+      "description": "Microsoft Offers Free GitHub Courses To Learn AI, Data Science And Machine Learning&nbsp;&nbsp;NDTV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFEtaE9XVHFHSlBPOUFFamxQYzU5ZEdvSGlEVXNOTmtJbkNhR1lYWW5ReHQ4QUtfNDNJZVhqSmxHbW9kMDVQYlhSZ2stZGhlZlZjNFY4TEJWNjBoYVY5QXZMNXRMT0FRZUY3aWNRNG95TmRlNXlEUVZGWS11aUJYVnR2YmpzSVYxVmZWaEZYWnNFOGRMQllNZXI4a2p6eWVRMWRMTS1ZSGxEVGQ4UHpiUHlzajFaRTZkWFdtQWJ0Z9IBxwFBVV95cUxNbGFHNFNLUGVhWGRfTDduakNoLXhseHk2bVBPaFUwckJqTXZqXzAtTTRJVXpnT2pXOERRUF9KUU1taFgwbTAxZVg5N0V4V0FBRUY2R2I5REMwajRoZXVyX09xcWpNWm9NOVVJN1JrSXB6VHBkTTNGdkxyV1FDTUJRSFhFWUdWamRScXpBeFBDdzllNVRJeVZyV0JsWVVmanQ1R0xGakJpMGlRNmJ2MGRDZTVaX05qS0lkdFBBY05vN1VlaEs5OHdn?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-09-17T11:55:57.000Z"
     },
     {
-      "id": "tech-https://www.bbc.com/news/articles/c60m3k28j81mo",
-      "title": "Part-human part-mouse brain developed in science breakthrough",
-      "description": "Article URL: https://www.bbc.com/news/articles/c60m3k28j81mo\nComments URL: https://news.ycombinator.com/item?id=49735367\nPoints: 14\n# Comments: 12",
-      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-09-17T01:33:10.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRFd6VUktbXoxcE44TUZGRFBERE5tSUl4ZElBb2xDalY3SDFFUGE1QXVuQXNzdnNDVWJUeUU5RVFNeEFCb2dSN3FvaENvN3pnT2JmY0UzYXU1Y28yb2s1RFNPYXM3bmdFaDlnbl8tZTd5MEIxV29uX0tvMXowcVl0LWNIWTJmc1phVWVEYkZNTkV0RXhwUXFwN3Ywa0lEMEYtRGpMRWVtZkdJT3JYVkVEQlVRQTB1aW0yWkFZX2NYQUhNTjNEc05NclRtNUp5ejNsQTQwRk1CYlFWRGVlWk1hZHZ5N09EMWE3ZzdrUQ?oc=5",
+      "title": "The Future of Everything: How Artificial Intelligence is Revolutionizing Education, Traffic Management, Healthcare, and Modern Coding - SitePoint",
+      "description": "The Future of Everything: How Artificial Intelligence is Revolutionizing Education, Traffic Management, Healthcare, and Modern Coding&nbsp;&nbsp;SitePoint",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRFd6VUktbXoxcE44TUZGRFBERE5tSUl4ZElBb2xDalY3SDFFUGE1QXVuQXNzdnNDVWJUeUU5RVFNeEFCb2dSN3FvaENvN3pnT2JmY0UzYXU1Y28yb2s1RFNPYXM3bmdFaDlnbl8tZTd5MEIxV29uX0tvMXowcVl0LWNIWTJmc1phVWVEYkZNTkV0RXhwUXFwN3Ywa0lEMEYtRGpMRWVtZkdJT3JYVkVEQlVRQTB1aW0yWkFZX2NYQUhNTjNEc05NclRtNUp5ejNsQTQwRk1CYlFWRGVlWk1hZHZ5N09EMWE3ZzdrUQ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-09-17T07:00:08.000Z"
     },
     {
-      "id": "tech-https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "description": "Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/\nComments URL: https://news.ycombinator.com/item?id=49734929\nPoints: 45\n# Comments: 19",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-09-17T00:28:33.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYTRIQi1PRy1YUDBZT3c4RU5pRV95X2V6QklKemcydDNuUW1QcV9OZEtaWjBIWjIyZkN6SDlXb2dSR291M1UyUFJOUEpGckUxRzJRSzVNNkc4ZGs4dXFQLTBSVVNjVzBJV1pRQTFMZDlydzBrVHF2MkFVSVNMUlNhMzJRYndqR2RUMW1EQnJGaXgyaEs1czB4Y0lUSFZVaGJERWR0aERhVG5UemVXa3VRaUxlSWllSFJ1b2xOU1hsejFQSzU5V2drSThFdjgwTWdVOHA3MEQ4ZjJEd3R5M19iTEM5WUpFb2FhRVc4WmVCd2xfaVnSAfMBQVVfeXFMUGE0SEItT0ctWFAwWU93OEVOaUVfeV9lekJJSnpnMnQzblFtUHFfTmRLWlowSFoyMmZDekg5V29nUkdvdTNVMlBSTlBKRnJFMUcyUUs1TTZHOGRrOHVxUC0wUlVTY1cwSVdaUUExTGQ5cncwa1RxdjJBVUlTTFJTYTMyUWJ3akdkVDFtREJyRml4MmhLNXMweGNJVEhWVWhiREVkdGhEYVRuVHplV2t1UWlMZUlpZUhSdW9sTlNYbHoxUEs1OVdna0k4RXY4ME1nVThwNzBEOGYyRHd0eTNfYkxDOVlKRW9hYUVXOFplQndsX2lZ?oc=5",
+      "title": "CBIC plans wider AI use, unified portal to ease Customs compliance: Chairman - Rediff",
+      "description": "CBIC plans wider AI use, unified portal to ease Customs compliance: Chairman&nbsp;&nbsp;Rediff",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYTRIQi1PRy1YUDBZT3c4RU5pRV95X2V6QklKemcydDNuUW1QcV9OZEtaWjBIWjIyZkN6SDlXb2dSR291M1UyUFJOUEpGckUxRzJRSzVNNkc4ZGs4dXFQLTBSVVNjVzBJV1pRQTFMZDlydzBrVHF2MkFVSVNMUlNhMzJRYndqR2RUMW1EQnJGaXgyaEs1czB4Y0lUSFZVaGJERWR0aERhVG5UemVXa3VRaUxlSWllSFJ1b2xOU1hsejFQSzU5V2drSThFdjgwTWdVOHA3MEQ4ZjJEd3R5M19iTEM5WUpFb2FhRVc4WmVCd2xfaVnSAfMBQVVfeXFMUGE0SEItT0ctWFAwWU93OEVOaUVfeV9lekJJSnpnMnQzblFtUHFfTmRLWlowSFoyMmZDekg5V29nUkdvdTNVMlBSTlBKRnJFMUcyUUs1TTZHOGRrOHVxUC0wUlVTY1cwSVdaUUExTGQ5cncwa1RxdjJBVUlTTFJTYTMyUWJ3akdkVDFtREJyRml4MmhLNXMweGNJVEhWVWhiREVkdGhEYVRuVHplV2t1UWlMZUlpZUhSdW9sTlNYbHoxUEs1OVdna0k4RXY4ME1nVThwNzBEOGYyRHd0eTNfYkxDOVlKRW9hYUVXOFplQndsX2lZ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-09-17T11:02:23.000Z"
     },
     {
-      "id": "tech-https://openspec.dev/",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "description": "Article URL: https://openspec.dev/\nComments URL: https://news.ycombinator.com/item?id=49734264\nPoints: 100\n# Comments: 40",
-      "url": "https://openspec.dev/",
+      "id": "ai-https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWRfWkxzQU9kQUwtLUJfT0tXLWNaQnRMYkZHZFhaR2FiT184UUNWQU9ublQ2bkpEb29MeE41OGp2dXczNjM2NWdKV0ViVmRPSjVxRTI2d3JtLXJVMFBQcEtZc3U0ei1kaUNqeUttdUdSX3A0NFlFRGJza2lydGJwOGYyQ19tcHgyeGFnYlI3ZHNtWUNQ?oc=5",
+      "title": "Your AI Glossary: 62 Terms Everyone Should Know - CNET",
+      "description": "Your AI Glossary: 62 Terms Everyone Should Know&nbsp;&nbsp;CNET",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWRfWkxzQU9kQUwtLUJfT0tXLWNaQnRMYkZHZFhaR2FiT184UUNWQU9ublQ2bkpEb29MeE41OGp2dXczNjM2NWdKV0ViVmRPSjVxRTI2d3JtLXJVMFBQcEtZc3U0ei1kaUNqeUttdUdSX3A0NFlFRGJza2lydGJwOGYyQ19tcHgyeGFnYlI3ZHNtWUNQ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-09-17T15:06:00.000Z"
+    },
+    {
+      "id": "tech-https://waymo.com/waymo-in-singapore/",
+      "title": "Waymo in Singapore",
+      "description": "Article URL: https://waymo.com/waymo-in-singapore/\nComments URL: https://news.ycombinator.com/item?id=49749981\nPoints: 27\n# Comments: 11",
+      "url": "https://waymo.com/waymo-in-singapore/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-09-16T23:06:39.000Z"
+      "publishedAt": "2026-09-18T03:49:24.000Z"
+    },
+    {
+      "id": "tech-https://linguisticdiscovery.com/posts/pre-greek/",
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "description": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/\nComments URL: https://news.ycombinator.com/item?id=49749771\nPoints: 12\n# Comments: 0",
+      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-09-18T03:04:38.000Z"
+    },
+    {
+      "id": "tech-https://devin.ai/blog/introducing-code-scans",
+      "title": "Code Scans",
+      "description": "Article URL: https://devin.ai/blog/introducing-code-scans\nComments URL: https://news.ycombinator.com/item?id=49749744\nPoints: 10\n# Comments: 2",
+      "url": "https://devin.ai/blog/introducing-code-scans",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-09-18T03:00:40.000Z"
+    },
+    {
+      "id": "tech-https://www.hacktron.ai/blog/hacking-openai",
+      "title": "Hacking OpenAI",
+      "description": "Article URL: https://www.hacktron.ai/blog/hacking-openai\nComments URL: https://news.ycombinator.com/item?id=49749656\nPoints: 122\n# Comments: 33",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-09-18T02:47:24.000Z"
+    },
+    {
+      "id": "tech-https://byteshape.com/blogs/Qwen3.8-27B/",
+      "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+      "description": "Article URL: https://byteshape.com/blogs/Qwen3.8-27B/\nComments URL: https://news.ycombinator.com/item?id=49749393\nPoints: 19\n# Comments: 0",
+      "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-09-18T02:04:19.000Z"
+    },
+    {
+      "id": "tech-https://askamonk.online",
+      "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+      "description": "Article URL: https://askamonk.online\nComments URL: https://news.ycombinator.com/item?id=49749171\nPoints: 19\n# Comments: 11",
+      "url": "https://askamonk.online",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-09-18T01:34:08.000Z"
+    },
+    {
+      "id": "tech-https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+      "title": "Telstra outage: The night a network decided the year was 2006",
+      "description": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006\nComments URL: https://news.ycombinator.com/item?id=49748957\nPoints: 30\n# Comments: 10",
+      "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-09-18T01:05:03.000Z"
+    },
+    {
+      "id": "tech-https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "description": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash\nComments URL: https://news.ycombinator.com/item?id=49747925\nPoints: 111\n# Comments: 24",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-09-17T23:05:48.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOEY1NE1NcmtMTkZCNnhGSVpYOFZXTmNHdURacUJ3ZG52U2RPbnhBdkF4dGdiWTI1X2lpeXBQZURfU1dUeHVCU0FFUkNmNUIwNTdhbDNSZVUtU1BsdXNjOV92VTNIUXFteE10ZFl2QjZGY3FOTmU3aVlIU0hxWVUwR3ZobEdFeW00Uzg5QnR4bDhBdGhxTEEtX1FScmstOFFWNFdRSWF6U3dnRElhaWpJcGtTa09hZjN0X3dfMjF0UHRJQjZwMTJJdkZBTHNsSU9sdWdlbUx1cE5XVWZKSENXdDNFbFg1Ul9rbUtmYU1pb9IB9gFBVV95cUxOcVNBMHFYaTVNOTFmMy1NbVlWdUdTVllqMHlDUnZNdFo1S19TUmF4WE4yQ1E5bGRfVkVGZ0JnVzdwNkl6U0pnOFpUcTlxSXBIVUUyMnEwb08yWFZYLXg2cjhkdEtSamRHVTZ2QlhpWHJjQ0dTTjRGelFnbWJXdkhta0ZRVV9lOGh3Z1VCcDZqME9wR09sU1hrN01pXzVEMDdlQWZLRU5NRUNsdzdiRmE0ZHFPaXJ4QlJzb21keHc0STlhOHloeENjRzdrX2ljSjhQbkhwVzRNN3RWMzU1eEM2R1hES09ndmdZVXlpRVJTRC1HbXhmS3c?oc=5",
+      "title": "How India’s approach to the Taliban represents a form of principled pragmatism - The Indian Express",
+      "description": "How India’s approach to the Taliban represents a form of principled pragmatism&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOEY1NE1NcmtMTkZCNnhGSVpYOFZXTmNHdURacUJ3ZG52U2RPbnhBdkF4dGdiWTI1X2lpeXBQZURfU1dUeHVCU0FFUkNmNUIwNTdhbDNSZVUtU1BsdXNjOV92VTNIUXFteE10ZFl2QjZGY3FOTmU3aVlIU0hxWVUwR3ZobEdFeW00Uzg5QnR4bDhBdGhxTEEtX1FScmstOFFWNFdRSWF6U3dnRElhaWpJcGtTa09hZjN0X3dfMjF0UHRJQjZwMTJJdkZBTHNsSU9sdWdlbUx1cE5XVWZKSENXdDNFbFg1Ul9rbUtmYU1pb9IB9gFBVV95cUxOcVNBMHFYaTVNOTFmMy1NbVlWdUdTVllqMHlDUnZNdFo1S19TUmF4WE4yQ1E5bGRfVkVGZ0JnVzdwNkl6U0pnOFpUcTlxSXBIVUUyMnEwb08yWFZYLXg2cjhkdEtSamRHVTZ2QlhpWHJjQ0dTTjRGelFnbWJXdkhta0ZRVV9lOGh3Z1VCcDZqME9wR09sU1hrN01pXzVEMDdlQWZLRU5NRUNsdzdiRmE0ZHFPaXJ4QlJzb21keHc0STlhOHloeENjRzdrX2ljSjhQbkhwVzRNN3RWMzU1eEM2R1hES09ndmdZVXlpRVJTRC1HbXhmS3c?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-09-17T14:15:57.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWlaRWhiTXUtN3ZJY2NNR29URHhvd1UzUUR1ZU1EYmR2aFpzSFV0LVFMVUZkNTVHNjBWMlFLekFXemlJT0lwajlRb21Gd3RCX0xVU3pTLVhNendEdjB0eUNxTnNBRHpDenc3LTNkR3RDb09nRW9QZ0RIRHBpcTh5d0s5REtvZVUtbHJqNEpSOThOMzNHU0hFTFAtbzFxT3FXTVdEUVNXUnIwZFQ0SE5JQ21UVG9GVmU1b1hQRWJGN1d5U0Vic3hDRjdleXdGVlBnV1lIbVpibVVqQ3VKU2F0bWsyb1FxeTVf?oc=5",
+      "title": "School assembly news headlines today- September 18: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- September 18: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWlaRWhiTXUtN3ZJY2NNR29URHhvd1UzUUR1ZU1EYmR2aFpzSFV0LVFMVUZkNTVHNjBWMlFLekFXemlJT0lwajlRb21Gd3RCX0xVU3pTLVhNendEdjB0eUNxTnNBRHpDenc3LTNkR3RDb09nRW9QZ0RIRHBpcTh5d0s5REtvZVUtbHJqNEpSOThOMzNHU0hFTFAtbzFxT3FXTVdEUVNXUnIwZFQ0SE5JQ21UVG9GVmU1b1hQRWJGN1d5U0Vic3hDRjdleXdGVlBnV1lIbVpibVVqQ3VKU2F0bWsyb1FxeTVf?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-09-17T12:52:32.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMivgFBVV95cUxQQm1GaWNiTzNPVzlzOWkyVTlBNk1xNXBvYWdYZi1TblVWWC04TG1FOTV4aWdHLWl3VllxWmN3YTBBY3FiNS1iZGFTM1diTW5ERmFBMUVrU2pQMVJ3MkFIdmc5VUdNSGF3WGh1UTBzRmZTTEx0eFBHZTB3cWdtNmtBamJTdl82cUM1ajdZODlHa01jaHVtcXh0NUhLSjJxWHlXRGRsMFJ5UVlnSXhDSGYwRTl2eDB6U201SHVxWGJB0gG-AUFVX3lxTFBCbUZpY2JPM09XOXM5aTJVOUE2TXE1cG9hZ1hmLVNuVVZYLThMbUU5NXhpZ0ctaXdWWXFaY3dhMEFjcWI1LWJkYVMzV2JNbkRGYUExRWtTalAxUncyQUh2ZzlVR01IYXdYaHVRMHNGZlNMTHR4UEdlMHdxZ202a0FqYlN2XzZxQzVqN1k4OUdrTWNodW1xeHQ1SEtKMnFYeVdEZGwwUnlRWWdJeENIZjBFOXZ4MHpTbTVIdXFYYkE?oc=5",
+      "title": "Modi Showed India's Strength To World: Chandrababu Naidu - deccanchronicle.com",
+      "description": "Modi Showed India's Strength To World: Chandrababu Naidu&nbsp;&nbsp;deccanchronicle.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQm1GaWNiTzNPVzlzOWkyVTlBNk1xNXBvYWdYZi1TblVWWC04TG1FOTV4aWdHLWl3VllxWmN3YTBBY3FiNS1iZGFTM1diTW5ERmFBMUVrU2pQMVJ3MkFIdmc5VUdNSGF3WGh1UTBzRmZTTEx0eFBHZTB3cWdtNmtBamJTdl82cUM1ajdZODlHa01jaHVtcXh0NUhLSjJxWHlXRGRsMFJ5UVlnSXhDSGYwRTl2eDB6U201SHVxWGJB0gG-AUFVX3lxTFBCbUZpY2JPM09XOXM5aTJVOUE2TXE1cG9hZ1hmLVNuVVZYLThMbUU5NXhpZ0ctaXdWWXFaY3dhMEFjcWI1LWJkYVMzV2JNbkRGYUExRWtTalAxUncyQUh2ZzlVR01IYXdYaHVRMHNGZlNMTHR4UEdlMHdxZ202a0FqYlN2XzZxQzVqN1k4OUdrTWNodW1xeHQ1SEtKMnFYeVdEZGwwUnlRWWdJeENIZjBFOXZ4MHpTbTVIdXFYYkE?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-09-17T10:41:13.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XRVRYamkxREVWdXV5UGFHNzBYVGNrcTRtZmFCVWpRdHk3d3NnQ01wdEZHTENjbmNHNm83TDdFNzIxVTJ5bXJjNllyYzVoUXB3UTc0YTVDR1U2Yk9fU3JTWHJobUo2RFU?oc=5",
+      "title": "UPI Merchant Charges Above ₹2,000, New MDR Rules from 15th October - Vajiram & Ravi",
+      "description": "UPI Merchant Charges Above ₹2,000, New MDR Rules from 15th October&nbsp;&nbsp;Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XRVRYamkxREVWdXV5UGFHNzBYVGNrcTRtZmFCVWpRdHk3d3NnQ01wdEZHTENjbmNHNm83TDdFNzIxVTJ5bXJjNllyYzVoUXB3UTc0YTVDR1U2Yk9fU3JTWHJobUo2RFU?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-09-17T20:07:28.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWtLUHVBYWlZQ1FKX05tdVdfM3hTTDVhb2hLd2stQVk1aFF0X2ZkNXZEMndFYjN3aVVXelhIbU90X0R2bzhsUEVEbll3a2NTNG5FTi1kNzd1UVRDcDZZRjBFUTJKcVpWZ0xVUGdrbDBKa3BJTmhjZWxDYTZ1QS1VYjRGdkViTFU?oc=5",
+      "title": "Copper Rally Driven by Tariffs and Global Stockpiling - usthadian.com",
+      "description": "Copper Rally Driven by Tariffs and Global Stockpiling&nbsp;&nbsp;usthadian.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWtLUHVBYWlZQ1FKX05tdVdfM3hTTDVhb2hLd2stQVk1aFF0X2ZkNXZEMndFYjN3aVVXelhIbU90X0R2bzhsUEVEbll3a2NTNG5FTi1kNzd1UVRDcDZZRjBFUTJKcVpWZ0xVUGdrbDBKa3BJTmhjZWxDYTZ1QS1VYjRGdkViTFU?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-09-17T10:59:45.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1BPVVdmQzRwakt0MkJkR3d5TXU2RTlGMXN3aC14SG9UUDRYdFhCd3ZENGNfRDNydFlkRjZNOHBpXzVCdFhZWUJkYmtCWG5Ga1ZqT0RqeExjUTdFVGpOSS1QMndVLVQxZkRWNUdmd1I4MWZJUm16QW8xY2RpWGdNWVFXa2lpZ0Q1RF9jcUM1eG5ZSndtQWVnRnBFaXRCc0VWVDIxWVBjRzVUQWFCU05hbTliS3hFdTFWc3FsZ0pn?oc=5",
+      "title": "Millie Shah and Rakesh Nidagundi Win Medals at Changwon 2026 - utkarsh.com",
+      "description": "Millie Shah and Rakesh Nidagundi Win Medals at Changwon 2026&nbsp;&nbsp;utkarsh.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1BPVVdmQzRwakt0MkJkR3d5TXU2RTlGMXN3aC14SG9UUDRYdFhCd3ZENGNfRDNydFlkRjZNOHBpXzVCdFhZWUJkYmtCWG5Ga1ZqT0RqeExjUTdFVGpOSS1QMndVLVQxZkRWNUdmd1I4MWZJUm16QW8xY2RpWGdNWVFXa2lpZ0Q1RF9jcUM1eG5ZSndtQWVnRnBFaXRCc0VWVDIxWVBjRzVUQWFCU05hbTliS3hFdTFWc3FsZ0pn?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-09-17T07:37:13.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiogJBVV95cUxNY1ZwdlZjanZBcjVOLU56UHBrcGZfamJ1Y0VJSElpOWMyTTA1UFc2UlM1cmJEX2dGdkdaS1ZHMlpEVFpOT1hMNFZiTWo4WlJwRXNiNmM3eTVkMzdaeTRaLTJYbmdFckVrQkpQbnV3QWM4VlRyeW1sdzlHcUloamJaSGVPYi1oXzZ1eTRFd25RdEd0WnE0TWpDenlCRk1RTERqZFdvZGNGcEdfeFlZNm01LVo0WVYwTnEwT1BFa1dDbFllVjZpQWZqX01LU2h0WFpiODV6Sno4YkdBVC1rR0VJU3VHWlM4bHAwb0tZMFp1Wk5rQWZ0YmNoQVhab1lxNVNoYS1IWGNKTlUwX1dHU0tBRGlRT3g5UTNoMC1sVTNGaXJUQdIBqAJBVV95cUxQTWJWQm52Mm5rVExNMGVianhZaXdwY19Ta19HUU85bFBTZm1vcFFJWXlVLThvUldJeVdEVjkzT3VSV1dPMUtJa3RYbVBrMERIZ1JmdUNiUGs4YTB6X1Y5c3pmRWdMZmp6N3Z4NDJCUGdFWGZ6TDAxTFU4bzRmVzZUUjQtZktXd1h4bFUwTzM3R200WWNvRnBxUGxEakNUcmlwbXBfcFRzYlg0QlptMkRzR25la1IzOFZGRG5VOVdTSmFfN0daZlBzSkJ6aWtuR0pnRmFaNGluSmR1a2NmcTVBQTdTVUFkUENxdUZnb0xwNENGaTZ2bkZzeHFub3hiT09iQnpnOUoyNjkyRDZ1d3Y4SjlRdGNfM1lxVFlxaVVFbzJvQnNBTEl0Wg?oc=5",
+      "title": "US deploys space weapons for first time in orbit; What are they, is it legal and which other countries have it? - Jagran Josh",
+      "description": "US deploys space weapons for first time in orbit; What are they, is it legal and which other countries have it?&nbsp;&nbsp;Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNY1ZwdlZjanZBcjVOLU56UHBrcGZfamJ1Y0VJSElpOWMyTTA1UFc2UlM1cmJEX2dGdkdaS1ZHMlpEVFpOT1hMNFZiTWo4WlJwRXNiNmM3eTVkMzdaeTRaLTJYbmdFckVrQkpQbnV3QWM4VlRyeW1sdzlHcUloamJaSGVPYi1oXzZ1eTRFd25RdEd0WnE0TWpDenlCRk1RTERqZFdvZGNGcEdfeFlZNm01LVo0WVYwTnEwT1BFa1dDbFllVjZpQWZqX01LU2h0WFpiODV6Sno4YkdBVC1rR0VJU3VHWlM4bHAwb0tZMFp1Wk5rQWZ0YmNoQVhab1lxNVNoYS1IWGNKTlUwX1dHU0tBRGlRT3g5UTNoMC1sVTNGaXJUQdIBqAJBVV95cUxQTWJWQm52Mm5rVExNMGVianhZaXdwY19Ta19HUU85bFBTZm1vcFFJWXlVLThvUldJeVdEVjkzT3VSV1dPMUtJa3RYbVBrMERIZ1JmdUNiUGs4YTB6X1Y5c3pmRWdMZmp6N3Z4NDJCUGdFWGZ6TDAxTFU4bzRmVzZUUjQtZktXd1h4bFUwTzM3R200WWNvRnBxUGxEakNUcmlwbXBfcFRzYlg0QlptMkRzR25la1IzOFZGRG5VOVdTSmFfN0daZlBzSkJ6aWtuR0pnRmFaNGluSmR1a2NmcTVBQTdTVUFkUENxdUZnb0xwNENGaTZ2bkZzeHFub3hiT09iQnpnOUoyNjkyRDZ1d3Y4SjlRdGNfM1lxVFlxaVVFbzJvQnNBTEl0Wg?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-09-17T12:35:51.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiqgFBVV95cUxQam5QQWV0SlhncHpkS2Z3a2J0REdCQkg0RlMyZFpWMzdveXFHSTJTUXlhYzZKOEdoRHRYRlRCRk1ZVnZPOXBfOUFYdlc4bmhfMmdPZlRkbm0wVGlKMWF1WFdlU3FZN1NQcjY0WGJJSW9tX3lYdHNKajNpVFB2eDdDb09oUDVUWDhtTEFGVGxOSDgtSlNISDNVaHd1VWp6OUZhQi04dTljZURtUQ?oc=5",
+      "title": "4 years of Project Cheetah | Cheetah Reintroduction Programme | Explained - Manorama Yearbook",
+      "description": "4 years of Project Cheetah | Cheetah Reintroduction Programme | Explained&nbsp;&nbsp;Manorama Yearbook",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQam5QQWV0SlhncHpkS2Z3a2J0REdCQkg0RlMyZFpWMzdveXFHSTJTUXlhYzZKOEdoRHRYRlRCRk1ZVnZPOXBfOUFYdlc4bmhfMmdPZlRkbm0wVGlKMWF1WFdlU3FZN1NQcjY0WGJJSW9tX3lYdHNKajNpVFB2eDdDb09oUDVUWDhtTEFGVGxOSDgtSlNISDNVaHd1VWp6OUZhQi04dTljZURtUQ?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-09-17T11:21:22.000Z"
     }
   ]
 }
