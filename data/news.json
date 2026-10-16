@@ -1,245 +1,85 @@
 {
-  "updatedAt": "2026-10-15T04:55:42.176Z",
+  "updatedAt": "2026-10-16T04:46:15.117Z",
   "articles": [
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVNpQS1kMHVuNkZNTi1nZkxEVmx6LVIwX0E4U25qOVlteER3WVdObkZWc1otQm9zU1dSVzB3Rm1lOS1sbldsZWw5ekI4a0ZfcVprS1VkaUtsaHd0bkNLeTA5VURnRHAyNk5PSGlnWUp4X2ZkR1JGS0Z4MHlfU3RPMXJ1d2FhTEQyeGV1eVByVHFNQTFIbGtXSkliNE9Xem1sTUwtVzQ5akJiOGRWYXVWZ1dnNlJJNHZ1SURkVGdRZlR4d0s2Z3hBVmdzXzFYTVI0NW92WTZTeldOMkZJbjdJ?oc=5",
-      "title": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science - Chromatography Online",
-      "description": "AI ML Now: Gert Desmet on the State of Artificial Intelligence and Machine Learning in Separation Science&nbsp;&nbsp;Chromatography Online",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYVNpQS1kMHVuNkZNTi1nZkxEVmx6LVIwX0E4U25qOVlteER3WVdObkZWc1otQm9zU1dSVzB3Rm1lOS1sbldsZWw5ekI4a0ZfcVprS1VkaUtsaHd0bkNLeTA5VURnRHAyNk5PSGlnWUp4X2ZkR1JGS0Z4MHlfU3RPMXJ1d2FhTEQyeGV1eVByVHFNQTFIbGtXSkliNE9Xem1sTUwtVzQ5akJiOGRWYXVWZ1dnNlJJNHZ1SURkVGdRZlR4d0s2Z3hBVmdzXzFYTVI0NW92WTZTeldOMkZJbjdJ?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-10-15T00:33:45.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMigwFBVV95cUxObEdGSVFjS0prMmdfY3lEeUxLY3UxWl8yTnBYRFNrd2l6S25HZ2QxUzhMbTFSZHVuQVBWT1VROENRNERJMzFpcG41bXpEZFJnU0xKalVkVG82cmVoVzZuSHZOX1JCTl9idm00RU5PUUhsNm0wVUpYTktNU0VLSkV5Y2s0dw?oc=5",
-      "title": "How artificial neural networks build their own learning machinery - Tech Xplore",
-      "description": "How artificial neural networks build their own learning machinery&nbsp;&nbsp;Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEdGSVFjS0prMmdfY3lEeUxLY3UxWl8yTnBYRFNrd2l6S25HZ2QxUzhMbTFSZHVuQVBWT1VROENRNERJMzFpcG41bXpEZFJnU0xKalVkVG82cmVoVzZuSHZOX1JCTl9idm00RU5PUUhsNm0wVUpYTktNU0VLSkV5Y2s0dw?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-10-14T13:47:33.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2RTaHFHSTgtN05fYjFNX0RFNFdGdzF1dl8zaUpzb2s3ZnZabUN6emgwcmVSWVd1OVVMVHlXSEZjVFRxTzh0b01DMGpPSTJkSGlqNE52akdENWItdVJoaEYyMGJUOXNuZEhab3d6UGotaDUzdEh5RTEtVXhwazFqb1VFRXpFSjg5c2FGeE4wV1ZGcU5GWjVwZ3o2bjlmQmRFeTd5My04RFo?oc=5",
-      "title": "Deploy and evaluate models with Amazon SageMaker JumpStart - Amazon Web Services (AWS)",
-      "description": "Deploy and evaluate models with Amazon SageMaker JumpStart&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2RTaHFHSTgtN05fYjFNX0RFNFdGdzF1dl8zaUpzb2s3ZnZabUN6emgwcmVSWVd1OVVMVHlXSEZjVFRxTzh0b01DMGpPSTJkSGlqNE52akdENWItdVJoaEYyMGJUOXNuZEhab3d6UGotaDUzdEh5RTEtVXhwazFqb1VFRXpFSjg5c2FGeE4wV1ZGcU5GWjVwZ3o2bjlmQmRFeTd5My04RFo?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-10-14T13:14:36.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUxkTmJ4bEtoNlNNNVVmYkU0RFFVX0lidVdvcFZVR2JEdHAyRXQtX3dWYkJjYnVpRm1lcFB1VmlyMnpEWWotZXBsZURNb1hFVkVpODlYLXBiaDBZS2dEZU1lc1N6aTZ0XzRzR1FQZ2x0aTFlM29vUFNGLXdacE9UX1BvS2lsMDBKUldKWEtxaFAyTHowdlQ5d20xXzI1TndxWlpjT2JMWGpuREY3?oc=5",
-      "title": "An artificial intelligence method improves weather forecasts up to six weeks in advance - Science Media Centre España",
-      "description": "An artificial intelligence method improves weather forecasts up to six weeks in advance&nbsp;&nbsp;Science Media Centre España",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUxkTmJ4bEtoNlNNNVVmYkU0RFFVX0lidVdvcFZVR2JEdHAyRXQtX3dWYkJjYnVpRm1lcFB1VmlyMnpEWWotZXBsZURNb1hFVkVpODlYLXBiaDBZS2dEZU1lc1N6aTZ0XzRzR1FQZ2x0aTFlM29vUFNGLXdacE9UX1BvS2lsMDBKUldKWEtxaFAyTHowdlQ5d20xXzI1TndxWlpjT2JMWGpuREY3?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-10-14T15:00:00.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMiekFVX3lxTE0wY25GTFFqQ1dFcXllVVNUM2FPM0Y5VFJoeUZjc2RxcThDM2Rlc0xmT3p5dS1rbzZfcmVZOUwxc1U0MEFuQXdZcGRXT2xCRDVjdEtPT0Vub3JrbVltY3hxdEFoWGRlUzUzVGZZRG9ya1JCUjlsZ0RYc3RR?oc=5",
-      "title": "Krenicki Center: Advancing Impact Through AI & Analytics - Purdue University",
-      "description": "Krenicki Center: Advancing Impact Through AI & Analytics&nbsp;&nbsp;Purdue University",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wY25GTFFqQ1dFcXllVVNUM2FPM0Y5VFJoeUZjc2RxcThDM2Rlc0xmT3p5dS1rbzZfcmVZOUwxc1U0MEFuQXdZcGRXT2xCRDVjdEtPT0Vub3JrbVltY3hxdEFoWGRlUzUzVGZZRG9ya1JCUjlsZ0RYc3RR?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-10-14T18:21:31.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMimAJBVV95cUxNcTlVUzNhRG9aa3hvTFZWcHRDZWxzc3JDakFxSXdJVHRWTF9qd3FOdVlNNnJMZ29SX3JqVXB3Ti00V3I4WW5oY1JqdS1sWXllNDhrV2Z3MnNsUmpkZVk1U2xseVFJZUVkRWhJMWxfU3FNSEdjakswSkd5U0otRVRhSFl2UkFVbF9Hbkdfa3dOTEx5TWt2UFI1NGl0UkEzeE9BVm1jZmNtanRJNTZXdDdfaW8xdjVLQ3pPSzBlZC1SQkdzOTZkMGR1MFFEUFF5dE82VjI2TFV6dWZBT2ZuTFdqR24zallPcFNUa0Fvbjg1eV9lWlNJeHI5Z2RJSG54dDZoSlhKWk5SalM4b1IySHhDeVo2cTBCcHdH?oc=5",
-      "title": "Artificial Intelligence for Glucose Prediction and Glycemic Management in Diabetes: A Systematic Review of Predictive Performance and Clinical Outcomes - Cureus",
-      "description": "Artificial Intelligence for Glucose Prediction and Glycemic Management in Diabetes: A Systematic Review of Predictive Performance and Clinical Outcomes&nbsp;&nbsp;Cureus",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcTlVUzNhRG9aa3hvTFZWcHRDZWxzc3JDakFxSXdJVHRWTF9qd3FOdVlNNnJMZ29SX3JqVXB3Ti00V3I4WW5oY1JqdS1sWXllNDhrV2Z3MnNsUmpkZVk1U2xseVFJZUVkRWhJMWxfU3FNSEdjakswSkd5U0otRVRhSFl2UkFVbF9Hbkdfa3dOTEx5TWt2UFI1NGl0UkEzeE9BVm1jZmNtanRJNTZXdDdfaW8xdjVLQ3pPSzBlZC1SQkdzOTZkMGR1MFFEUFF5dE82VjI2TFV6dWZBT2ZuTFdqR24zallPcFNUa0Fvbjg1eV9lWlNJeHI5Z2RJSG54dDZoSlhKWk5SalM4b1IySHhDeVo2cTBCcHdH?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-10-14T05:25:51.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMickFVX3lxTFBRaUdNaGhRVXhHamxYWW9oc1VtaktubDUtalVyV1ZRSFN1Z3FIYUNtX0NUMUZFcmZhVUdySmNBRy10MGZlWWZuS2hYZFREYnVOcEpvLVotN1pBcU5wTFFlQUlZMDRmWDdnSHB4VGR6NExDdw?oc=5",
-      "title": "Highly Paying Microsoft Research Internship 2026: Machine Learning and Statistics Interns Earn Up to $14,610 Monthly - Global South Opportunities",
-      "description": "Highly Paying Microsoft Research Internship 2026: Machine Learning and Statistics Interns Earn Up to $14,610 Monthly&nbsp;&nbsp;Global South Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRaUdNaGhRVXhHamxYWW9oc1VtaktubDUtalVyV1ZRSFN1Z3FIYUNtX0NUMUZFcmZhVUdySmNBRy10MGZlWWZuS2hYZFREYnVOcEpvLVotN1pBcU5wTFFlQUlZMDRmWDdnSHB4VGR6NExDdw?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-10-15T04:34:36.000Z"
-    },
-    {
-      "id": "ai-https://news.google.com/rss/articles/CBMia0FVX3lxTE1jWXBIbVhtcnVuSWhUVHU3TkFCbHVTa2REb2Y0R0V2NTVOQzZ0NnhoUk5zckFhZ2g5S0JtSy00RkFTNlp3UU51aDQ5aFM3WlpMWXZDUEVSem9peGpGZUxEUVRZQ1dJQjdsMjJJ?oc=5",
-      "title": "A London startup is putting AI cameras into Polish operating theatres - The Next Web",
-      "description": "A London startup is putting AI cameras into Polish operating theatres&nbsp;&nbsp;The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jWXBIbVhtcnVuSWhUVHU3TkFCbHVTa2REb2Y0R0V2NTVOQzZ0NnhoUk5zckFhZ2g5S0JtSy00RkFTNlp3UU51aDQ5aFM3WlpMWXZDUEVSem9peGpGZUxEUVRZQ1dJQjdsMjJJ?oc=5",
-      "source": "Google News",
-      "topic": "ai",
-      "topicLabel": "AI",
-      "publishedAt": "2026-10-14T17:50:56.000Z"
-    },
-    {
-      "id": "tech-https://sijbrandijfoundation.org/fcct",
-      "title": "Future of Cancer Care Today (FCCT)",
-      "description": "Article URL: https://sijbrandijfoundation.org/fcct\nComments URL: https://news.ycombinator.com/item?id=50098702\nPoints: 33\n# Comments: 2",
-      "url": "https://sijbrandijfoundation.org/fcct",
+      "id": "tech-https://lwn.net/Articles/1094721/",
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "description": "Article URL: https://lwn.net/Articles/1094721/\nComments URL: https://news.ycombinator.com/item?id=50112887\nPoints: 16\n# Comments: 0",
+      "url": "https://lwn.net/Articles/1094721/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-15T03:18:49.000Z"
+      "publishedAt": "2026-10-16T01:56:37.000Z"
     },
     {
-      "id": "tech-https://hannahritchie.substack.com/p/how-old-are-leaders",
-      "title": "One in ten people are older than 65. Three in four live under a leader who is",
-      "description": "Article URL: https://hannahritchie.substack.com/p/how-old-are-leaders\nComments URL: https://news.ycombinator.com/item?id=50098570\nPoints: 46\n# Comments: 14",
-      "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+      "id": "tech-https://github.com/Saffsanity/sill",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "description": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 73\n# Comments: 9",
+      "url": "https://github.com/Saffsanity/sill",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-15T02:53:29.000Z"
+      "publishedAt": "2026-10-16T01:43:17.000Z"
     },
     {
-      "id": "tech-https://news.ycombinator.com/item?id=50098454",
-      "title": "Show HN: My Terminal Themes Web App",
-      "description": "Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it!I've been maintaining a popular repo of terminal themes at https://github.com/mbadolato/iTerm2-Color-Schemes, and it was finally time to build the app with all the features I wanted!So, the next-gen version is live at https://terminalthemes.com! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more)It's free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc.I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like!Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them.I would love for you guys to check it out and provide feedback, feature suggestions, whatever!And a huge thanks to the community of people that have contributed themes, ports to other terminals, and tools to provide conversions between formats over the years.Oh! And if you've ever contributed themes to the GitHub repo, please register for an account, find your theme(s), and hit the Claim Authorship button!\n\nComments URL: https://news.ycombinator.com/item?id=50098454\nPoints: 7\n# Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=50098454",
+      "id": "tech-https://www.vlt.io/blog/competition-keeps-javascript-moving",
+      "title": "Thank You, Deno",
+      "description": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving\nComments URL: https://news.ycombinator.com/item?id=50112331\nPoints: 39\n# Comments: 3",
+      "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-15T02:33:42.000Z"
+      "publishedAt": "2026-10-16T00:52:40.000Z"
     },
     {
-      "id": "tech-https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-      "title": "The Double Headed Stack Allocator",
-      "description": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 31\n# Comments: 5",
-      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "id": "tech-https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "title": "RPKI now protects 70% of internet routes",
+      "description": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes\nComments URL: https://news.ycombinator.com/item?id=50112330\nPoints: 83\n# Comments: 23",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-15T02:06:36.000Z"
+      "publishedAt": "2026-10-16T00:52:35.000Z"
     },
     {
-      "id": "tech-https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "description": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b\nComments URL: https://news.ycombinator.com/item?id=50097369\nPoints: 119\n# Comments: 31",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "id": "tech-https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "description": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\nComments URL: https://news.ycombinator.com/item?id=50111852\nPoints: 112\n# Comments: 44",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-14T23:59:37.000Z"
+      "publishedAt": "2026-10-15T23:37:42.000Z"
     },
     {
-      "id": "tech-https://tinylittleoffice.com/",
-      "title": "Tiny Little Office",
-      "description": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 239\n# Comments: 32",
-      "url": "https://tinylittleoffice.com/",
+      "id": "tech-https://github.com/johnrash/bebox",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "description": "Article URL: https://github.com/johnrash/bebox\nComments URL: https://news.ycombinator.com/item?id=50111742\nPoints: 35\n# Comments: 9",
+      "url": "https://github.com/johnrash/bebox",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-14T22:10:08.000Z"
+      "publishedAt": "2026-10-15T23:22:53.000Z"
     },
     {
-      "id": "tech-https://typesafe.ai/blog/jev-1-14",
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "description": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 235\n# Comments: 81",
-      "url": "https://typesafe.ai/blog/jev-1-14",
+      "id": "tech-https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "title": "What I self-host",
+      "description": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\nComments URL: https://news.ycombinator.com/item?id=50109715\nPoints: 347\n# Comments: 227",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-14T21:11:03.000Z"
+      "publishedAt": "2026-10-15T20:23:25.000Z"
     },
     {
-      "id": "tech-https://anoma.ly/notes/opencode-2-0/",
-      "title": "OpenCode 2.0",
-      "description": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 419\n# Comments: 175",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "id": "tech-https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "description": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\nComments URL: https://news.ycombinator.com/item?id=50109375\nPoints: 204\n# Comments: 152",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-14T20:48:24.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzRONU5ZVC1teXhTS19YQVBOUkZkMFVUSjZ6VGp3NFB5NTVwLU1rcVhlV2FYYUtjMm44dmZMS1AwNURoQkV6U0ZHbklNZGNMTzZjQTFES1BBUFRCeFdTQUFKTTdjeFh4cXRVdnMyTXJQVy1udmNKWFdTdDlZMVk0ZUw2ZE95eVkz?oc=5",
-      "title": "UPSC Mains Current Affairs for 14 October 2026 - Vajiram & Ravi",
-      "description": "UPSC Mains Current Affairs for 14 October 2026&nbsp;&nbsp;Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzRONU5ZVC1teXhTS19YQVBOUkZkMFVUSjZ6VGp3NFB5NTVwLU1rcVhlV2FYYUtjMm44dmZMS1AwNURoQkV6U0ZHbklNZGNMTzZjQTFES1BBUFRCeFdTQUFKTTdjeFh4cXRVdnMyTXJQVy1udmNKWFdTdDlZMVk0ZUw2ZE95eVkz?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-10-14T07:04:15.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMibkFVX3lxTE8xY213QkVvakxab29keDZxOUJTcEJvcXNrVlliVWliREJFT1Q3djlRdW5OX3NFRnZXUEFPU1g0WEF2LThXMHVPakFnbE5ac3FyMWFaTUpiaXNHRHlJZkxabVFfZUdsd2EyQzdQczFB?oc=5",
-      "title": "Daily Madhya Pradesh Current Affairs for MPPSC Exam (15-10-2026) - Drishti IAS",
-      "description": "Daily Madhya Pradesh Current Affairs for MPPSC Exam (15-10-2026)&nbsp;&nbsp;Drishti IAS",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xY213QkVvakxab29keDZxOUJTcEJvcXNrVlliVWliREJFT1Q3djlRdW5OX3NFRnZXUEFPU1g0WEF2LThXMHVPakFnbE5ac3FyMWFaTUpiaXNHRHlJZkxabVFfZUdsd2EyQzdQczFB?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-10-14T18:46:42.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiaEFVX3lxTE12cHRGb0Rsd0xRSkpSUkV2ZXpXV1lZY0ZBN3JTR3pXMzRVV3VVYVBfNFN6azdxSGR6bHgwRlhFenFKVFd1eUJNSmJzby1mdE83WFVpZk54eF9PZ3pRWmctaTlqVDNMLWo0?oc=5",
-      "title": "Union Minister for Finance and Corporate Affairs Smt. Nirmala Sitharaman to embark on an official visit to Bangkok, Thailand, from 14th to 18th October 2026 - www.pib.gov.in",
-      "description": "Union Minister for Finance and Corporate Affairs Smt. Nirmala Sitharaman to embark on an official visit to Bangkok, Thailand, from 14th to 18th October 2026&nbsp;&nbsp;www.pib.gov.in",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12cHRGb0Rsd0xRSkpSUkV2ZXpXV1lZY0ZBN3JTR3pXMzRVV3VVYVBfNFN6azdxSGR6bHgwRlhFenFKVFd1eUJNSmJzby1mdE83WFVpZk54eF9PZ3pRWmctaTlqVDNMLWo0?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-10-14T09:36:00.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWZxV2t6UEhYTWo0MlBxcjBZZVlEcTJ6X2ZCbXp5SS1CVkNyMjBNTHc4SS0wcDg0ZXlJQWlBSV9RcjdYVERkeFhNSGN0MWp0MkFRY0RYc2Mta2RlaW1za09VVTFHU2lKdldpcU5RR0dYQmlHbVBIX01qNmZFU28zdFlmeDZOdmJFX1Q3R3V3OEZETm5jQmN6R0FfMUtPVjhTOEpwYkhsWnhaM2RWTVktX2I3emotbC1zZkE4NjlXVk5xM0w0LU01WF9Gb2RlbVk5SjBIeUxsOWh2OG9Nb2RlREh3dFVfZw?oc=5",
-      "title": "School assembly news headlines today- October 15: Top national, sports and world news curated for you - India Today",
-      "description": "School assembly news headlines today- October 15: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWZxV2t6UEhYTWo0MlBxcjBZZVlEcTJ6X2ZCbXp5SS1CVkNyMjBNTHc4SS0wcDg0ZXlJQWlBSV9RcjdYVERkeFhNSGN0MWp0MkFRY0RYc2Mta2RlaW1za09VVTFHU2lKdldpcU5RR0dYQmlHbVBIX01qNmZFU28zdFlmeDZOdmJFX1Q3R3V3OEZETm5jQmN6R0FfMUtPVjhTOEpwYkhsWnhaM2RWTVktX2I3emotbC1zZkE4NjlXVk5xM0w0LU01WF9Gb2RlbVk5SjBIeUxsOWh2OG9Nb2RlREh3dFVfZw?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-10-14T12:17:10.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZFpPdHlLSW1sS2l2R3FjamVFbmtBbVpTcWxqckhRQWJjTzA4N21mOTBYbEdkaUR0YWo3SVNXNks4cDcxbDJiQVJPVG1xanpsYkF5TE45WXJjbk5zLXhLdGFNeHVhM2NtVzF6WXdEVWYzamJuR2MzTnkxS0duVkk3Y2o0OHBXQUUtXzR4ZExoY1lsTnNGQ2V0QzBtaEkzNXRXTDI2WXJIOG5PVFpVOVV1dzlGQ2lnOGV3SEhkQ3JsRDFzYThtRFp6SFpTdXBZVXByaHZmcnNudGY0aU9aMEpzUlF0VWlvYjJRaUQzY2Y1Z2NuZ9IB8gFBVV95cUxOZFpPdHlLSW1sS2l2R3FjamVFbmtBbVpTcWxqckhRQWJjTzA4N21mOTBYbEdkaUR0YWo3SVNXNks4cDcxbDJiQVJPVG1xanpsYkF5TE45WXJjbk5zLXhLdGFNeHVhM2NtVzF6WXdEVWYzamJuR2MzTnkxS0duVkk3Y2o0OHBXQUUtXzR4ZExoY1lsTnNGQ2V0QzBtaEkzNXRXTDI2WXJIOG5PVFpVOVV1dzlGQ2lnOGV3SEhkQ3JsRDFzYThtRFp6SFpTdXBZVXByaHZmcnNudGY0aU9aMEpzUlF0VWlvYjJRaUQzY2Y1Z2NuZw?oc=5",
-      "title": "Can plastic-to-fuel technology help address India’s plastic waste challenge? - The Indian Express",
-      "description": "Can plastic-to-fuel technology help address India’s plastic waste challenge?&nbsp;&nbsp;The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZFpPdHlLSW1sS2l2R3FjamVFbmtBbVpTcWxqckhRQWJjTzA4N21mOTBYbEdkaUR0YWo3SVNXNks4cDcxbDJiQVJPVG1xanpsYkF5TE45WXJjbk5zLXhLdGFNeHVhM2NtVzF6WXdEVWYzamJuR2MzTnkxS0duVkk3Y2o0OHBXQUUtXzR4ZExoY1lsTnNGQ2V0QzBtaEkzNXRXTDI2WXJIOG5PVFpVOVV1dzlGQ2lnOGV3SEhkQ3JsRDFzYThtRFp6SFpTdXBZVXByaHZmcnNudGY0aU9aMEpzUlF0VWlvYjJRaUQzY2Y1Z2NuZ9IB8gFBVV95cUxOZFpPdHlLSW1sS2l2R3FjamVFbmtBbVpTcWxqckhRQWJjTzA4N21mOTBYbEdkaUR0YWo3SVNXNks4cDcxbDJiQVJPVG1xanpsYkF5TE45WXJjbk5zLXhLdGFNeHVhM2NtVzF6WXdEVWYzamJuR2MzTnkxS0duVkk3Y2o0OHBXQUUtXzR4ZExoY1lsTnNGQ2V0QzBtaEkzNXRXTDI2WXJIOG5PVFpVOVV1dzlGQ2lnOGV3SEhkQ3JsRDFzYThtRFp6SFpTdXBZVXByaHZmcnNudGY0aU9aMEpzUlF0VWlvYjJRaUQzY2Y1Z2NuZw?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-10-14T13:48:55.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMingJBVV95cUxNMDRMN0p3bVZ1a1JvTUQ5QmwxSnk3WFctMHZNbDgzUzh1bW1fUUlkOENKSWQyMHhhOFhuOEVWUTJWeEFsQTdwNW5yMlJiU21TOURwSy15Ym1kUTdqbGlDdTVYazF2WDNXamRDQ1ZiOTZFRXlyOEQtekktVnNuVENtTHB1M2tfQU9HdnoyM0N0Z2V5STlwbzM1VTlTS2tqSkVvSEo0a25DbFVBQnhSaW1lTTBNaWZJVzdyZkZmcWtjN3QyQ1E5VkJuX3RSUWQxNmdIMU9LVFNqeEdoR3hCU3dpRG0zSmxZMHVJYmVqV09RZzFBODhKWDF2dFdHTmFDM0xFd2hGaWFqU041LVp2cU95OVk5emtGcGloem5RNnp30gGjAkFVX3lxTE5Wd0FfSTZIYnRVTXhWY0ROM0RacGFyNkRxN3h1VVl5Vm9oQjh4WE5WN1FLVm5RZ3l2SW1sX2swa3hyMEQ2UVVQSnVoWU9vSW1YSk41ZDlIU24wWmNVVWhJSjgzd29DYTdBcXd4c3A5UEU1YXc1aVpETEYwWngwSl91UHJmOVhtNVB5ekNvazRTYVNmbmlUSV9Dc1FHX3gtYloxcE9BeVl4QlhrQlhfYXg1ZGhqSFBxMTVJUlZtaXRjcGxzcjF2VjBwajJXdkFzb3RILTJXVm41UWw1TzFYR25oRzF6SEtzdC1SYlg2dFhacEZORTVWWWpFTXJybGRKeUczTjZRZy1IVTJOdjlWcGRIN0NzX25QYmppUDJlcDZVUWxqMA?oc=5",
-      "title": "School Assembly News Headlines, October 15, 2026: Check national, international, business, sports updates - The Economic Times",
-      "description": "School Assembly News Headlines, October 15, 2026: Check national, international, business, sports updates&nbsp;&nbsp;The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMDRMN0p3bVZ1a1JvTUQ5QmwxSnk3WFctMHZNbDgzUzh1bW1fUUlkOENKSWQyMHhhOFhuOEVWUTJWeEFsQTdwNW5yMlJiU21TOURwSy15Ym1kUTdqbGlDdTVYazF2WDNXamRDQ1ZiOTZFRXlyOEQtekktVnNuVENtTHB1M2tfQU9HdnoyM0N0Z2V5STlwbzM1VTlTS2tqSkVvSEo0a25DbFVBQnhSaW1lTTBNaWZJVzdyZkZmcWtjN3QyQ1E5VkJuX3RSUWQxNmdIMU9LVFNqeEdoR3hCU3dpRG0zSmxZMHVJYmVqV09RZzFBODhKWDF2dFdHTmFDM0xFd2hGaWFqU041LVp2cU95OVk5emtGcGloem5RNnp30gGjAkFVX3lxTE5Wd0FfSTZIYnRVTXhWY0ROM0RacGFyNkRxN3h1VVl5Vm9oQjh4WE5WN1FLVm5RZ3l2SW1sX2swa3hyMEQ2UVVQSnVoWU9vSW1YSk41ZDlIU24wWmNVVWhJSjgzd29DYTdBcXd4c3A5UEU1YXc1aVpETEYwWngwSl91UHJmOVhtNVB5ekNvazRTYVNmbmlUSV9Dc1FHX3gtYloxcE9BeVl4QlhrQlhfYXg1ZGhqSFBxMTVJUlZtaXRjcGxzcjF2VjBwajJXdkFzb3RILTJXVm41UWw1TzFYR25oRzF6SEtzdC1SYlg2dFhacEZORTVWWWpFTXJybGRKeUczTjZRZy1IVTJOdjlWcGRIN0NzX25QYmppUDJlcDZVUWxqMA?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-10-14T13:17:06.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiakFVX3lxTE40dy01amRuT1RmZGhYNDI3VVY3ZW1PUFBzY3I3UWlUdXZQRzBnaWpsSGlyVXlUd1djYmdYY2lzYWliN1VHemkxY1B1OWVZZEIzWWgycXpmekd2dnduQ2pIbGZmYmR1b1JfM1E?oc=5",
-      "title": "Daily West Bengal Current Affairs for WBCS Exam (15-10-2026) - Drishti IAS",
-      "description": "Daily West Bengal Current Affairs for WBCS Exam (15-10-2026)&nbsp;&nbsp;Drishti IAS",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dy01amRuT1RmZGhYNDI3VVY3ZW1PUFBzY3I3UWlUdXZQRzBnaWpsSGlyVXlUd1djYmdYY2lzYWliN1VHemkxY1B1OWVZZEIzWWgycXpmekd2dnduQ2pIbGZmYmR1b1JfM1E?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-10-14T18:46:42.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sTGFTY1dSdHI0M3ZHYWVjZmlkRm5xUV85ODhhWmJzQ1RZekxGdkZyYlB0dGVtb28tVjBnM3VKT0VtaXNzR1dNc04wZzFnMExi?oc=5",
-      "title": "Super El Nino - ClearIAS",
-      "description": "Super El Nino&nbsp;&nbsp;ClearIAS",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sTGFTY1dSdHI0M3ZHYWVjZmlkRm5xUV85ODhhWmJzQ1RZekxGdkZyYlB0dGVtb28tVjBnM3VKT0VtaXNzR1dNc04wZzFnMExi?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-10-14T07:29:17.000Z"
+      "publishedAt": "2026-10-15T19:55:49.000Z"
     }
   ]
 }
