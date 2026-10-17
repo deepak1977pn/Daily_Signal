@@ -1,85 +1,245 @@
 {
-  "updatedAt": "2026-10-16T04:46:15.117Z",
+  "updatedAt": "2026-10-17T04:45:00.026Z",
   "articles": [
     {
-      "id": "tech-https://lwn.net/Articles/1094721/",
-      "title": "Comparing Chromium Development at Google and Igalia",
-      "description": "Article URL: https://lwn.net/Articles/1094721/\nComments URL: https://news.ycombinator.com/item?id=50112887\nPoints: 16\n# Comments: 0",
-      "url": "https://lwn.net/Articles/1094721/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-10-16T01:56:37.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXlhU1kzY09uSjZ3ZkVzWTRGNDFNeHZYRlBPcGRkVHEtTGRhQUJlLVRUZHJHQXpzekdSWGNITDRIWms4LUxwbldZU09pQ01wLTBzY0hkYVoxbnpvWVItTEtsWE4yLV9NS280amEwMVNnRnR6Sl9jNlZZVFQycEVHNVFjTXd4VEhDRkpFT1hKWE5MVWRGTGRMTngtUUU?oc=5",
+      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art - Quanta Magazine",
+      "description": "He Wants AI Benchmarking To Be a Science, Not a Dark Art&nbsp;&nbsp;Quanta Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXlhU1kzY09uSjZ3ZkVzWTRGNDFNeHZYRlBPcGRkVHEtTGRhQUJlLVRUZHJHQXpzekdSWGNITDRIWms4LUxwbldZU09pQ01wLTBzY0hkYVoxbnpvWVItTEtsWE4yLV9NS280amEwMVNnRnR6Sl9jNlZZVFQycEVHNVFjTXd4VEhDRkpFT1hKWE5MVWRGTGRMTngtUUU?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-10-16T16:59:06.000Z"
     },
     {
-      "id": "tech-https://github.com/Saffsanity/sill",
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "description": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 73\n# Comments: 9",
-      "url": "https://github.com/Saffsanity/sill",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-10-16T01:43:17.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMivgFBVV95cUxPSElxZ0NWWkFqY3FmY29PN3JhMHRxSVo3eEJMLUYxMmtNNVl2LUlzNjZsU05heFlmby1aWFh4ZFRCRTRobDMwdjZvdGI1NlNCb1ZGRS0zMUdqQjJvRFpQb0JoN1NFLXhGdzI1WFl0Z0UtRWNVNWYySEZDV05GdGhzZHhsdU1BT3Z2Y09uWUo2TXZJZEY4ekotQVJYM0hWQ3VyWHJvSnU2WFU0T2JLVTNGSkVlcTk0c2M5amhJN01n?oc=5",
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS - Amazon Web Services (AWS)",
+      "description": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSElxZ0NWWkFqY3FmY29PN3JhMHRxSVo3eEJMLUYxMmtNNVl2LUlzNjZsU05heFlmby1aWFh4ZFRCRTRobDMwdjZvdGI1NlNCb1ZGRS0zMUdqQjJvRFpQb0JoN1NFLXhGdzI1WFl0Z0UtRWNVNWYySEZDV05GdGhzZHhsdU1BT3Z2Y09uWUo2TXZJZEY4ekotQVJYM0hWQ3VyWHJvSnU2WFU0T2JLVTNGSkVlcTk0c2M5amhJN01n?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-10-16T15:23:10.000Z"
     },
     {
-      "id": "tech-https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "title": "Thank You, Deno",
-      "description": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving\nComments URL: https://news.ycombinator.com/item?id=50112331\nPoints: 39\n# Comments: 3",
-      "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-10-16T00:52:40.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vVHdtU29sd1FMbVJMRFBNclhrTlZYZlJfX2JnS2RGc29vUmF2NGs2TGlFVWtDRUdMTEVRaWMxakVMWkY4aTRiWkhVWC03MldoZVdndm9iNlFzbXNUQk5Z?oc=5",
+      "title": "Artificial intelligence for life-cycle-aware sustainable materials discovery - Nature",
+      "description": "Artificial intelligence for life-cycle-aware sustainable materials discovery&nbsp;&nbsp;Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vVHdtU29sd1FMbVJMRFBNclhrTlZYZlJfX2JnS2RGc29vUmF2NGs2TGlFVWtDRUdMTEVRaWMxakVMWkY4aTRiWkhVWC03MldoZVdndm9iNlFzbXNUQk5Z?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-10-16T10:14:54.000Z"
     },
     {
-      "id": "tech-https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "title": "RPKI now protects 70% of internet routes",
-      "description": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes\nComments URL: https://news.ycombinator.com/item?id=50112330\nPoints: 83\n# Comments: 23",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-10-16T00:52:35.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnNEVTUxRkJsaWhlRUF3UDZONFJTSFNjaGIxZ2s3RE00YS1raHZMenhma0YzTk9QbklGQ1AxaTJJYVA1RTljektqaGpTSHpqcXdwcDUtWjlQd0xITlI0M2pSRUcxeS1xek9oN29hX2I4LS1velpzSF9mTTZOMFlQdUhrSWdGWEVtdmQzUDRSYWsxb2FOZ1ZQdk1JaVJXOHBzVV93bTltU3dQYXJmYVlld3ZfRnF5T0ZfYkl0dFduZ05JSTRIeGxHLQ?oc=5",
+      "title": "USCIS Is Using Artificial Intelligence: Even Small Immigration Discrepancies Could Create Big Problems - Reddy Neumann Brown PC",
+      "description": "USCIS Is Using Artificial Intelligence: Even Small Immigration Discrepancies Could Create Big Problems&nbsp;&nbsp;Reddy Neumann Brown PC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUnNEVTUxRkJsaWhlRUF3UDZONFJTSFNjaGIxZ2s3RE00YS1raHZMenhma0YzTk9QbklGQ1AxaTJJYVA1RTljektqaGpTSHpqcXdwcDUtWjlQd0xITlI0M2pSRUcxeS1xek9oN29hX2I4LS1velpzSF9mTTZOMFlQdUhrSWdGWEVtdmQzUDRSYWsxb2FOZ1ZQdk1JaVJXOHBzVV93bTltU3dQYXJmYVlld3ZfRnF5T0ZfYkl0dFduZ05JSTRIeGxHLQ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-10-16T16:08:34.000Z"
     },
     {
-      "id": "tech-https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-      "description": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\nComments URL: https://news.ycombinator.com/item?id=50111852\nPoints: 112\n# Comments: 44",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-10-15T23:37:42.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2lKRzVLYnZWTUU0V2FsRThQUXdMcmswVThIekFuZm1CSXdtUWpoQVdISXR0cEI4QjFEOV9oREItUTFOeF9KOWF5V3hNdm53eEkzWXI3anJoSTJFaDYxTm5wMTkzdXFzVjVycWFZMGc1UFJNelJCcmxyT0hrN3ZhcC0tRlFRcEIzakhuc0twZkFEcm5hQmhhZXFob005SFN6cWRfdVZGZktfSXVSSmRld0xjT3RZZw?oc=5",
+      "title": "Standing Room Only: New Platform Uses Machine Learning to Tackle Recreation Crowding - Utah State University",
+      "description": "Standing Room Only: New Platform Uses Machine Learning to Tackle Recreation Crowding&nbsp;&nbsp;Utah State University",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2lKRzVLYnZWTUU0V2FsRThQUXdMcmswVThIekFuZm1CSXdtUWpoQVdISXR0cEI4QjFEOV9oREItUTFOeF9KOWF5V3hNdm53eEkzWXI3anJoSTJFaDYxTm5wMTkzdXFzVjVycWFZMGc1UFJNelJCcmxyT0hrN3ZhcC0tRlFRcEIzakhuc0twZkFEcm5hQmhhZXFob005SFN6cWRfdVZGZktfSXVSSmRld0xjT3RZZw?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-10-16T19:35:07.000Z"
     },
     {
-      "id": "tech-https://github.com/johnrash/bebox",
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "description": "Article URL: https://github.com/johnrash/bebox\nComments URL: https://news.ycombinator.com/item?id=50111742\nPoints: 35\n# Comments: 9",
-      "url": "https://github.com/johnrash/bebox",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-10-15T23:22:53.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMidEFVX3lxTFBpcW1lMnpSSnlCeXI2SVloM2NPSGpUdTlPam11UVhITUxrdkM0V2l3eVFlVlpEanlIelFqX243M1NKSmViYVdxYkxVNjBkMHRIRVcxdDAxTWpyckJTbXhUMGF5OFRUQ0ZNN2FqeWJSZkxyQmFm?oc=5",
+      "title": "Future of Artificial Intelligence: Business, Jobs & Society - Business Outreach Magazine",
+      "description": "Future of Artificial Intelligence: Business, Jobs & Society&nbsp;&nbsp;Business Outreach Magazine",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpcW1lMnpSSnlCeXI2SVloM2NPSGpUdTlPam11UVhITUxrdkM0V2l3eVFlVlpEanlIelFqX243M1NKSmViYVdxYkxVNjBkMHRIRVcxdDAxTWpyckJTbXhUMGF5OFRUQ0ZNN2FqeWJSZkxyQmFm?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-10-16T11:45:55.000Z"
     },
     {
-      "id": "tech-https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "title": "What I self-host",
-      "description": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\nComments URL: https://news.ycombinator.com/item?id=50109715\nPoints: 347\n# Comments: 227",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "source": "Hacker News",
-      "topic": "tech",
-      "topicLabel": "Tech",
-      "publishedAt": "2026-10-15T20:23:25.000Z"
+      "id": "ai-https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ216bnY0Ri1pdm5TRkNDN3VKMmZGOTMtR09LNUFXWUt4NUd6NTZ5OG92NGduTlA1WWxxaUtXUWh6QWVta21xY1gxcFJhdTh0dVBEcS1CNHNkbHVfUDBZcVhxbUhVWm0xVjlVNlJSNkd0VWFEZzNIYW5VWHFaZC1DMmkzNXIzb3lsdEVKWnRiNUZ6bURm?oc=5",
+      "title": "How AI and Machine Learning Are Rewiring the Search for New Drugs - Bioengineer.org",
+      "description": "How AI and Machine Learning Are Rewiring the Search for New Drugs&nbsp;&nbsp;Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ216bnY0Ri1pdm5TRkNDN3VKMmZGOTMtR09LNUFXWUt4NUd6NTZ5OG92NGduTlA1WWxxaUtXUWh6QWVta21xY1gxcFJhdTh0dVBEcS1CNHNkbHVfUDBZcVhxbUhVWm0xVjlVNlJSNkd0VWFEZzNIYW5VWHFaZC1DMmkzNXIzb3lsdEVKWnRiNUZ6bURm?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-10-16T19:56:12.000Z"
     },
     {
-      "id": "tech-https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "description": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\nComments URL: https://news.ycombinator.com/item?id=50109375\nPoints: 204\n# Comments: 152",
-      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "id": "ai-https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZzFVaF92YWxacUNUSmhSY2VaVXdOSGFDbmphbFg0bGYwaVNuWW9OMUhmMUlmR29KTFdYYjVrTTYwOHM1TzlMMHRvTi1DSTIyNHR1cGd3eXBHXzV6WUlKcHdIQV8zLUtVZG1qT3V3MTl5UWxkbWR1RjBVTUc0VWdJSHJDd3VFQmtaMGVKSk9sTlVrMXhhOGNJc2hiWWtQZFk4Q2NhQ2tFUHZtSVhhdi1LTmIybTlKZi0xU3FiTjh4QTNTcE1ObjI5bUdrdGZfam9LVTdzSVh2MFlhTFJBaTNSbUFPcFB1eWl2dDNDeXJZU0o0c1RnRFd6Nk1HX19KQTBKQk4zRnpuTHdHVWPSAYsCQVVfeXFMT2cxVWhfdmFsWnFDVEpoUmNlWlV3TkhhQ25qYWxYNGxmMGlTbllvTjFIZjFJZkdvSkxXWGI1a002MDhzNU85TDB0b04tQ0kyMjR0dXBnd3lwR181ellJSnB3SEFfMy1LVWRtak91dzE5eVFsZG1kdUYwVU1HNFVnSUhyQ3d1RUJrWjBlSkpPbE5VazF4YThjSXNoYllrUGRZOENjYUNrRVB2bUlYYXYtS05iMm05SmYtMVNxYk44eEEzU3BNTm4yOW1Ha3RmX2pvS1U3c0lYdjBZYUxSQWkzUm1BT3BQdXlpdnQzQ3lyWVNKNHNUZ0RXejZNR19fSkEwSkJOM0Z6bkx3R1Vj?oc=5",
+      "title": "IIT Kanpur, Gates Foundation partner to advance affordable diagnostic technologies - ET Education",
+      "description": "IIT Kanpur, Gates Foundation partner to advance affordable diagnostic technologies&nbsp;&nbsp;ET Education",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZzFVaF92YWxacUNUSmhSY2VaVXdOSGFDbmphbFg0bGYwaVNuWW9OMUhmMUlmR29KTFdYYjVrTTYwOHM1TzlMMHRvTi1DSTIyNHR1cGd3eXBHXzV6WUlKcHdIQV8zLUtVZG1qT3V3MTl5UWxkbWR1RjBVTUc0VWdJSHJDd3VFQmtaMGVKSk9sTlVrMXhhOGNJc2hiWWtQZFk4Q2NhQ2tFUHZtSVhhdi1LTmIybTlKZi0xU3FiTjh4QTNTcE1ObjI5bUdrdGZfam9LVTdzSVh2MFlhTFJBaTNSbUFPcFB1eWl2dDNDeXJZU0o0c1RnRFd6Nk1HX19KQTBKQk4zRnpuTHdHVWPSAYsCQVVfeXFMT2cxVWhfdmFsWnFDVEpoUmNlWlV3TkhhQ25qYWxYNGxmMGlTbllvTjFIZjFJZkdvSkxXWGI1a002MDhzNU85TDB0b04tQ0kyMjR0dXBnd3lwR181ellJSnB3SEFfMy1LVWRtak91dzE5eVFsZG1kdUYwVU1HNFVnSUhyQ3d1RUJrWjBlSkpPbE5VazF4YThjSXNoYllrUGRZOENjYUNrRVB2bUlYYXYtS05iMm05SmYtMVNxYk44eEEzU3BNTm4yOW1Ha3RmX2pvS1U3c0lYdjBZYUxSQWkzUm1BT3BQdXlpdnQzQ3lyWVNKNHNUZ0RXejZNR19fSkEwSkJOM0Z6bkx3R1Vj?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-10-16T13:06:56.000Z"
+    },
+    {
+      "id": "tech-https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+      "title": "\"In every study that considered the question\"",
+      "description": "Article URL: https://unsung.aresluna.org/in-every-study-that-considered-the-question/\nComments URL: https://news.ycombinator.com/item?id=50127839\nPoints: 4\n# Comments: 0",
+      "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-10-15T19:55:49.000Z"
+      "publishedAt": "2026-10-17T04:08:27.000Z"
+    },
+    {
+      "id": "tech-https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "title": "Butlerian Jihad",
+      "description": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 125\n# Comments: 64",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-10-17T02:21:08.000Z"
+    },
+    {
+      "id": "tech-https://www.flexport.com/company/careers/",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "description": "Article URL: https://www.flexport.com/company/careers/\nComments URL: https://news.ycombinator.com/item?id=50126774\nPoints: 0\n# Comments: 0",
+      "url": "https://www.flexport.com/company/careers/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-10-17T01:01:51.000Z"
+    },
+    {
+      "id": "tech-https://fakeipedia.org",
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "description": "Hi HN!Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is.If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see.I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better.\n\nComments URL: https://news.ycombinator.com/item?id=50126334\nPoints: 13\n# Comments: 4",
+      "url": "https://fakeipedia.org",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-10-16T23:52:04.000Z"
+    },
+    {
+      "id": "tech-https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "title": "Nine-Inch Snails",
+      "description": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/\nComments URL: https://news.ycombinator.com/item?id=50125545\nPoints: 40\n# Comments: 20",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-10-16T22:21:05.000Z"
+    },
+    {
+      "id": "tech-https://bfl.ai/blog/flux-3-image-klein",
+      "title": "FLUX 3 Image Klein",
+      "description": "Article URL: https://bfl.ai/blog/flux-3-image-klein\nComments URL: https://news.ycombinator.com/item?id=50123580\nPoints: 135\n# Comments: 39",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-10-16T19:47:13.000Z"
+    },
+    {
+      "id": "tech-https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "title": "How the Claude Code team does code review",
+      "description": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 278\n# Comments: 255",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-10-16T19:04:47.000Z"
+    },
+    {
+      "id": "tech-https://alexwang.ai/posts/associative-memory/",
+      "title": "You could have invented transformers from memory",
+      "description": "Article URL: https://alexwang.ai/posts/associative-memory/\nComments URL: https://news.ycombinator.com/item?id=50122878\nPoints: 187\n# Comments: 56",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News",
+      "topic": "tech",
+      "topicLabel": "Tech",
+      "publishedAt": "2026-10-16T19:01:17.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVmtETWV6cVBrYUxQSUN4UkV3allabFVaam1VN3F0YmRtQ0RmYjliSlc3R2V0Ni14RGs5WnpnVzlsOG5zOFFjMHhBOF92emxtbmplV3VUUTlPN2NnWHdQcjg4V2hNbk1GYm45cWgzYmxXendBdkoxZWlPMGUyYWRidUduWTNiSXE5RHc1cEFGYzE3cU9rLVhsZTVnTDNlVmVCS0tEYXVRZ2ZkZ1lLX0ZsOXN0bExUQUtmdUpHRi1xMU44bk1HZ0plSzFFazItN1pQdVBaQ1A5Q09Xb3VILXhmSkVkQnk2WmvSAe4BQVVfeXFMTjUtNUdCM2xDV0dTbEI4SWpzM0RFSjlnYTFPaXlhV0lzQ0tSUTZCYWNWM3VTbUZBLXVlXzZMZVZIcmpjOTMwVHdmR1drd1M0MjNZdFhOZXR5UmRscHV1ZlhHVXNpbGxDRzBfS0ozUXBmYXFjYS1ZcjNxN3R0NUFlQnBudFVPN0RnSnFPSnMwTWhWQkVNS0dXTzhHNE1ySHRoT2QyN1dXQk5Gc0pMN2ZuelNrdkxMcXNXWlMxclhwREZfNFV2TFJ2VERQdmtOczFON1U1aXYxSXR0alN0Q3BscWk1TEd3aGM4a0pLT0pvUQ?oc=5",
+      "title": "From algorithms to experiments: AI’s evolving role in biological research - The Indian Express",
+      "description": "From algorithms to experiments: AI’s evolving role in biological research&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVmtETWV6cVBrYUxQSUN4UkV3allabFVaam1VN3F0YmRtQ0RmYjliSlc3R2V0Ni14RGs5WnpnVzlsOG5zOFFjMHhBOF92emxtbmplV3VUUTlPN2NnWHdQcjg4V2hNbk1GYm45cWgzYmxXendBdkoxZWlPMGUyYWRidUduWTNiSXE5RHc1cEFGYzE3cU9rLVhsZTVnTDNlVmVCS0tEYXVRZ2ZkZ1lLX0ZsOXN0bExUQUtmdUpHRi1xMU44bk1HZ0plSzFFazItN1pQdVBaQ1A5Q09Xb3VILXhmSkVkQnk2WmvSAe4BQVVfeXFMTjUtNUdCM2xDV0dTbEI4SWpzM0RFSjlnYTFPaXlhV0lzQ0tSUTZCYWNWM3VTbUZBLXVlXzZMZVZIcmpjOTMwVHdmR1drd1M0MjNZdFhOZXR5UmRscHV1ZlhHVXNpbGxDRzBfS0ozUXBmYXFjYS1ZcjNxN3R0NUFlQnBudFVPN0RnSnFPSnMwTWhWQkVNS0dXTzhHNE1ySHRoT2QyN1dXQk5Gc0pMN2ZuelNrdkxMcXNXWlMxclhwREZfNFV2TFJ2VERQdmtOczFON1U1aXYxSXR0alN0Q3BscWk1TEd3aGM4a0pLT0pvUQ?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-10-16T14:06:19.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3p0QU5rcktlUDQtMW9QdjBmeW9kNFdSVFF3bEw1SldwN20wV0xFUHRUZmJiLUk5MDlBV0xrNjc5ZjRPM2Z6c3lLbmI3OFFZdXBsWmJXMk5tWWRNZkl2aDNHUi1YOXE2RTlFUjB3X0tnZzVnNXZNYVlfb19iZC1FR0Vn?oc=5",
+      "title": "State of the World’s Forests 2026 Report, Key Findings, Progress & Challenges - Vajiram & Ravi",
+      "description": "State of the World’s Forests 2026 Report, Key Findings, Progress & Challenges&nbsp;&nbsp;Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3p0QU5rcktlUDQtMW9QdjBmeW9kNFdSVFF3bEw1SldwN20wV0xFUHRUZmJiLUk5MDlBV0xrNjc5ZjRPM2Z6c3lLbmI3OFFZdXBsWmJXMk5tWWRNZkl2aDNHUi1YOXE2RTlFUjB3X0tnZzVnNXZNYVlfb19iZC1FR0Vn?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-10-16T09:12:11.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZW45cTVVOEtQNlQtWVZieEsyYzZnVEpEVUZ0R2lVWnZCOGZUeEw2LVZJRVJFS25hcGUtc3ZjdXN6QnpMeEt4bmhTMGZGSVZjN3lRcDlySFNRaXU2eXZnQkRSZU56bkF4STRWX3NKaXZLVzhvdmJBSzQzT3RaTlRzbnJwdWtYVzVRb2U1ZFpva0hQY1NBdlFZbU4wMUlCOWwtNVNpbVVBTmpYbU9ia2pvVE1oSjRoV1lyenZkcFR4dmU3bm1zUDRqSnZDWktxQ1N1V3pkSEpaSFFTb3pNWUFwa1FxQlFUZw?oc=5",
+      "title": "School assembly news headlines today- October 17: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- October 17: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZW45cTVVOEtQNlQtWVZieEsyYzZnVEpEVUZ0R2lVWnZCOGZUeEw2LVZJRVJFS25hcGUtc3ZjdXN6QnpMeEt4bmhTMGZGSVZjN3lRcDlySFNRaXU2eXZnQkRSZU56bkF4STRWX3NKaXZLVzhvdmJBSzQzT3RaTlRzbnJwdWtYVzVRb2U1ZFpva0hQY1NBdlFZbU4wMUlCOWwtNVNpbVVBTmpYbU9ia2pvVE1oSjRoV1lyenZkcFR4dmU3bm1zUDRqSnZDWktxQ1N1V3pkSEpaSFFTb3pNWUFwa1FxQlFUZw?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-10-16T12:52:41.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbUpqWnJnbnNmUUU1dFhUNkVpNm5BeUZYTzU2WHBuWUV5OUR3WGl3VUU1QnhTa0FxSUtVZ3VkTVNMUzJVMjdTRDFjWnV6UkdJeUwxalRRX2FRUDYzRnRxdzdraVZZZG9FVE94c29zVkx1bHNZTWdfNC00MjZ1endoU3JyRWJ1NFp5eUNCVFF5N3k3UEVfWFliNXo2Q3Nwc0p5ZWpIR01XQUNqTlp6UDFpZFNtTzZiZGF5aF9FTHJjdDlGWHYtZFY3Q0JTTVBpY0Vxd2dGNkcyZEgtZzU1?oc=5",
+      "title": "Global Hunger Index 2026: India ranks 100th, Pakistan ranks worst - Utkarsh Classes",
+      "description": "Global Hunger Index 2026: India ranks 100th, Pakistan ranks worst&nbsp;&nbsp;Utkarsh Classes",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbUpqWnJnbnNmUUU1dFhUNkVpNm5BeUZYTzU2WHBuWUV5OUR3WGl3VUU1QnhTa0FxSUtVZ3VkTVNMUzJVMjdTRDFjWnV6UkdJeUwxalRRX2FRUDYzRnRxdzdraVZZZG9FVE94c29zVkx1bHNZTWdfNC00MjZ1endoU3JyRWJ1NFp5eUNCVFF5N3k3UEVfWFliNXo2Q3Nwc0p5ZWpIR01XQUNqTlp6UDFpZFNtTzZiZGF5aF9FTHJjdDlGWHYtZFY3Q0JTTVBpY0Vxd2dGNkcyZEgtZzU1?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-10-16T08:09:56.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdFBrV2lpc01mUGFZT3hWRXQwU0tzNnkzUDZXbFZmQVhjUmo2NGtIdnozNm1MZ1RVaHpwZjRJTmJKdGlUb0luLW8ydUQ1ZEZadW1EWEx6LTNDTk95TEJza2NycnkyTV8wc3RsbFV1QWkxTWgxRHVTQWwtQXY2elVabTRNdG5EUVZzOVFF?oc=5",
+      "title": "CLAT 2027 Daily Current Affairs - October 16, 2026 | TB-Free India, BHAVYA Scheme, Starlink in India, Death Pe - Careers360",
+      "description": "CLAT 2027 Daily Current Affairs - October 16, 2026 | TB-Free India, BHAVYA Scheme, Starlink in India, Death Pe&nbsp;&nbsp;Careers360",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdFBrV2lpc01mUGFZT3hWRXQwU0tzNnkzUDZXbFZmQVhjUmo2NGtIdnozNm1MZ1RVaHpwZjRJTmJKdGlUb0luLW8ydUQ1ZEZadW1EWEx6LTNDTk95TEJza2NycnkyTV8wc3RsbFV1QWkxTWgxRHVTQWwtQXY2elVabTRNdG5EUVZzOVFF?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-10-16T11:11:00.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMie0FVX3lxTE4wc1FHY2JoNkVVNTQtSFhEYnkyVEdTSXdObEtYOTNmbDBPSmJFQTR6N3M4VjZNblBmVU8zai1yc3RaY0s4RWpVeThNbW90bm10UUZwbEhhR3BESGllMVQyakY1TzVGNHVkQVdFeDlwbGh2bU1iWnQ3b1oxaw?oc=5",
+      "title": "India's UNSC Bid for 2028–29: UPSC Current Affairs - INSIGHTS IAS",
+      "description": "India's UNSC Bid for 2028–29: UPSC Current Affairs&nbsp;&nbsp;INSIGHTS IAS",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wc1FHY2JoNkVVNTQtSFhEYnkyVEdTSXdObEtYOTNmbDBPSmJFQTR6N3M4VjZNblBmVU8zai1yc3RaY0s4RWpVeThNbW90bm10UUZwbEhhR3BESGllMVQyakY1TzVGNHVkQVdFeDlwbGh2bU1iWnQ3b1oxaw?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-10-16T09:13:28.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMisgFBVV95cUxORWFlYmNheVFGZUVZWnVraDhLOF92TmFDcVQyYjNQSUlLN3VMWWRsWktsU2RHc3U0WEtkRWhtQkZBLTZQSUFHcmUtZUtHYm0wWld6aFlCNWtScTJQSVVBSDBWdjJTUXMweEI1bE5YNkV4X3lZWVRuVmZ2ZGVnMzltY0pmZk8tMURwRHpyeEl2cEptdnRCblZXUVB5MUJoSDhTdmhyQ2NGTEl3RHQ2VWMzWGlB?oc=5",
+      "title": "PERM curbs force Indian IT to dabble in the GCC business - The Morning Context",
+      "description": "PERM curbs force Indian IT to dabble in the GCC business&nbsp;&nbsp;The Morning Context",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWFlYmNheVFGZUVZWnVraDhLOF92TmFDcVQyYjNQSUlLN3VMWWRsWktsU2RHc3U0WEtkRWhtQkZBLTZQSUFHcmUtZUtHYm0wWld6aFlCNWtScTJQSVVBSDBWdjJTUXMweEI1bE5YNkV4X3lZWVRuVmZ2ZGVnMzltY0pmZk8tMURwRHpyeEl2cEptdnRCblZXUVB5MUJoSDhTdmhyQ2NGTEl3RHQ2VWMzWGlB?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-10-16T19:27:34.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiekFVX3lxTE5YODBlVE9tUG8yNjAxeFo2TDRvRnNhRHpvLUhUV2s5SExhWEFSZmpFaDhXNlo2d1l5WWtGZENFaXNXWWNFdGtYSTVRWHdwVjBqUjc4bzMwMVNnb3lFT2w1YWlvN1hUbHVURnNEV09ZSWltOW5rSlR6R0d3?oc=5",
+      "title": "India Ranks 84th in Henley Passport Index 2026 - GK Today",
+      "description": "India Ranks 84th in Henley Passport Index 2026&nbsp;&nbsp;GK Today",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YODBlVE9tUG8yNjAxeFo2TDRvRnNhRHpvLUhUV2s5SExhWEFSZmpFaDhXNlo2d1l5WWtGZENFaXNXWWNFdGtYSTVRWHdwVjBqUjc4bzMwMVNnb3lFT2w1YWlvN1hUbHVURnNEV09ZSWltOW5rSlR6R0d3?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-10-16T07:24:11.000Z"
     }
   ]
 }
