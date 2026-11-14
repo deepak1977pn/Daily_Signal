@@ -1,185 +1,175 @@
 {
-  "updatedAt": "2026-11-13T06:59:32.351Z",
+  "updatedAt": "2026-11-14T06:49:12.661Z",
   "articles": [
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
-      "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence - Britannica",
-      "description": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence&nbsp;&nbsp;Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1uZ3FpTVd1eWU4cjRkcVBCcV9Cd08tNDZ6YVI4SkdoVzZvX2w3YVhhTFRIREEtWDJYMFdrck44WjZxYlJocmJ4YVFZUVExS0NpaldSSVFPdlV5bzMxTFZ4THh0TWt5NkwtWXJ6R1ktazluNzFsTm1HWWVzdGZRdFlZUFJjRmpad1VIR3V0a044YWJ3bFp3eHFuQ1J5Wi11S3FTT0dHX2N5UFdEWnRyYmM2TDZuRWN3bkdJdGZR?oc=5",
+      "title": "Top 5 Artificial Intelligence and Machine Learning Development Companies (2026) - The Hype Magazine",
+      "description": "Top 5 Artificial Intelligence and Machine Learning Development Companies (2026)&nbsp;&nbsp;The Hype Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1uZ3FpTVd1eWU4cjRkcVBCcV9Cd08tNDZ6YVI4SkdoVzZvX2w3YVhhTFRIREEtWDJYMFdrck44WjZxYlJocmJ4YVFZUVExS0NpaldSSVFPdlV5bzMxTFZ4THh0TWt5NkwtWXJ6R1ktazluNzFsTm1HWWVzdGZRdFlZUFJjRmpad1VIR3V0a044YWJ3bFp3eHFuQ1J5Wi11S3FTT0dHX2N5UFdEWnRyYmM2TDZuRWN3bkdJdGZR?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-11-12T21:33:00.000Z"
+      "publishedAt": "2026-11-14T05:49:02.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjFTcmNRZ0JjbE8yRkwwSUtpOS1GTVZfS21UYjFBd2hJOHVkOG9kMVQyQzBpbVBaMzdxYXpaT0lncG4zWl9ydHRzOEQ5d0ZDVWFpM29oV0dueG03ZjJPaXRabWtjeUVCdkIwZHd3c0t5anFnUjdITldWUGFsMlFJbE9uczIyRVk2UFM4dk4zbWJ6WkhWMWdkZEs3MjJSZXFadkdCU2pEelNQOUE?oc=5",
-      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron - Amazon Web Services (AWS)",
-      "description": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjFTcmNRZ0JjbE8yRkwwSUtpOS1GTVZfS21UYjFBd2hJOHVkOG9kMVQyQzBpbVBaMzdxYXpaT0lncG4zWl9ydHRzOEQ5d0ZDVWFpM29oV0dueG03ZjJPaXRabWtjeUVCdkIwZHd3c0t5anFnUjdITldWUGFsMlFJbE9uczIyRVk2UFM4dk4zbWJ6WkhWMWdkZEs3MjJSZXFadkdCU2pEelNQOUE?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVczNDh5TDFQdUdoMW53SllxMGVrazZ1UmRzVXk0Q0xOWHZkU0VHekNsTXdON05aQXRYcXJIQ1pOQ25iNjlodUNGNWw0NXNTbGlHQXcwanV5cEo0MzNfYmJEQWZJRWJKbVdheUh4c0hKcWI1VjFXVjNiTm5WRnlLNVVaUXlXVHM1eWJoeUUzWmk4OTAwMlltMnh0aTBIcUM5clE2RFRwVHNoVURodmNab05B?oc=5",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1 - Amazon Web Services (AWS)",
+      "description": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1&nbsp;&nbsp;Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVczNDh5TDFQdUdoMW53SllxMGVrazZ1UmRzVXk0Q0xOWHZkU0VHekNsTXdON05aQXRYcXJIQ1pOQ25iNjlodUNGNWw0NXNTbGlHQXcwanV5cEo0MzNfYmJEQWZJRWJKbVdheUh4c0hKcWI1VjFXVjNiTm5WRnlLNVVaUXlXVHM1eWJoeUUzWmk4OTAwMlltMnh0aTBIcUM5clE2RFRwVHNoVURodmNab05B?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-11-12T22:03:34.000Z"
+      "publishedAt": "2026-11-13T23:22:09.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc2plYndZMEdjdFcwVDBpYmtsUTFNay1ZSUVTN292V0FqeU51RkROQlJNWTF0OVRueENCVnp6LWV3UGhwdUxJTXk1VkV0UUFkV3k3a0dManpQR0dNLXZ3anhvSHZ3RVVXdGlWRHd6OU4zbmJYV0gyQ3J4MFV2dHRKYXR0ZWJXMGJsbjBWaVRhRFFObHdpa2R1eFRoZ2xNWmxpZGdYS2QwQ2JMVnhLaHZZWVcxNGx6Vy1qdi1BcU1JQVBtQUxNcW41STh6Rnloc1IwOC1UYVU2MlJTV2VIY2ZPR3N6UTdUVDRMQzFTXy1zSWtBZ3JRbGRF?oc=5",
-      "title": "Andhra Pradesh students can earn academic credits through free AI courses: APSCHE launches Vidya Vahini - Education Times",
-      "description": "Andhra Pradesh students can earn academic credits through free AI courses: APSCHE launches Vidya Vahini&nbsp;&nbsp;Education Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc2plYndZMEdjdFcwVDBpYmtsUTFNay1ZSUVTN292V0FqeU51RkROQlJNWTF0OVRueENCVnp6LWV3UGhwdUxJTXk1VkV0UUFkV3k3a0dManpQR0dNLXZ3anhvSHZ3RVVXdGlWRHd6OU4zbmJYV0gyQ3J4MFV2dHRKYXR0ZWJXMGJsbjBWaVRhRFFObHdpa2R1eFRoZ2xNWmxpZGdYS2QwQ2JMVnhLaHZZWVcxNGx6Vy1qdi1BcU1JQVBtQUxNcW41STh6Rnloc1IwOC1UYVU2MlJTV2VIY2ZPR3N6UTdUVDRMQzFTXy1zSWtBZ3JRbGRF?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVVsa2duZmVUMC05WEF3dFo3WUNSUGtxUDJBNDN1dXIyYW1zeUhUR1E4N1J1TVQxMHBwV3BCbEZHV0NPTUNVcDhpMklTbjJhaVpsOExFTlU1TDVhcFV1YloxTkxtcWtvYnpKUnA2dEhHb051LThsaDhCRnhhcXl5dU04ZktGbkRtekRrVjNKcHhUTkRyeUVOQmJneWNvSlRyWDAtSm1CZHdXMWpxQURob2ZOU1RKbmw00gG4AUFVX3lxTE81VWxrZ25mZVQwLTlYQXd0WjdZQ1JQa3FQMkE0M3V1cjJhbXN5SFRHUTg3UnVNVDEwcHBXcEJsRkdXQ09NQ1VwOGkySVNuMmFpWmw4TEVOVTVMNWFwVXViWjFOTG1xa29iekpScDZ0SEdvTnUtOGxoOEJGeGFxeXl1TThmS0ZuRG16RGtWM0pweFRORHJ5RU5CYmd5Y29KVHJYMC1KbUJkd1cxanFBRGhvZk5TVEpubDQ?oc=5",
+      "title": "BCA with Specialisations: How to Choose the Right Tech Path for Your Career - Shoolini University",
+      "description": "BCA with Specialisations: How to Choose the Right Tech Path for Your Career&nbsp;&nbsp;Shoolini University",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVVsa2duZmVUMC05WEF3dFo3WUNSUGtxUDJBNDN1dXIyYW1zeUhUR1E4N1J1TVQxMHBwV3BCbEZHV0NPTUNVcDhpMklTbjJhaVpsOExFTlU1TDVhcFV1YloxTkxtcWtvYnpKUnA2dEhHb051LThsaDhCRnhhcXl5dU04ZktGbkRtekRrVjNKcHhUTkRyeUVOQmJneWNvSlRyWDAtSm1CZHdXMWpxQURob2ZOU1RKbmw00gG4AUFVX3lxTE81VWxrZ25mZVQwLTlYQXd0WjdZQ1JQa3FQMkE0M3V1cjJhbXN5SFRHUTg3UnVNVDEwcHBXcEJsRkdXQ09NQ1VwOGkySVNuMmFpWmw4TEVOVTVMNWFwVXViWjFOTG1xa29iekpScDZ0SEdvTnUtOGxoOEJGeGFxeXl1TThmS0ZuRG16RGtWM0pweFRORHJ5RU5CYmd5Y29KVHJYMC1KbUJkd1cxanFBRGhvZk5TVEpubDQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-11-13T06:23:00.000Z"
+      "publishedAt": "2026-11-13T10:41:37.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkJ0Nks2TTg3d3NIRzVrcHJPY3hEaF9pWkZxVGdhNS1yWDBScGxqbHZOT3dKNGwxRVNtd1BzYmw4VnUtT3pUbG1KTWxtV0pKcURBNlR0MllqenhxNGx4VFdGLVpDVlJaSHVHUzJoRTlRanVfSFcwYkRHN1RkNlNlT1hNcU5RTkRabklMaTZXZ2w3UWw2ZVNocE54akE2dUs5ZDNTQW93UXV1QmxTc05uSDk2cnB5QVdYTUcxQkVuS3FHN0lETVAtVzFYbG5Dd2prbVdONC1PeEhzMVliU0JB0gHmAUFVX3lxTE44cWJtNVpFNGtaSTFsZVV6OUUtWjN6c0x6QTZTUVlxM0piN2MzRnFmYzNLSkxhZlA2NWlzVjFfTUJBLWZDR0g5NEZjWjg4eXhPWkhZS2JOcmdRYkhWOFczSHdmazVmdDc3WGhjdzYzNFI1TFpzSHM2M0FMeTJvQTU0Z3dTYXp2eEdjN2NFSWxjdHVTaTRqVHRUbzF2cTRFcG9YTGVHbVo4MW9Id3VIbmNqWkxMeHpfNnYxbU9IemdfNGhLYW1XUDNoR29JbjgwNDdGRHJoTjd0MmRpb2ljTW1kYzRhazlR?oc=5",
-      "title": "Odisha Govt Launches Robotics Lab in 807 Govt Schools; Classes 6 to 10 Students to Learn AI, Machine Learning - Jagran Josh",
-      "description": "Odisha Govt Launches Robotics Lab in 807 Govt Schools; Classes 6 to 10 Students to Learn AI, Machine Learning&nbsp;&nbsp;Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkJ0Nks2TTg3d3NIRzVrcHJPY3hEaF9pWkZxVGdhNS1yWDBScGxqbHZOT3dKNGwxRVNtd1BzYmw4VnUtT3pUbG1KTWxtV0pKcURBNlR0MllqenhxNGx4VFdGLVpDVlJaSHVHUzJoRTlRanVfSFcwYkRHN1RkNlNlT1hNcU5RTkRabklMaTZXZ2w3UWw2ZVNocE54akE2dUs5ZDNTQW93UXV1QmxTc05uSDk2cnB5QVdYTUcxQkVuS3FHN0lETVAtVzFYbG5Dd2prbVdONC1PeEhzMVliU0JB0gHmAUFVX3lxTE44cWJtNVpFNGtaSTFsZVV6OUUtWjN6c0x6QTZTUVlxM0piN2MzRnFmYzNLSkxhZlA2NWlzVjFfTUJBLWZDR0g5NEZjWjg4eXhPWkhZS2JOcmdRYkhWOFczSHdmazVmdDc3WGhjdzYzNFI1TFpzSHM2M0FMeTJvQTU0Z3dTYXp2eEdjN2NFSWxjdHVTaTRqVHRUbzF2cTRFcG9YTGVHbVo4MW9Id3VIbmNqWkxMeHpfNnYxbU9IemdfNGhLYW1XUDNoR29JbjgwNDdGRHJoTjd0MmRpb2ljTW1kYzRhazlR?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mVjRBZTY3Sl9FaGdMWWx3VUVxUy1jQnF4VXR6UjZ4cGx0Tk93TkRpS1ljSmt3TV9jMVRxRU5pTTVQN3M0UWJILVdVOVBWX3pFYUpsbi1PV3k?oc=5",
+      "title": "Machine learning in brain health: clinical applications, biomarkers, and personalised treatment - Nature",
+      "description": "Machine learning in brain health: clinical applications, biomarkers, and personalised treatment&nbsp;&nbsp;Nature",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mVjRBZTY3Sl9FaGdMWWx3VUVxUy1jQnF4VXR6UjZ4cGx0Tk93TkRpS1ljSmt3TV9jMVRxRU5pTTVQN3M0UWJILVdVOVBWX3pFYUpsbi1PV3k?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-11-13T03:32:29.000Z"
+      "publishedAt": "2026-11-13T09:37:24.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMipgFBVV95cUxOeEk2a0pYbU82Rm10c3pjTTIyWndZZG44aUJUM0hXaFJycFBpUURuRkRwNGNsZmhFTXJVSndJcmxlLUtKMEhtY0lCZEQxZXgxb0FhdDZYVUx5MnVtTjk3SXBTa2htbm1xYTFlZUhWaWJ0SE1rU21VTjBtQVpIQUtpQ3duWEJhZ0MtRnVWM2dIcGc0NjBkYk9tVEhGMUMzMmZ3Y3FGaWJ3?oc=5",
-      "title": "Machine Learning and Deep Learning Advance Antimicrobial Resistance Prediction - Bioengineer.org",
-      "description": "Machine Learning and Deep Learning Advance Antimicrobial Resistance Prediction&nbsp;&nbsp;Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeEk2a0pYbU82Rm10c3pjTTIyWndZZG44aUJUM0hXaFJycFBpUURuRkRwNGNsZmhFTXJVSndJcmxlLUtKMEhtY0lCZEQxZXgxb0FhdDZYVUx5MnVtTjk3SXBTa2htbm1xYTFlZUhWaWJ0SE1rU21VTjBtQVpIQUtpQ3duWEJhZ0MtRnVWM2dIcGc0NjBkYk9tVEhGMUMzMmZ3Y3FGaWJ3?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMibEFVX3lxTE9mRGhYWUU4MW9fclJLWVZvQnhjX2lTc2IyWldONjk0ZXVtelZwYTNqV01hT0s3Qmt4NVZ4Mmp5UXNFUmJwWTVEamI3SnVJMHpqdkN1TDFCSVJ6WUdqS3ltTUdvalpadUx0MXlCNQ?oc=5",
+      "title": "Career Paths after BCA (Data Science) - LPU",
+      "description": "Career Paths after BCA (Data Science)&nbsp;&nbsp;LPU",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mRGhYWUU4MW9fclJLWVZvQnhjX2lTc2IyWldONjk0ZXVtelZwYTNqV01hT0s3Qmt4NVZ4Mmp5UXNFUmJwWTVEamI3SnVJMHpqdkN1TDFCSVJ6WUdqS3ltTUdvalpadUx0MXlCNQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-11-13T04:47:57.000Z"
+      "publishedAt": "2026-11-13T07:08:15.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXZnMU1NZGxlV0lxZkRIVUhjUkF3VzFPQUszNFdkTllKTzVxUF9Ud0hqYVpmVWJpWHRja1FTZXM0TUdrdlRIX1lNQ2xPQUhua0FDckRZV2dud3lya2ZfUmd1T2ZCMDk5UGtHbHJmV2J4TDFqMFlSZDFZVnpZMlRFMk5BdnFqUm5YNTJvOTdPNmtyVUYtN3loTkxDejZsaURrZUx6WU5RUk5ubHdGSGRR?oc=5",
-      "title": "Hood College, Frederick County Workforce Services to Launch AI-Enhanced Data Analytics Training Program - BioBuzz",
-      "description": "Hood College, Frederick County Workforce Services to Launch AI-Enhanced Data Analytics Training Program&nbsp;&nbsp;BioBuzz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXZnMU1NZGxlV0lxZkRIVUhjUkF3VzFPQUszNFdkTllKTzVxUF9Ud0hqYVpmVWJpWHRja1FTZXM0TUdrdlRIX1lNQ2xPQUhua0FDckRZV2dud3lya2ZfUmd1T2ZCMDk5UGtHbHJmV2J4TDFqMFlSZDFZVnpZMlRFMk5BdnFqUm5YNTJvOTdPNmtyVUYtN3loTkxDejZsaURrZUx6WU5RUk5ubHdGSGRR?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTdOQjdpalh3dThBa2c0Um5PVElVbnFmTGNGaGxNQjdVenlKbzFoQzJRTUJCVXg3S0hBNEh5ekNoMlNJRW9YN2N6eUZiU1pUNHo1dGx6d0NjUmpzcEFDWnRldXJlVGVYVDBmZ3FnY3RYY0xVV1FQUWFGcUhnb0tObVpLQUs5UHo0RTNVOXllMjByWHRaMUx1enRSN0ZncWV2RC05SGtBQzBjT0xtZkdwUG1aWk1UVjRSWG1aQUVWQkVVQQ?oc=5",
+      "title": "Artificial Intelligence Models Predict Alzheimer’s Progression Years Before Clinical Symptoms Emerge - Bioengineer.org",
+      "description": "Artificial Intelligence Models Predict Alzheimer’s Progression Years Before Clinical Symptoms Emerge&nbsp;&nbsp;Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTdOQjdpalh3dThBa2c0Um5PVElVbnFmTGNGaGxNQjdVenlKbzFoQzJRTUJCVXg3S0hBNEh5ekNoMlNJRW9YN2N6eUZiU1pUNHo1dGx6d0NjUmpzcEFDWnRldXJlVGVYVDBmZ3FnY3RYY0xVV1FQUWFGcUhnb0tObVpLQUs5UHo0RTNVOXllMjByWHRaMUx1enRSN0ZncWV2RC05SGtBQzBjT0xtZkdwUG1aWk1UVjRSWG1aQUVWQkVVQQ?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-11-12T16:20:33.000Z"
+      "publishedAt": "2026-11-14T01:28:17.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDBxQmdGc2FjdUtJLXpEYkQ0bEp6d2pzRUxqV3lHMlQtVHZwa2ZvWWVDMV9ycmZrODR5bEQ3Q0V2dlNFNm4tQVRqOFQ2eWRxTmVYQkhDajVDeXJ6dDJ3a0F2VlZkUERTZDJJMEt5ZnpkYjZFUTJid0lrRzZkWlB6clkxQXhDUmw4RWJpdnQ3YjBzdm1EU1dwVTVjaEt0OHh6X2dj?oc=5",
-      "title": "Four Amazon Bedrock inference choices that affect cost - Amazon Web Services (AWS)",
-      "description": "Four Amazon Bedrock inference choices that affect cost&nbsp;&nbsp;Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDBxQmdGc2FjdUtJLXpEYkQ0bEp6d2pzRUxqV3lHMlQtVHZwa2ZvWWVDMV9ycmZrODR5bEQ3Q0V2dlNFNm4tQVRqOFQ2eWRxTmVYQkhDajVDeXJ6dDJ3a0F2VlZkUERTZDJJMEt5ZnpkYjZFUTJid0lrRzZkWlB6clkxQXhDUmw4RWJpdnQ3YjBzdm1EU1dwVTVjaEt0OHh6X2dj?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QYUpOdk8xSXU0NWxOXzZiY3R6Mi1wQ3pOdGNWVnhkZ1hqbzdIRTNudjNrY25DT2V1ZGlXNnhEbWh6UWk3aWhQMFNMYjc3YWFzb0NaU1ktX3A4Sjd1?oc=5",
+      "title": "Google PhD Fellowships: Triple Success for the Institute of Science and Technology Austria (ISTA) - EurekAlert!",
+      "description": "Google PhD Fellowships: Triple Success for the Institute of Science and Technology Austria (ISTA)&nbsp;&nbsp;EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QYUpOdk8xSXU0NWxOXzZiY3R6Mi1wQ3pOdGNWVnhkZ1hqbzdIRTNudjNrY25DT2V1ZGlXNnhEbWh6UWk3aWhQMFNMYjc3YWFzb0NaU1ktX3A4Sjd1?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-11-12T20:51:55.000Z"
+      "publishedAt": "2026-11-13T18:07:30.000Z"
     },
     {
-      "id": "ai-https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3B6dlJUbFhHTFUtZkpUSHBNTDlTN2VteHY0dk9GSEtvbm9oRGIxOUZYb0dnQ003RDN6b0haVUhkZFZNUTAwaXN3MEVSS183X1c1NmNVYUFWSE11XzNmM3pRQTNBek9XMlZ6LTZkaXk1dHZ5aHM1TlozRWo2YWx4QkV3aUQtYWdNSXdqQm5pNGhDUklGRnZERW1iVGFxOTFBUzdEeGpvbXNKeVg4NjVKZzI1YlpnRG5pc2E4Sw?oc=5",
-      "title": "Multimodal Artificial Intelligence Accurately Detects Alzheimer Disease but Stumbles on Staging - Bioengineer.org",
-      "description": "Multimodal Artificial Intelligence Accurately Detects Alzheimer Disease but Stumbles on Staging&nbsp;&nbsp;Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3B6dlJUbFhHTFUtZkpUSHBNTDlTN2VteHY0dk9GSEtvbm9oRGIxOUZYb0dnQ003RDN6b0haVUhkZFZNUTAwaXN3MEVSS183X1c1NmNVYUFWSE11XzNmM3pRQTNBek9XMlZ6LTZkaXk1dHZ5aHM1TlozRWo2YWx4QkV3aUQtYWdNSXdqQm5pNGhDUklGRnZERW1iVGFxOTFBUzdEeGpvbXNKeVg4NjVKZzI1YlpnRG5pc2E4Sw?oc=5",
+      "id": "ai-https://news.google.com/rss/articles/CBMijgJBVV95cUxQSnZMWkswdnVjLU9COGRsWUNwXzQ4ZUk5TVNQNXhfMEpxcXdfc19KdmdQV0ZSNmhVcG5NaU9fRk5ZNXIwcS1HUE1VdW9KMW16WTBhZmZPU2piM09mTWczNUtxaVdOdVp1Vzk0VlhrX295cTZQSllYbGxWV2JNMXBYTTFWY2h3RHJ4Vll6UGdGTDhFOUdxZXhXVFZHaDZXdC1FTHp0NmlWLWlDaWFQY1lpM0ZxTi1LZ0Jpa3lXRzdkcTE1ZHZ0VXBKeDV0U3VEQVZsd2hJVTNwMXkzeWczcVJFMkhUdFZEN2VZaEVydHlRcVRYelhWN3dDRFhKRFByTFlXY1pzUFZEV2pBUnBGM0E?oc=5",
+      "title": "Training on the Ethical Use of Artificial Intelligence at the Universitat de València - Universitat de València",
+      "description": "Training on the Ethical Use of Artificial Intelligence at the Universitat de València&nbsp;&nbsp;Universitat de València",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSnZMWkswdnVjLU9COGRsWUNwXzQ4ZUk5TVNQNXhfMEpxcXdfc19KdmdQV0ZSNmhVcG5NaU9fRk5ZNXIwcS1HUE1VdW9KMW16WTBhZmZPU2piM09mTWczNUtxaVdOdVp1Vzk0VlhrX295cTZQSllYbGxWV2JNMXBYTTFWY2h3RHJ4Vll6UGdGTDhFOUdxZXhXVFZHaDZXdC1FTHp0NmlWLWlDaWFQY1lpM0ZxTi1LZ0Jpa3lXRzdkcTE1ZHZ0VXBKeDV0U3VEQVZsd2hJVTNwMXkzeWczcVJFMkhUdFZEN2VZaEVydHlRcVRYelhWN3dDRFhKRFByTFlXY1pzUFZEV2pBUnBGM0E?oc=5",
       "source": "Google News",
       "topic": "ai",
       "topicLabel": "AI",
-      "publishedAt": "2026-11-13T03:26:46.000Z"
+      "publishedAt": "2026-11-13T08:51:08.000Z"
     },
     {
-      "id": "tech-https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-      "title": "Scientists claim the universe is twice as old as believed",
-      "description": "Article URL: https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/\nComments URL: https://news.ycombinator.com/item?id=50478635\nPoints: 21\n# Comments: 6",
-      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "id": "tech-https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\nComments URL: https://news.ycombinator.com/item?id=50493251\nPoints: 322\n# Comments: 163",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-13T05:13:30.000Z"
+      "publishedAt": "2026-11-14T02:52:59.000Z"
     },
     {
-      "id": "tech-https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
-      "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
-      "description": "Article URL: https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high\nComments URL: https://news.ycombinator.com/item?id=50478622\nPoints: 29\n# Comments: 11",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+      "id": "tech-https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "title": "Ggml v1.0.0",
+      "description": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=50493062\nPoints: 157\n# Comments: 28",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-13T05:10:27.000Z"
+      "publishedAt": "2026-11-14T02:28:29.000Z"
     },
     {
-      "id": "tech-https://github.com/pharma2a/pharma2a",
-      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
-      "description": "I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and their suppliers. \nSince 12 November, PharmA2A is live on GH. \nIs anyone of you is using A2A in real life ?\n\nComments URL: https://news.ycombinator.com/item?id=50478543\nPoints: 4\n# Comments: 0",
-      "url": "https://github.com/pharma2a/pharma2a",
+      "id": "tech-https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "description": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html\nComments URL: https://news.ycombinator.com/item?id=50492993\nPoints: 165\n# Comments: 34",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-13T04:58:53.000Z"
+      "publishedAt": "2026-11-14T02:21:36.000Z"
     },
     {
-      "id": "tech-https://ice-wm.org/",
-      "title": "IceWM",
-      "description": "Article URL: https://ice-wm.org/\nComments URL: https://news.ycombinator.com/item?id=50478515\nPoints: 71\n# Comments: 30",
-      "url": "https://ice-wm.org/",
+      "id": "tech-https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "description": "Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/\nComments URL: https://news.ycombinator.com/item?id=50492950\nPoints: 62\n# Comments: 2",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-13T04:54:53.000Z"
+      "publishedAt": "2026-11-14T02:15:41.000Z"
     },
     {
-      "id": "tech-https://folklore.org/Switcher.html",
-      "title": "Switcher (2004)",
-      "description": "Article URL: https://folklore.org/Switcher.html\nComments URL: https://news.ycombinator.com/item?id=50477714\nPoints: 76\n# Comments: 20",
-      "url": "https://folklore.org/Switcher.html",
+      "id": "tech-https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "description": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks\nComments URL: https://news.ycombinator.com/item?id=50492860\nPoints: 109\n# Comments: 20",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-13T03:14:59.000Z"
+      "publishedAt": "2026-11-14T02:02:42.000Z"
     },
     {
-      "id": "tech-https://brave.com/blog/search-api-agentic-payments/",
-      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "description": "Article URL: https://brave.com/blog/search-api-agentic-payments/\nComments URL: https://news.ycombinator.com/item?id=50477649\nPoints: 49\n# Comments: 14",
-      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "id": "tech-https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "description": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026\nComments URL: https://news.ycombinator.com/item?id=50492315\nPoints: 154\n# Comments: 47",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-13T03:08:08.000Z"
+      "publishedAt": "2026-11-14T00:52:29.000Z"
     },
     {
-      "id": "tech-https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "description": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/\nComments URL: https://news.ycombinator.com/item?id=50477231\nPoints: 393\n# Comments: 297",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "id": "tech-https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+      "title": "Philip Roth and David Remnick getting personal (2001)",
+      "description": "Article URL: https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick\nComments URL: https://news.ycombinator.com/item?id=50492098\nPoints: 14\n# Comments: 0",
+      "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-13T02:16:24.000Z"
+      "publishedAt": "2026-11-14T00:21:26.000Z"
     },
     {
-      "id": "tech-https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\nComments URL: https://news.ycombinator.com/item?id=50475713\nPoints: 188\n# Comments: 48",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "id": "tech-https://unsloth.ai/docs/models/qwen3.8",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "description": "Article URL: https://unsloth.ai/docs/models/qwen3.8\nComments URL: https://news.ycombinator.com/item?id=50491980\nPoints: 89\n# Comments: 14",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-12T23:06:17.000Z"
+      "publishedAt": "2026-11-14T00:06:04.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMigAFBVV95cUxOU01lS0hMRFowQVZQOWtCSFZaRjJINlBYT1VpdURtUGtHMXhrS3BKMG1Tc25TWExCRGRMLW9vemMyemNlWTduR2JhUTRUd3pYSHdNLUxnUkJSUVZKVFdqNG5BaW4tNm04THVsTWlLRDVRVGpfV3dMc0xyS2dxUXVfdA?oc=5",
-      "title": "Vivaan Kapoor Wins India’s Third LA28 Shooting Quota - GK Today",
-      "description": "Vivaan Kapoor Wins India’s Third LA28 Shooting Quota&nbsp;&nbsp;GK Today",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU01lS0hMRFowQVZQOWtCSFZaRjJINlBYT1VpdURtUGtHMXhrS3BKMG1Tc25TWExCRGRMLW9vemMyemNlWTduR2JhUTRUd3pYSHdNLUxnUkJSUVZKVFdqNG5BaW4tNm04THVsTWlLRDVRVGpfV3dMc0xyS2dxUXVfdA?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZVc5SHJpNmpjRlY5T2t4SUFvWnpHdm1PdDlIS2hFUS04bXJOQzhlWDVwU0JFZjNFZDViLU56QkJ6bmpDQnc1VVEzVG9vX01JMjJF?oc=5",
+      "title": "UPSC Syllabus 2027, Check Prelims, Mains and Optional PDF - Vajiram & Ravi",
+      "description": "UPSC Syllabus 2027, Check Prelims, Mains and Optional PDF&nbsp;&nbsp;Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yZVc5SHJpNmpjRlY5T2t4SUFvWnpHdm1PdDlIS2hFUS04bXJOQzhlWDVwU0JFZjNFZDViLU56QkJ6bmpDQnc1VVEzVG9vX01JMjJF?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-13T06:14:37.000Z"
-    },
-    {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVHdyekRVdGpacHl1YndPclVWaW14d1NrWEVmbG9NbEZfN1hBWDU2QmlxRHFJV0hnMnB0dXJjYjBfbWx1Rzl3TGJWbjRkc1JwcVl1aXMtLWp5b0UtejRpTlBuZ2NNenIyRGdyX19vRC1mTHZ5bnpIWHFLNk9RZzMybmwtaWdIaVJyTW5KMjlTQzRLV2xFeEtwSVZiLUJjeVl4M1lMUU5KNXVSRUxXNDQtNFc5VGZkYlg2Tks4YUhlY1JySXg1VExaTUFGRUo1V0NKQ0tJcTFjRzgzQmJoc0hJWVZmUWludXItZ2s1MFR30gHzAUFVX3lxTE1yM3I5V3phdTdsYzRWRmwwUUdLaVdnUXFsYmJuZms5V1dVQWpzZWpIQ2xpZ1c5c2FtZDdKQ3dab2JKVUtTQkUtOWJDSTNxSHU0TC1yNWdqMjZ1dVNLR1N3SjExUHdnZGZXZkhXblZyUXBkczFSb1l2MlJyb1BMbEM5anpJYVJPLXpPU3BGSDA2ZUlCY1YwU3lEWU52WmdnQ1RUb2N1QkQ4eEQyRXZaN2FUVDVxOENNNDVaajZJME0tNlFKUm9TZnFBbUlBUFVuLTdLakJpMmxxMzhBV0pDNlM3eFJnMkhpNVBlTXFKQzdXamJicw?oc=5",
-      "title": "Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues - The Times of India",
-      "description": "Microsoft Outlook outage hits thousands globally, nearly 1.3L users report email issues&nbsp;&nbsp;The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVHdyekRVdGpacHl1YndPclVWaW14d1NrWEVmbG9NbEZfN1hBWDU2QmlxRHFJV0hnMnB0dXJjYjBfbWx1Rzl3TGJWbjRkc1JwcVl1aXMtLWp5b0UtejRpTlBuZ2NNenIyRGdyX19vRC1mTHZ5bnpIWHFLNk9RZzMybmwtaWdIaVJyTW5KMjlTQzRLV2xFeEtwSVZiLUJjeVl4M1lMUU5KNXVSRUxXNDQtNFc5VGZkYlg2Tks4YUhlY1JySXg1VExaTUFGRUo1V0NKQ0tJcTFjRzgzQmJoc0hJWVZmUWludXItZ2s1MFR30gHzAUFVX3lxTE1yM3I5V3phdTdsYzRWRmwwUUdLaVdnUXFsYmJuZms5V1dVQWpzZWpIQ2xpZ1c5c2FtZDdKQ3dab2JKVUtTQkUtOWJDSTNxSHU0TC1yNWdqMjZ1dVNLR1N3SjExUHdnZGZXZkhXblZyUXBkczFSb1l2MlJyb1BMbEM5anpJYVJPLXpPU3BGSDA2ZUlCY1YwU3lEWU52WmdnQ1RUb2N1QkQ4eEQyRXZaN2FUVDVxOENNNDVaajZJME0tNlFKUm9TZnFBbUlBUFVuLTdLakJpMmxxMzhBV0pDNlM3eFJnMkhpNVBlTXFKQzdXamJicw?oc=5",
-      "source": "Google News",
-      "topic": "current-affairs",
-      "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-12T22:08:00.000Z"
+      "publishedAt": "2026-11-14T00:58:03.000Z"
     },
     {
       "id": "current-affairs-https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTY5dVF3ZFVjTy1TNUM2WmdqeVB5X1hQOExrMkJDQWF1WE40LTVqX0ZHdlpWR3Rhc3ZzdTQtcC1hUy15M0tLbzBjcW93Mk9YRE9pdi1qTW5jQnZTT1JXdDB6MU0zdm5GVEhhcTlRN3RGbHZPLWJzbUdUelk2REttOHJIUGJYYTVST2YwTm1POFo4WHQxYk1yMGV2eGdkNHlHRGN6b25TVWlJazJ3YjQ4Z0NGem9TNE00WkhjZg?oc=5",
@@ -189,57 +179,67 @@
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-13T06:27:41.000Z"
+      "publishedAt": "2026-11-14T04:43:29.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeFVaWVUxQnRITHIzUUFqcEdHRUpfbWxpNUJXNWJRMXNJazVJa3d6V292cC01dnJlQTVyNHAtWFJHZUJacVlQSUZybllQYngzNXNzWGZldVlScDFfRGNiNWhvQlVWRzJCcWRUMkpVaVBrdVYycnBPRDVRamRuVnJZYWt5ZWx4Q1BERVFMdzg2ZTdiWlVuSWJkWWZzbmlvVE1wZnlEMjhFY1JRZmxTUWVuVVFkWUJlUHFGX29OdjJnZTc0aDVCb19VQmN2UVZOdXpZYW1QQldfaG1NaWNCcVBjejF4SzRKdjQ?oc=5",
-      "title": "School assembly news headlines today- November 13: Top national, sports and world news curated for you - India Today",
-      "description": "School assembly news headlines today- November 13: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeFVaWVUxQnRITHIzUUFqcEdHRUpfbWxpNUJXNWJRMXNJazVJa3d6V292cC01dnJlQTVyNHAtWFJHZUJacVlQSUZybllQYngzNXNzWGZldVlScDFfRGNiNWhvQlVWRzJCcWRUMkpVaVBrdVYycnBPRDVRamRuVnJZYWt5ZWx4Q1BERVFMdzg2ZTdiWlVuSWJkWWZzbmlvVE1wZnlEMjhFY1JRZmxTUWVuVVFkWUJlUHFGX29OdjJnZTc0aDVCb19VQmN2UVZOdXpZYW1QQldfaG1NaWNCcVBjejF4SzRKdjQ?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzgyUzM5bU5RWVFhT1FONDFFTi12YXdWYWxvcTFvUzM2eF9rQ3dKNGdMa2JKWEhLUE55TjV5QmVITUFzOG1MSEhOMVdhbGU3b3g2RzZibVVwdU1DWXo5VjhRYUUzTXpRekdhTUJZTlhEVll4MUxfN2dTQkMxOHRTcnpNcXFPenlJd2E3RzJ0dGFNOW5NUzNV?oc=5",
+      "title": "News Analysis 14 November 2026 | Latest News & Current Affairs - Drishti IAS",
+      "description": "News Analysis 14 November 2026 | Latest News & Current Affairs&nbsp;&nbsp;Drishti IAS",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzgyUzM5bU5RWVFhT1FONDFFTi12YXdWYWxvcTFvUzM2eF9rQ3dKNGdMa2JKWEhLUE55TjV5QmVITUFzOG1MSEhOMVdhbGU3b3g2RzZibVVwdU1DWXo5VjhRYUUzTXpRekdhTUJZTlhEVll4MUxfN2dTQkMxOHRTcnpNcXFPenlJd2E3RzJ0dGFNOW5NUzNV?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-12T12:44:49.000Z"
+      "publishedAt": "2026-11-13T12:52:31.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTZsSzNNMUhTZlhtaDV4VjRkRXBIbnp2ZUNkazFCVGRVVGFfdURodlJzNUxvcl90TnY0RnNnMGgyazJ6TWNVa0lsU2FPdHl6d3Rla1kwQmRPdlZxTXlLUGp3QnoxV2JMLTFBWjVFNFVaYjZXVERMSHAxMUtlS3hpNjJxOVUyZ1g4UHgzMUREVmk?oc=5",
-      "title": "India’s Progress in Tuberculosis (TB) Elimination - Vajiram & Ravi",
-      "description": "India’s Progress in Tuberculosis (TB) Elimination&nbsp;&nbsp;Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTZsSzNNMUhTZlhtaDV4VjRkRXBIbnp2ZUNkazFCVGRVVGFfdURodlJzNUxvcl90TnY0RnNnMGgyazJ6TWNVa0lsU2FPdHl6d3Rla1kwQmRPdlZxTXlLUGp3QnoxV2JMLTFBWjVFNFVaYjZXVERMSHAxMUtlS3hpNjJxOVUyZ1g4UHgzMUREVmk?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN0RtRVlTZW1Lci1Bb2p1Q1pSX1d5UGRVbFh0amx3VDJfejNMNTROVUFRQ01PUEV2SkRNSW1UTjBXWFplajUxM2dTYlFWSWxURkxVdlZFQnJFRUZpVGtTakhlZUg1S2NGeVhtSE1saXk3VW9PN2YxS2xxNnpxdkVMOVNtLTZEVlUwZ3c4eDN4SFF0eUczZThkY0doRDRReU9YRHVyQnQ5UW90SzBpOTJLU1V1Vk1fOUV3MGdMV2ZnNzFwcUxlTnpGcHB5bWtTSTl2dXNrQUt0a1piVnJuYi1jTUJUbG1LNnc?oc=5",
+      "title": "School assembly news headlines today- November 14: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- November 14: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN0RtRVlTZW1Lci1Bb2p1Q1pSX1d5UGRVbFh0amx3VDJfejNMNTROVUFRQ01PUEV2SkRNSW1UTjBXWFplajUxM2dTYlFWSWxURkxVdlZFQnJFRUZpVGtTakhlZUg1S2NGeVhtSE1saXk3VW9PN2YxS2xxNnpxdkVMOVNtLTZEVlUwZ3c4eDN4SFF0eUczZThkY0doRDRReU9YRHVyQnQ5UW90SzBpOTJLU1V1Vk1fOUV3MGdMV2ZnNzFwcUxlTnpGcHB5bWtTSTl2dXNrQUt0a1piVnJuYi1jTUJUbG1LNnc?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-13T05:51:33.000Z"
+      "publishedAt": "2026-11-13T12:37:26.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQVJTbjZ0dk1zRjdFcWdycnpNSE1QV1BhY1BCYkdpYVN5TXhCU1ZYR0RiUUc0Q3hzTjJtdmZxVjNEOWRVQnh0RmZBbnNPUm43ekxoeTB2ZUhQMlJhd1pmT1NGT0RlYVppZS1xRGFCTG9icHJWcXIySmp6VGE3OXY2aWpONXhPaTNPVWxOSlhNOGY5UVl3SGhjbFRlZXpocE5QZmVZSkVwU0d4YU5paFBEa3Q5MDVUaWc3VFpJYmRydW4yLXZnS2xlNTB0TlpJVWxGT0szaVJhRW40Tks5d1HSAeQBQVVfeXFMUFRBT3o2TFpXT3lURGRHV1B1Y1AxRkJ0WWNjQkVfMGFPMXU4M09DU2pHSlYyTnRUczlCT3B4V1JVeWhhU2Y2TVkyQkVMRndXWVV4OHZfdy1jM1ZkLXhqYndOV0xUVGRERWxGanRCbFJqcjdvbHhWbzVZSWQ4cmFDeTRjd01xNlp2cUVKbTJXOUx2Vkw4Q1o0YkRlNXBoQi1sMnUtR3lDV3VqNEJ0Q3pyX2dlY0ZGa2twd3oyRkZQSGc0MGhsT3BvSzZFZDNPZnBPMGRGRFNzbWpEeC1FdElSVEU3NUht?oc=5",
-      "title": "School Assembly News Headlines November 13, 2026: Cloud Seeding, Lulu Group, Iran War and Other News - Jagran Josh",
-      "description": "School Assembly News Headlines November 13, 2026: Cloud Seeding, Lulu Group, Iran War and Other News&nbsp;&nbsp;Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQVJTbjZ0dk1zRjdFcWdycnpNSE1QV1BhY1BCYkdpYVN5TXhCU1ZYR0RiUUc0Q3hzTjJtdmZxVjNEOWRVQnh0RmZBbnNPUm43ekxoeTB2ZUhQMlJhd1pmT1NGT0RlYVppZS1xRGFCTG9icHJWcXIySmp6VGE3OXY2aWpONXhPaTNPVWxOSlhNOGY5UVl3SGhjbFRlZXpocE5QZmVZSkVwU0d4YU5paFBEa3Q5MDVUaWc3VFpJYmRydW4yLXZnS2xlNTB0TlpJVWxGT0szaVJhRW40Tks5d1HSAeQBQVVfeXFMUFRBT3o2TFpXT3lURGRHV1B1Y1AxRkJ0WWNjQkVfMGFPMXU4M09DU2pHSlYyTnRUczlCT3B4V1JVeWhhU2Y2TVkyQkVMRndXWVV4OHZfdy1jM1ZkLXhqYndOV0xUVGRERWxGanRCbFJqcjdvbHhWbzVZSWQ4cmFDeTRjd01xNlp2cUVKbTJXOUx2Vkw4Q1o0YkRlNXBoQi1sMnUtR3lDV3VqNEJ0Q3pyX2dlY0ZGa2twd3oyRkZQSGc0MGhsT3BvSzZFZDNPZnBPMGRGRFNzbWpEeC1FdElSVEU3NUht?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMixwFBVV95cUxQUXNQU2FhVi04MzNNRF9SdmZ3MTFFT2U4a0lCNFh5VHprMXdrYzJaa2Z2NDgwQnVwa3g4cjNJcHBaNkRsZnNrb29ya084bGJfZVgwQ2wwS2VUaHEyM0JrNzZ0Vno3Y0VLZFBtM2pZUDZRZWowc0U4MG1HbVNPNXpOY2pHQTVQTTYxWmN6RndpanFZMHVNV2FNcnNwNTRWbFhXZlhxQVpuSDdIdHA0S2lsN3NSc0JmNGNHbTBLdG45Sl9Ec2FvQm1j0gHHAUFVX3lxTFBRc1BTYWFWLTgzM01EX1J2ZncxMUVPZThrSUI0WHlUemsxd2tjMlprZnY0ODBCdXBreDhyM0lwcFo2RGxmc2tvb3JrTzhsYl9lWDBDbDBLZVRocTIzQms3NnRWejdjRUtkUG0zallQNlFlajBzRTgwbUdtU081ek5jakdBNVBNNjFaY3pGd2lqcVkwdU1XYU1yc3A1NFZsWFdmWHFBWm5IN0h0cDRLaWw3c1JzQmY0Y0dtMEt0bjlKX0RzYW9CbWM?oc=5",
+      "title": "UPSC Key: Household Inflation, QUAD and Global Carbon Budget - The Indian Express",
+      "description": "UPSC Key: Household Inflation, QUAD and Global Carbon Budget&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUXNQU2FhVi04MzNNRF9SdmZ3MTFFT2U4a0lCNFh5VHprMXdrYzJaa2Z2NDgwQnVwa3g4cjNJcHBaNkRsZnNrb29ya084bGJfZVgwQ2wwS2VUaHEyM0JrNzZ0Vno3Y0VLZFBtM2pZUDZRZWowc0U4MG1HbVNPNXpOY2pHQTVQTTYxWmN6RndpanFZMHVNV2FNcnNwNTRWbFhXZlhxQVpuSDdIdHA0S2lsN3NSc0JmNGNHbTBLdG45Sl9Ec2FvQm1j0gHHAUFVX3lxTFBRc1BTYWFWLTgzM01EX1J2ZncxMUVPZThrSUI0WHlUemsxd2tjMlprZnY0ODBCdXBreDhyM0lwcFo2RGxmc2tvb3JrTzhsYl9lWDBDbDBLZVRocTIzQms3NnRWejdjRUtkUG0zallQNlFlajBzRTgwbUdtU081ek5jakdBNVBNNjFaY3pGd2lqcVkwdU1XYU1yc3A1NFZsWFdmWHFBWm5IN0h0cDRLaWw3c1JzQmY0Y0dtMEt0bjlKX0RzYW9CbWM?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-12T12:22:40.000Z"
+      "publishedAt": "2026-11-13T13:52:25.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMixwFBVV95cUxQYW1SRjBxQ2VPWUNEcElNb0lOMEk0Uk4wY1d3bGQ1Q24zSXBub20zTzhmUnRmZE1CazltbTBFa2Z6RTVrMTdVa3YzeW1WVUJ0T0dNcmkzTXpSQW1QQnZrSXowX2pjUW5MVU9Pel9sZXltQUNUQm91eFJHd3NyYkZCbjRKWUlQRVpDRWhRUFdNTS1XVTFkVXlNYm1uSDByRElzOUN1X0JkMzVZODNtTnNqX3VDTERsemh5b2hmbDZhcWdOdHQxUEY0?oc=5",
-      "title": "President Murmu Urges Tribal Students To Pursue Higher Education And Entrepreneurship - BW Education",
-      "description": "President Murmu Urges Tribal Students To Pursue Higher Education And Entrepreneurship&nbsp;&nbsp;BW Education",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYW1SRjBxQ2VPWUNEcElNb0lOMEk0Uk4wY1d3bGQ1Q24zSXBub20zTzhmUnRmZE1CazltbTBFa2Z6RTVrMTdVa3YzeW1WVUJ0T0dNcmkzTXpSQW1QQnZrSXowX2pjUW5MVU9Pel9sZXltQUNUQm91eFJHd3NyYkZCbjRKWUlQRVpDRWhRUFdNTS1XVTFkVXlNYm1uSDByRElzOUN1X0JkMzVZODNtTnNqX3VDTERsemh5b2hmbDZhcWdOdHQxUEY0?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlVyclo2b21JNGZnUlBkekMwajhTYkZ6RWhTRk02TWgwQ1N0MXBFaWJBdTdyWnQ3S0FMcmNMWjQ1ZzBoSW1jVXlPeFZreG1sOGpxUW1nYWt0TXRJMF9QNG5xdGpYaUM1bDdWVXpKSTFiWm1xelF2bDBWOUNzS1kwWG9yclltMmpiZHpIV2hCbzlPRHk4ci1DZW9Xc2I2MjJiWUdFSmM1Q2I?oc=5",
+      "title": "Turkey, China and the Battle for Somalia: Why Somaliland Is Looking Towards India - Goa Chronicle",
+      "description": "Turkey, China and the Battle for Somalia: Why Somaliland Is Looking Towards India&nbsp;&nbsp;Goa Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlVyclo2b21JNGZnUlBkekMwajhTYkZ6RWhTRk02TWgwQ1N0MXBFaWJBdTdyWnQ3S0FMcmNMWjQ1ZzBoSW1jVXlPeFZreG1sOGpxUW1nYWt0TXRJMF9QNG5xdGpYaUM1bDdWVXpKSTFiWm1xelF2bDBWOUNzS1kwWG9yclltMmpiZHpIV2hCbzlPRHk4ci1DZW9Xc2I2MjJiWUdFSmM1Q2I?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-13T04:37:38.000Z"
+      "publishedAt": "2026-11-13T17:38:14.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZERaS2JnZ1M3ekVPMFZ6WjVRTWpLeTNVVkwtdnhqbkFsZUFESHhvVTFoZkc1blE5dUdTblNPN29ObWIzRVF5czJfaXQ5OUo1bU9KeUVIQi02VVJpZnphSU9SSXRZS1NHVW5RNkJYOGFLWEVsRFhfY1VhM0lhTTJTMjh6SFllSElTbmR2VmVDMVN0eTI2VzZvUWkyb2tqZVlUX2NuR1ZER1N3QXF4RlBtQlJXNmluN0dwNmJSdXhaV25LSkFfR0dfcTBYc3g3UHVjWWRZ0gHaAUFVX3lxTE83TXYwRk9Dd2VoT0RaYlB2SHJUalZ4TFU3M1VTUFgyZ3BNa2RGSkU1UlFOaU1PbXFlek1yZVRDdXpzTE4weUNDTGhHRHZ5Mm1icWp0eXY2cnhJTFdhZ2ZnRGpmZ05mQjY2cEVLQ285VG10bE1sZnIydVJIa1hzcTdGMVFHcFIxQUk2Q0prVEFZVktrZmRmN20zaVczQV9BTXFvVXlvS200Mm01ZkYwUG5CQ3VIb0otV2llbm5WRTF2R044S1FUWXpXZ1RLOURzanZHb3ZTZlVKcmJR?oc=5",
-      "title": "UPSC Key: Lithium-ion Battery, National Museum and Pravasi Bharatiya Divas - The Indian Express",
-      "description": "UPSC Key: Lithium-ion Battery, National Museum and Pravasi Bharatiya Divas&nbsp;&nbsp;The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZERaS2JnZ1M3ekVPMFZ6WjVRTWpLeTNVVkwtdnhqbkFsZUFESHhvVTFoZkc1blE5dUdTblNPN29ObWIzRVF5czJfaXQ5OUo1bU9KeUVIQi02VVJpZnphSU9SSXRZS1NHVW5RNkJYOGFLWEVsRFhfY1VhM0lhTTJTMjh6SFllSElTbmR2VmVDMVN0eTI2VzZvUWkyb2tqZVlUX2NuR1ZER1N3QXF4RlBtQlJXNmluN0dwNmJSdXhaV25LSkFfR0dfcTBYc3g3UHVjWWRZ0gHaAUFVX3lxTE83TXYwRk9Dd2VoT0RaYlB2SHJUalZ4TFU3M1VTUFgyZ3BNa2RGSkU1UlFOaU1PbXFlek1yZVRDdXpzTE4weUNDTGhHRHZ5Mm1icWp0eXY2cnhJTFdhZ2ZnRGpmZ05mQjY2cEVLQ285VG10bE1sZnIydVJIa1hzcTdGMVFHcFIxQUk2Q0prVEFZVktrZmRmN20zaVczQV9BTXFvVXlvS200Mm01ZkYwUG5CQ3VIb0otV2llbm5WRTF2R044S1FUWXpXZ1RLOURzanZHb3ZTZlVKcmJR?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHBBaXY3eGh4cEZtWkhQWGp3NS15RlBJSlBjdkxfLVVsWWJHX1NjWldwc203SW93Ry1WVE5Ra3g0Z09Ob05xWjdEeG9NUHVmTDdSQllWM2pqc2ZGVWMtc084Uy00SDQwdWdTelkzRnZBM3lOV2Zvb3RjU08tcFRkcC1HQVJIUmdwRlJFdw?oc=5",
+      "title": "Daily Current Affairs and GK Updates (13th November, 2026) | - Bankersadda",
+      "description": "Daily Current Affairs and GK Updates (13th November, 2026) |&nbsp;&nbsp;Bankersadda",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHBBaXY3eGh4cEZtWkhQWGp3NS15RlBJSlBjdkxfLVVsWWJHX1NjWldwc203SW93Ry1WVE5Ra3g0Z09Ob05xWjdEeG9NUHVmTDdSQllWM2pqc2ZGVWMtc084Uy00SDQwdWdTelkzRnZBM3lOV2Zvb3RjU08tcFRkcC1HQVJIUmdwRlJFdw?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-12T14:01:41.000Z"
+      "publishedAt": "2026-11-13T14:30:30.000Z"
+    },
+    {
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNzVqUWJnaUh6OVhWQ1Ffa2RNdUxHRVdCRG1BekcydFdBbVdGU2gxR0tNUmlNZEhZbzRnbU5iQng0M0lpazNzSzRCd3p6SWhrZGctMHBkZ184WFBYVW5FNjl0SWMwbUhXNzFkd1ZRZHRYWVhkQ1hDekFuX2xobHQ3S0xULXdrX0hCN1p1bGQzdk1PNUNldU1rRktRUXZyNG5sNTMzLVc5cThWLV90VXdQVEhNTUxzeVF6cTVOQ2E0a1p1blZFTjhBTnpxQkxGRTZfeTdrWkVWVHdyZ1pMVGtDOERZaFplN0Zq0gHoAUFVX3lxTE03NWpRYmdpSHo5WFZDUV9rZE11TEdFV0JEbUF6RzJ0V0FtV0ZTaDFHS01SaU1kSFlvNGdtTmJCeDQzSWlrM3NLNEJ3enpJaGtkZy0wcGRnXzhYUFhVbkU2OXRJYzBtSFc3MWR3VlFkdFhZWGRDWEN6QW5fbGhsdDdLTFQtd2tfSEI3WnVsZDN2TU81Q2V1TWtGS1FRdnI0bmw1MzMtVzlxOFYtX3RVd1BUSE1NTHN5UXpxNU5DYTRrWnVuVkVOOEFOenFCTEZFNl95N2taRVZUd3JnWkxUa0M4RFloWmU3Rmo?oc=5",
+      "title": "Happy Children's Day 2026: 50+ Wishes, Messages and Quotes to Share on WhatsApp, Instagram and Facebook - Jagran Josh",
+      "description": "Happy Children's Day 2026: 50+ Wishes, Messages and Quotes to Share on WhatsApp, Instagram and Facebook&nbsp;&nbsp;Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNzVqUWJnaUh6OVhWQ1Ffa2RNdUxHRVdCRG1BekcydFdBbVdGU2gxR0tNUmlNZEhZbzRnbU5iQng0M0lpazNzSzRCd3p6SWhrZGctMHBkZ184WFBYVW5FNjl0SWMwbUhXNzFkd1ZRZHRYWVhkQ1hDekFuX2xobHQ3S0xULXdrX0hCN1p1bGQzdk1PNUNldU1rRktRUXZyNG5sNTMzLVc5cThWLV90VXdQVEhNTUxzeVF6cTVOQ2E0a1p1blZFTjhBTnpxQkxGRTZfeTdrWkVWVHdyZ1pMVGtDOERZaFplN0Zq0gHoAUFVX3lxTE03NWpRYmdpSHo5WFZDUV9rZE11TEdFV0JEbUF6RzJ0V0FtV0ZTaDFHS01SaU1kSFlvNGdtTmJCeDQzSWlrM3NLNEJ3enpJaGtkZy0wcGRnXzhYUFhVbkU2OXRJYzBtSFc3MWR3VlFkdFhZWGRDWEN6QW5fbGhsdDdLTFQtd2tfSEI3WnVsZDN2TU81Q2V1TWtGS1FRdnI0bmw1MzMtVzlxOFYtX3RVd1BUSE1NTHN5UXpxNU5DYTRrWnVuVkVOOEFOenFCTEZFNl95N2taRVZUd3JnWkxUa0M4RFloWmU3Rmo?oc=5",
+      "source": "Google News",
+      "topic": "current-affairs",
+      "topicLabel": "Current Affairs",
+      "publishedAt": "2026-11-13T14:11:38.000Z"
     }
   ]
 }
