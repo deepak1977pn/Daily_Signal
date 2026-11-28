@@ -1,165 +1,245 @@
 {
-  "updatedAt": "2026-11-27T08:52:27.311Z",
+  "updatedAt": "2026-11-28T08:11:52.558Z",
   "articles": [
     {
-      "id": "tech-https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-      "description": "Article URL: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/\nComments URL: https://news.ycombinator.com/item?id=50663666\nPoints: 48\n# Comments: 32",
-      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "id": "ai-https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJzZXh5MlFFYWlRcFE5MDVQblhwdGlsOGw1aGduMVpLYUFVTDB3QTNVS1hVRlZncjBVemZrTW9VYXU1MEM2YVUxMW1DU1J3d3B1QWotY3BDaHByelhxTEZqSkZJcUY3c0NxS1NvMGg0STN0XzZrWkw1WEFZc3ZRUXh1ZWFvdDFBQ0x0YVJGWQ?oc=5",
+      "title": "Why Artificial Intelligence Has Not Killed Mathematics ? - Kashmir Life",
+      "description": "Why Artificial Intelligence Has Not Killed Mathematics ?&nbsp;&nbsp;Kashmir Life",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnJzZXh5MlFFYWlRcFE5MDVQblhwdGlsOGw1aGduMVpLYUFVTDB3QTNVS1hVRlZncjBVemZrTW9VYXU1MEM2YVUxMW1DU1J3d3B1QWotY3BDaHByelhxTEZqSkZJcUY3c0NxS1NvMGg0STN0XzZrWkw1WEFZc3ZRUXh1ZWFvdDFBQ0x0YVJGWQ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-11-28T06:29:00.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVVPZFNLWkVqSmNiR29QTzRZaldvNk5tX2Z0ZEhwNmxiSHg4V2NvLW9waTdXMHhpeFBEb2FvVDBzV0NJcEI5NTBsQW52c0QyUDhqWlJjb0k3YV9hQTB1ZHk2dEgwVDJPWjV3eFBVdWFZNlNjNGRjTmV4YXZVMDhQWFR0NGxSalRwc0hnY29SYXBoV2tGdlN5ZjdoaFd3dXlGaFhDNlBRVWo3QkVnVzY4RFdFUGZFQVBpbFdmV1o2WktDVXA2?oc=5",
+      "title": "There Is No Artificial Intelligence Without Process Intelligence: Genpact's Shalini Modi - BW People",
+      "description": "There Is No Artificial Intelligence Without Process Intelligence: Genpact's Shalini Modi&nbsp;&nbsp;BW People",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVVPZFNLWkVqSmNiR29QTzRZaldvNk5tX2Z0ZEhwNmxiSHg4V2NvLW9waTdXMHhpeFBEb2FvVDBzV0NJcEI5NTBsQW52c0QyUDhqWlJjb0k3YV9hQTB1ZHk2dEgwVDJPWjV3eFBVdWFZNlNjNGRjTmV4YXZVMDhQWFR0NGxSalRwc0hnY29SYXBoV2tGdlN5ZjdoaFd3dXlGaFhDNlBRVWo3QkVnVzY4RFdFUGZFQVBpbFdmV1o2WktDVXA2?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-11-28T06:29:17.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMitAFBVV95cUxQTVFpMDhwRG50RTN1UkZyRG5qN3RJdEMyTU5ieHhOV2xvOUIzSFBzY2pYVlJZZGJMYmhrTUJmX0R1b01TSzNSSDJaVmJGY2g5alF6TXh2MVVXUWkwTFFHdG01MUdqR0NpcDV2V0xpZXVlbFd4S0RERlE4Zm5pSkNFM0E4cFNHbUNXS0staXZpLVI3U1o4VmlscWFwOE0tUnNwdl9Bclg1Y0Y0VFA4eFBNbkVHM3U?oc=5",
+      "title": "Reliath AI Introduces a New Foundational Model for Artificial Intelligence - AiThority",
+      "description": "Reliath AI Introduces a New Foundational Model for Artificial Intelligence&nbsp;&nbsp;AiThority",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTVFpMDhwRG50RTN1UkZyRG5qN3RJdEMyTU5ieHhOV2xvOUIzSFBzY2pYVlJZZGJMYmhrTUJmX0R1b01TSzNSSDJaVmJGY2g5alF6TXh2MVVXUWkwTFFHdG01MUdqR0NpcDV2V0xpZXVlbFd4S0RERlE4Zm5pSkNFM0E4cFNHbUNXS0staXZpLVI3U1o4VmlscWFwOE0tUnNwdl9Bclg1Y0Y0VFA4eFBNbkVHM3U?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-11-27T08:18:24.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMipgFBVV95cUxOQktzQWJQMWpPZDQ0Y21CVXNzdjA1eDZYRlBnUThLU1FBZzRqT3A1cVNhSGJxcE9oQl83UFd0TEdNT0xjWTctNnM0MHpkbzdScWpZLTlmZTVQZjJwTHlMNzlQbXotZ3BySndCZDhKM2plOXhTNEVLUzVNVEh4QUkyOVdTc3VDblZoZlhCTlhWS0k3bWNGUnI3anQtaTNmc3Y2NmRFUFVR?oc=5",
+      "title": "AI in Education 2027: Where Schools Stand Now - StartupHub.ai",
+      "description": "AI in Education 2027: Where Schools Stand Now&nbsp;&nbsp;StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQktzQWJQMWpPZDQ0Y21CVXNzdjA1eDZYRlBnUThLU1FBZzRqT3A1cVNhSGJxcE9oQl83UFd0TEdNT0xjWTctNnM0MHpkbzdScWpZLTlmZTVQZjJwTHlMNzlQbXotZ3BySndCZDhKM2plOXhTNEVLUzVNVEh4QUkyOVdTc3VDblZoZlhCTlhWS0k3bWNGUnI3anQtaTNmc3Y2NmRFUFVR?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-11-27T18:41:55.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUc4dEVSVkpLNXdEdXZFUC1FNHR0emdXU1dZZ3VqdUdiUEU1UENrSTZYazhkSFg4SE5XMjhWSkV0OVZlT0pZclFScU5YUGlfU2Z2RWZ5M1JOZVhSNWVQSlV4WXZReHBNS01fcU9UQ1NTQW96ZVV0NDE0UG9ZYkhleGR2YzFwUVFtZFFpQnNfMXg4dVlsNmYzUmw4SHdBOXd1TkNTRjJ3YUE2NG0wSFVjTA?oc=5",
+      "title": "Machine Learning Models for Athlete Injury Prediction Lack Proof of Real-World Utility - Bioengineer.org",
+      "description": "Machine Learning Models for Athlete Injury Prediction Lack Proof of Real-World Utility&nbsp;&nbsp;Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUc4dEVSVkpLNXdEdXZFUC1FNHR0emdXU1dZZ3VqdUdiUEU1UENrSTZYazhkSFg4SE5XMjhWSkV0OVZlT0pZclFScU5YUGlfU2Z2RWZ5M1JOZVhSNWVQSlV4WXZReHBNS01fcU9UQ1NTQW96ZVV0NDE0UG9ZYkhleGR2YzFwUVFtZFFpQnNfMXg4dVlsNmYzUmw4SHdBOXd1TkNTRjJ3YUE2NG0wSFVjTA?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-11-28T05:48:12.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb1cyaUVzcmNfM2dhTjZLSVJ4RFd1TTNndzBGb005MEwtQU9feTVjWEZmQUxNMzBPdzAwOWlGcTg3TFJjRTRMaDdfN0Y0R0RLRGtSLTZVc1lXaUwwb1N1Q24wa1ZRTm4wNlBobTZONGc4Zmc2UV91N2kwdHpjbGJLYUZoSDZOb05sNHpxcXZmWmZ0N2JSaUVsalNnZVByV1ZpdTZ3VXNhU3o4VV9SMW1yQk96cldxVkR2emxEVXNGdUYwNGJMMUd3bzVTRjJLVzRiSXpYbUpWUdIB3gFBVV95cUxNSDhKbjFqU1B4Y3RnT2FBVHM3YkdLN0NJZTZia3E0TUV6dWYyOG8xcW5vcDdaR2d4WTNqajlGdFJBQmhWd013eDM5THpfNjU5STIwWlNhbGNHdmliaGQ4M1ZCQ2pDZWNLU0xPN3ZuUklkM3FSRzgzUy1SazkteWt6dGhSZDdQSVRrUG9nbU5NX1VZZFMyZlJZOWFVSzdHU1d2RldDdWJ3eWk4d0l0Nk9pNnp5UlMzdXh0cGw5NVVIb0NLMmpuRWxoLU5SUGJkM0xvVlpDT0w4SWdMeEJ0SWc?oc=5",
+      "title": "India is learning AI fast; how does it compare with the world? - The Indian Express",
+      "description": "India is learning AI fast; how does it compare with the world?&nbsp;&nbsp;The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb1cyaUVzcmNfM2dhTjZLSVJ4RFd1TTNndzBGb005MEwtQU9feTVjWEZmQUxNMzBPdzAwOWlGcTg3TFJjRTRMaDdfN0Y0R0RLRGtSLTZVc1lXaUwwb1N1Q24wa1ZRTm4wNlBobTZONGc4Zmc2UV91N2kwdHpjbGJLYUZoSDZOb05sNHpxcXZmWmZ0N2JSaUVsalNnZVByV1ZpdTZ3VXNhU3o4VV9SMW1yQk96cldxVkR2emxEVXNGdUYwNGJMMUd3bzVTRjJLVzRiSXpYbUpWUdIB3gFBVV95cUxNSDhKbjFqU1B4Y3RnT2FBVHM3YkdLN0NJZTZia3E0TUV6dWYyOG8xcW5vcDdaR2d4WTNqajlGdFJBQmhWd013eDM5THpfNjU5STIwWlNhbGNHdmliaGQ4M1ZCQ2pDZWNLU0xPN3ZuUklkM3FSRzgzUy1SazkteWt6dGhSZDdQSVRrUG9nbU5NX1VZZFMyZlJZOWFVSzdHU1d2RldDdWJ3eWk4d0l0Nk9pNnp5UlMzdXh0cGw5NVVIb0NLMmpuRWxoLU5SUGJkM0xvVlpDT0w4SWdMeEJ0SWc?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-11-27T11:30:12.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZV9zbUxwcHFYMU5CWHoxN0ZwV3FqUWw2eGdON3VIR2NfMGxwMDlxYkJBNGprWklGaDRzN1ljWDdndEtOb3FRZjEyR1ZwQURPZXFhbEhKQWNzU2s4bGZ0dFptTUo3UDhfVzlRTmQzQUhuOFozdXd0YnlkQ2l6V0s5QzhHYWR6c3NtUzNjV192dzI4LUFLUlhkNVNaYUJDRDRJclZYamYyc19TU1FGV1ZONXphRF9HVnhTZzBrV251QkVaUQ?oc=5",
+      "title": "Best Colleges for Artificial Intelligence in 2027: How to Compare Undergraduate AI Programs - Rebellion Research",
+      "description": "Best Colleges for Artificial Intelligence in 2027: How to Compare Undergraduate AI Programs&nbsp;&nbsp;Rebellion Research",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZV9zbUxwcHFYMU5CWHoxN0ZwV3FqUWw2eGdON3VIR2NfMGxwMDlxYkJBNGprWklGaDRzN1ljWDdndEtOb3FRZjEyR1ZwQURPZXFhbEhKQWNzU2s4bGZ0dFptTUo3UDhfVzlRTmQzQUhuOFozdXd0YnlkQ2l6V0s5QzhHYWR6c3NtUzNjV192dzI4LUFLUlhkNVNaYUJDRDRJclZYamYyc19TU1FGV1ZONXphRF9HVnhTZzBrV251QkVaUQ?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-11-27T14:37:41.000Z"
+    },
+    {
+      "id": "ai-https://news.google.com/rss/articles/CBMivwFBVV95cUxOSExvZk9obk5TRnN4UnNxM2pTamF2dXpYb0tndkFxejJyYTQ0VjBWS0RBZnBncF9kM1Q0UERzZUVXNENqQW1IX1Y5eVBiRFNQYWU2UkgyU3ZLVHdubDlzWEtob2VvTksyOUhnYjhydFVYWEpRTlJUang3MlpuM1ZLMllURnNDa0Q2UnN6NXFBM0FUd05Pa29EajY1VVlTbnhLa3NoTzFDTDluUlhuWUZVcS1aTENvVllEZFVZOHRlNA?oc=5",
+      "title": "Adaptive Machine Learning Framework Predicts Chronic Kidney Disease Using Fewer Clinical Features - Bioengineer.org",
+      "description": "Adaptive Machine Learning Framework Predicts Chronic Kidney Disease Using Fewer Clinical Features&nbsp;&nbsp;Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSExvZk9obk5TRnN4UnNxM2pTamF2dXpYb0tndkFxejJyYTQ0VjBWS0RBZnBncF9kM1Q0UERzZUVXNENqQW1IX1Y5eVBiRFNQYWU2UkgyU3ZLVHdubDlzWEtob2VvTksyOUhnYjhydFVYWEpRTlJUang3MlpuM1ZLMllURnNDa0Q2UnN6NXFBM0FUd05Pa29EajY1VVlTbnhLa3NoTzFDTDluUlhuWUZVcS1aTENvVllEZFVZOHRlNA?oc=5",
+      "source": "Google News",
+      "topic": "ai",
+      "topicLabel": "AI",
+      "publishedAt": "2026-11-27T20:22:16.000Z"
+    },
+    {
+      "id": "tech-https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "title": "Knuth: Moratorium on Error Reports",
+      "description": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html\nComments URL: https://news.ycombinator.com/item?id=50674452\nPoints: 12\n# Comments: 1",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-27T06:53:52.000Z"
+      "publishedAt": "2026-11-28T03:49:21.000Z"
     },
     {
-      "id": "tech-https://construct22.com/",
-      "title": "The group chat where your AI talks behind your back",
-      "description": "Article URL: https://construct22.com/\nComments URL: https://news.ycombinator.com/item?id=50663595\nPoints: 144\n# Comments: 49",
-      "url": "https://construct22.com/",
+      "id": "tech-https://unkernel.dev",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "description": "Article URL: https://unkernel.dev\nComments URL: https://news.ycombinator.com/item?id=50674218\nPoints: 206\n# Comments: 41",
+      "url": "https://unkernel.dev",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-27T06:44:34.000Z"
+      "publishedAt": "2026-11-28T03:19:20.000Z"
     },
     {
-      "id": "tech-https://www.buynothingday.co.uk/",
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "description": "Article URL: https://www.buynothingday.co.uk/\nComments URL: https://news.ycombinator.com/item?id=50663261\nPoints: 52\n# Comments: 8",
-      "url": "https://www.buynothingday.co.uk/",
+      "id": "tech-https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "title": "Atari Homebrew Awards Cancelled",
+      "description": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/\nComments URL: https://news.ycombinator.com/item?id=50673688\nPoints: 180\n# Comments: 179",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-27T05:52:42.000Z"
+      "publishedAt": "2026-11-28T02:03:25.000Z"
     },
     {
-      "id": "tech-https://blainehansen.me/post/mainstream-verifiable-language/",
-      "title": "The need for a formally verifiable mainstream programming language",
-      "description": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/\nComments URL: https://news.ycombinator.com/item?id=50663089\nPoints: 132\n# Comments: 102",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "id": "tech-https://research.google/blog/supercharging-transformer-residual-connections/",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "description": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/\nComments URL: https://news.ycombinator.com/item?id=50672565\nPoints: 333\n# Comments: 134",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-27T05:22:06.000Z"
+      "publishedAt": "2026-11-27T23:06:29.000Z"
     },
     {
-      "id": "tech-https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-      "title": "The Cutthroat Business of Shipwrecks",
-      "description": "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/\nComments URL: https://news.ycombinator.com/item?id=50661705\nPoints: 23\n# Comments: 2",
-      "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "id": "tech-https://tabernet.es/",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "description": "Article URL: https://tabernet.es/\nComments URL: https://news.ycombinator.com/item?id=50672521\nPoints: 102\n# Comments: 34",
+      "url": "https://tabernet.es/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-27T01:21:49.000Z"
+      "publishedAt": "2026-11-27T23:00:30.000Z"
     },
     {
-      "id": "tech-https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "title": "Hard Drive pricing has gotten bad",
-      "description": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/\nComments URL: https://news.ycombinator.com/item?id=50661646\nPoints: 321\n# Comments: 222",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "id": "tech-https://progrium.github.io/9ux/",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "description": "Article URL: https://progrium.github.io/9ux/\nComments URL: https://news.ycombinator.com/item?id=50672008\nPoints: 118\n# Comments: 28",
+      "url": "https://progrium.github.io/9ux/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-27T01:13:49.000Z"
+      "publishedAt": "2026-11-27T21:48:14.000Z"
     },
     {
-      "id": "tech-https://kendell.dev/blog/arkwrapper/",
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "description": "Article URL: https://kendell.dev/blog/arkwrapper/\nComments URL: https://news.ycombinator.com/item?id=50660273\nPoints: 95\n# Comments: 14",
-      "url": "https://kendell.dev/blog/arkwrapper/",
+      "id": "tech-https://sessiongraph.ai/",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "description": "Article URL: https://sessiongraph.ai/\nComments URL: https://news.ycombinator.com/item?id=50671651\nPoints: 48\n# Comments: 23",
+      "url": "https://sessiongraph.ai/",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-26T21:59:19.000Z"
+      "publishedAt": "2026-11-27T21:07:34.000Z"
     },
     {
-      "id": "tech-https://janlukas.blog/posts/ai-self-hosting",
-      "title": "AI made self-hosting fun again",
-      "description": "Article URL: https://janlukas.blog/posts/ai-self-hosting\nComments URL: https://news.ycombinator.com/item?id=50660180\nPoints: 630\n# Comments: 325",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "id": "tech-https://github.com/skeeto/prospero",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "description": "Article URL: https://github.com/skeeto/prospero\nComments URL: https://news.ycombinator.com/item?id=50671275\nPoints: 61\n# Comments: 22",
+      "url": "https://github.com/skeeto/prospero",
       "source": "Hacker News",
       "topic": "tech",
       "topicLabel": "Tech",
-      "publishedAt": "2026-11-26T21:47:45.000Z"
+      "publishedAt": "2026-11-27T20:23:14.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEhGTkxGR0RqX1ZGT18tS0Mtc1JobkhnYjJ3al9jRm1KeVNreGkyMWJJVmwxeFM4Z2IwRi1YRWhqaWlxZVpLeUJtTDVvdzdYTW4wQkYzRU1fc2FiNzZQRGE3RnJVcUMzNFh1ZzZJOUlNT0dlQkpwZ2IybTJjWU1pN0dWR0Y?oc=5",
-      "title": "Strobe Talbott, Key Figure in India-US Talks, Dies at 80 - GK Today",
-      "description": "Strobe Talbott, Key Figure in India-US Talks, Dies at 80&nbsp;&nbsp;GK Today",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEhGTkxGR0RqX1ZGT18tS0Mtc1JobkhnYjJ3al9jRm1KeVNreGkyMWJJVmwxeFM4Z2IwRi1YRWhqaWlxZVpLeUJtTDVvdzdYTW4wQkYzRU1fc2FiNzZQRGE3RnJVcUMzNFh1ZzZJOUlNT0dlQkpwZ2IybTJjWU1pN0dWR0Y?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTVZUXdRNjdKZnd3T1loQ2NNZWg1RVFUM004eG5iWUhObmZSQ1FTY3ZTaU5PM2tRMDlfNzg2ZGw0bjBra3RRUmNrYzY4U2xJT1o0RjRCTmpTVHM2dEpkY2VOSEJGYmx3NkFvblVGUnNvTUVZTXJFYlNZZnBkUzJwWGpMS0k3YWll?oc=5",
+      "title": "UPSC Mains Current Affairs for 28 November 2026 - Vajiram & Ravi",
+      "description": "UPSC Mains Current Affairs for 28 November 2026&nbsp;&nbsp;Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTVZUXdRNjdKZnd3T1loQ2NNZWg1RVFUM004eG5iWUhObmZSQ1FTY3ZTaU5PM2tRMDlfNzg2ZGw0bjBra3RRUmNrYzY4U2xJT1o0RjRCTmpTVHM2dEpkY2VOSEJGYmx3NkFvblVGUnNvTUVZTXJFYlNZZnBkUzJwWGpMS0k3YWll?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-27T05:20:09.000Z"
+      "publishedAt": "2026-11-28T06:36:20.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ19mWFlpVnl3aWdJRVdITllNOEdYand4R3NQdm5FbERxVmpyWmFGcnhEeHNTT215LVlkSXRNWDAyR2Z6d3ljNnZzRU14TFZWcE9MWjI0TENTUmdxZjd2SXVLTGRtVjNIbGFrMTJ3SExsaDYwazBBa3l0aFZ0RGhyWmF5SUxBNzNEQ3dsbktXUWZ4bnR3WFNxRWtrdGdLUEtSakFtV0JfclBWd2fSAbIBQVVfeXFMUDY0QzRmei1RUFdLN3ZBUmJkVTdSMkJnaU9zVWVYVVhJa1ZzLXd0U3BCdHVyTnAwQ3pSX3hfWmJEb3VuaGw4RDJ3aHpQZUVwWkVlcDZ2V2pXZGt3bk1rbGV6eHNhYjVXdU1ZelV1eF84cjlsb0NZNW55TU4wUDFvWnJKaU44VF9DX1R1ZXVLcTg5bHk0SDJ1bTVTeC15TDBpY29oc3EtaGJQZHRLbGhzTmpiQQ?oc=5",
-      "title": "Samay Raina is Now First YouTuber in the World with 1 Million Paid Members: How He Outranked Top 5 Channels Like MrBeast and T-Series - Jagran Josh",
-      "description": "Samay Raina is Now First YouTuber in the World with 1 Million Paid Members: How He Outranked Top 5 Channels Like MrBeast and T-Series&nbsp;&nbsp;Jagran Josh",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ19mWFlpVnl3aWdJRVdITllNOEdYand4R3NQdm5FbERxVmpyWmFGcnhEeHNTT215LVlkSXRNWDAyR2Z6d3ljNnZzRU14TFZWcE9MWjI0TENTUmdxZjd2SXVLTGRtVjNIbGFrMTJ3SExsaDYwazBBa3l0aFZ0RGhyWmF5SUxBNzNEQ3dsbktXUWZ4bnR3WFNxRWtrdGdLUEtSakFtV0JfclBWd2fSAbIBQVVfeXFMUDY0QzRmei1RUFdLN3ZBUmJkVTdSMkJnaU9zVWVYVVhJa1ZzLXd0U3BCdHVyTnAwQ3pSX3hfWmJEb3VuaGw4RDJ3aHpQZUVwWkVlcDZ2V2pXZGt3bk1rbGV6eHNhYjVXdU1ZelV1eF84cjlsb0NZNW55TU4wUDFvWnJKaU44VF9DX1R1ZXVLcTg5bHk0SDJ1bTVTeC15TDBpY29oc3EtaGJQZHRLbGhzTmpiQQ?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnNuVGV3NGlCenotbVFkM0Eybl9za3NrUHpQMzlEd0lBdFplT0d5emh5UmNDRFdMN09yWHV5d3RwaUMtQXhOVUx4Q2tBNU5ERl9YcG9Qbk5FZW1ONGRrYjFFUndmMndTQzNmenNCNkRic1c2TmJzb3o5NFh5NkdNemhB?oc=5",
+      "title": "India to Host ITU Plenipotentiary Conference in 2030 - GK Today",
+      "description": "India to Host ITU Plenipotentiary Conference in 2030&nbsp;&nbsp;GK Today",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcnNuVGV3NGlCenotbVFkM0Eybl9za3NrUHpQMzlEd0lBdFplT0d5emh5UmNDRFdMN09yWHV5d3RwaUMtQXhOVUx4Q2tBNU5ERl9YcG9Qbk5FZW1ONGRrYjFFUndmMndTQzNmenNCNkRic1c2TmJzb3o5NFh5NkdNemhB?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-27T08:25:48.000Z"
+      "publishedAt": "2026-11-28T06:47:30.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2VRdzNCZGpFa3Y4b21pM0NYa1E4Q1R3T0JPM0F1VHgxU2dGREFxcU5kUEpYVFowZEZpU3dfTTdENUl5WkVNWWhiQUFsXy0zcDcwOTBnRnQxeWtqZGM3cUh3OUdtN0h5YktHbnhnSWppbTFNckZpcDJxTHZHT2RMWm90QkFnMkkydmVWV0hSb0ZER2QwWU40V1dpQUVlTmdUWVZkdTBpek9vTElnZm50T0ZB?oc=5",
-      "title": "India Presents 2036 Olympics Vision and Roadmap to IOC - Utkarsh Classes",
-      "description": "India Presents 2036 Olympics Vision and Roadmap to IOC&nbsp;&nbsp;Utkarsh Classes",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2VRdzNCZGpFa3Y4b21pM0NYa1E4Q1R3T0JPM0F1VHgxU2dGREFxcU5kUEpYVFowZEZpU3dfTTdENUl5WkVNWWhiQUFsXy0zcDcwOTBnRnQxeWtqZGM3cUh3OUdtN0h5YktHbnhnSWppbTFNckZpcDJxTHZHT2RMWm90QkFnMkkydmVWV0hSb0ZER2QwWU40V1dpQUVlTmdUWVZkdTBpek9vTElnZm50T0ZB?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnlpY1p3a28ySWZ5RGFkdU9wN242ZjJMVHQtSWRHV1RVamtDZ3k3b2ozeHFxaFFYZ0JyVWgtbHB2VEltOF9MOEZRZFdYZi1YcHQ2Tm9lNlhGeEJSSUdDSW5hT3EzM1o0azV6R1BOaFAyTVJBb3ZOVVJ4SGFZcm9kQllOWXBqN3JGRzR3RlVEWWtoM0tKWVY0?oc=5",
+      "title": "News Analysis 28 November 2026 | Latest News & Current Affairs - Drishti IAS",
+      "description": "News Analysis 28 November 2026 | Latest News & Current Affairs&nbsp;&nbsp;Drishti IAS",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnlpY1p3a28ySWZ5RGFkdU9wN242ZjJMVHQtSWRHV1RVamtDZ3k3b2ozeHFxaFFYZ0JyVWgtbHB2VEltOF9MOEZRZFdYZi1YcHQ2Tm9lNlhGeEJSSUdDSW5hT3EzM1o0azV6R1BOaFAyTVJBb3ZOVVJ4SGFZcm9kQllOWXBqN3JGRzR3RlVEWWtoM0tKWVY0?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-27T07:17:49.000Z"
+      "publishedAt": "2026-11-28T05:04:32.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMidEFVX3lxTFBCZXdZekhsLWFSREFvdm5LcDlkRFJEaEVacFFlSGZPem12c1QzeGFCekVkcTd5SFg1MnROU2hSUkdhcGFBWkhHdS1TN2JSbUZ5bUdsRmxNenhxUGRtNWxUOWRhVDR6YWhId1UtYkdMYW81Y0NS?oc=5",
-      "title": "Current Affairs for 26 November 2026 - Sanskriti IAS",
-      "description": "Current Affairs for 26 November 2026&nbsp;&nbsp;Sanskriti IAS",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCZXdZekhsLWFSREFvdm5LcDlkRFJEaEVacFFlSGZPem12c1QzeGFCekVkcTd5SFg1MnROU2hSUkdhcGFBWkhHdS1TN2JSbUZ5bUdsRmxNenhxUGRtNWxUOWRhVDR6YWhId1UtYkdMYW81Y0NS?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX182bmg1MGtIN1hLb2tTbGVKNGFVMGdPeEV4eWtDLU1DcnVfZkZsU0lZWnpwSXBWNWU3MGVPNmJ6UHFqdDZ2bzBReEN3SFZIV20tZWhpWlB0dzk5dmltWEMxMjhPdjN0RDJVTTJ6TG9OWVZza3VsU0VISzR5ODRMdERvUDFkNldY?oc=5",
+      "title": "UPSC CURRENT AFFAIRS – 27 NOVEMBER 2026 - INSIGHTS IAS",
+      "description": "UPSC CURRENT AFFAIRS – 27 NOVEMBER 2026&nbsp;&nbsp;INSIGHTS IAS",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX182bmg1MGtIN1hLb2tTbGVKNGFVMGdPeEV4eWtDLU1DcnVfZkZsU0lZWnpwSXBWNWU3MGVPNmJ6UHFqdDZ2bzBReEN3SFZIV20tZWhpWlB0dzk5dmltWEMxMjhPdjN0RDJVTTJ6TG9OWVZza3VsU0VISzR5ODRMdERvUDFkNldY?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-26T12:42:48.000Z"
+      "publishedAt": "2026-11-27T10:29:14.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2d4ZFVGd1l3LUh3bkdmemNwT3dpVXVEaXoyVmRMcVR2OGYzRmVhWkprbDB4QzZtd2p2djBydHZva3F6dUkyVEhPRmV0RkdZaVNQekVDa3FXVndnVm1pVVhfRGI0cnNmOHNRWm5uMjFjOHRkcjNrbnQyVm5YZUdEa2pqdUpvb3JQNE9JSzdCWDFFdGI4Nzd2cTlNQVpDYlhJVHpFeTd4dUVBZXZaZWxlWkMyaVFaZk5ySzhYZW5qMHlBUlZCX2lXNko5NVViLXNpM0lF0gHaAUFVX3lxTE9QbDZvWXBGUHRTaXBlRjZzeXlXQVJjekhoVTRHUHhVZkVKM1kxMmY1YmJnSno2UFV0MVRGVzk2QWFZNnVlUjduWUdhR0xwak8zUGV6eEJJV3hMUk1CTW9Ya3Rtak5GQUg2b055VmNUZlA0YUpRR3d6b0hhbDRzVGRvUmNPeUloQVRBREdNc1Y2V2xRZ2x1eHRrUlRfNlBuNUxqRnBUeV9KNjh2bXZ4R0FJWVE3S3pyQllCT2JGeGwyYUlJRUlHanNXcWNGVVZZc291NTRHTll2Y3dn?oc=5",
-      "title": "UPSC Essentials | Daily subject-wise quiz : Economy MCQs on expansion challenges in rooftop solar, global interest rates and India, and more (Week 190) - The Indian Express",
-      "description": "UPSC Essentials | Daily subject-wise quiz : Economy MCQs on expansion challenges in rooftop solar, global interest rates and India, and more (Week 190)&nbsp;&nbsp;The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2d4ZFVGd1l3LUh3bkdmemNwT3dpVXVEaXoyVmRMcVR2OGYzRmVhWkprbDB4QzZtd2p2djBydHZva3F6dUkyVEhPRmV0RkdZaVNQekVDa3FXVndnVm1pVVhfRGI0cnNmOHNRWm5uMjFjOHRkcjNrbnQyVm5YZUdEa2pqdUpvb3JQNE9JSzdCWDFFdGI4Nzd2cTlNQVpDYlhJVHpFeTd4dUVBZXZaZWxlWkMyaVFaZk5ySzhYZW5qMHlBUlZCX2lXNko5NVViLXNpM0lF0gHaAUFVX3lxTE9QbDZvWXBGUHRTaXBlRjZzeXlXQVJjekhoVTRHUHhVZkVKM1kxMmY1YmJnSno2UFV0MVRGVzk2QWFZNnVlUjduWUdhR0xwak8zUGV6eEJJV3hMUk1CTW9Ya3Rtak5GQUg2b055VmNUZlA0YUpRR3d6b0hhbDRzVGRvUmNPeUloQVRBREdNc1Y2V2xRZ2x1eHRrUlRfNlBuNUxqRnBUeV9KNjh2bXZ4R0FJWVE3S3pyQllCT2JGeGwyYUlJRUlHanNXcWNGVVZZc291NTRHTll2Y3dn?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vUDJMNGxnMTg2YUtXcHl5TVpmLVRSdC1QYW1iS3UwWWhEMC1Fa0ZRcWMzTUQ0UFZjb2pEbmNJR2lXRTlYT1JSSGZhWU5NSVJPZkJ0anF0Vy1zUHBmVlk3OGRn?oc=5",
+      "title": "Somaliland Must Stay Alert - Goa Chronicle",
+      "description": "Somaliland Must Stay Alert&nbsp;&nbsp;Goa Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vUDJMNGxnMTg2YUtXcHl5TVpmLVRSdC1QYW1iS3UwWWhEMC1Fa0ZRcWMzTUQ0UFZjb2pEbmNJR2lXRTlYT1JSSGZhWU5NSVJPZkJ0anF0Vy1zUHBmVlk3OGRn?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-26T14:41:38.000Z"
+      "publishedAt": "2026-11-28T04:12:32.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMid0FVX3lxTE9VRGhaaEgtQkJwTmhQVUhQcWdwNTJuRVIyaUpneXMzNzlyQVN5LThRTEI2NVlnQzZjQkFBb1JxVXBscFNQVUtHMWg2dlZtUDd4OWlQajhLR0Rvd21BNFYySk9xUHBzRzhRaHgwcTVuWTFVUG1FdTVB?oc=5",
-      "title": "Ancient Indian Democracy: Gana-Sanghas and the Claim to Democratic Origins - Vajiram & Ravi",
-      "description": "Ancient Indian Democracy: Gana-Sanghas and the Claim to Democratic Origins&nbsp;&nbsp;Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VRGhaaEgtQkJwTmhQVUhQcWdwNTJuRVIyaUpneXMzNzlyQVN5LThRTEI2NVlnQzZjQkFBb1JxVXBscFNQVUtHMWg2dlZtUDd4OWlQajhLR0Rvd21BNFYySk9xUHBzRzhRaHgwcTVuWTFVUG1FdTVB?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTEE5Y0xQVmwwRmhZakRWZm12bWhvOWJJVk94c3p4TUpWT19pY0xlVjVKYzViRU5fOU5mZmdiMVk0MjJtVlp3X0VJWkJXOWxCVkFtM0w5dnVzbU9PdW8wLUI1NkwyZ2NENFlyMnJQVnVRS3RxMjVieWZKZHRQR1pieklKM2NTZVZPLUpBUEIyT1laSkloaTNfNy14UVZOSndUY05VM05oaHFoMjE0VXN2UHJZRlUzNDhPejdZNFZPVG9YUW52N2hSWW5VS2dremN0V0RSNlE3aVpyOVNGUDNiQjhNMERFS3M?oc=5",
+      "title": "School assembly news headlines today- November 28: Top national, sports and world news curated for you - India Today",
+      "description": "School assembly news headlines today- November 28: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTEE5Y0xQVmwwRmhZakRWZm12bWhvOWJJVk94c3p4TUpWT19pY0xlVjVKYzViRU5fOU5mZmdiMVk0MjJtVlp3X0VJWkJXOWxCVkFtM0w5dnVzbU9PdW8wLUI1NkwyZ2NENFlyMnJQVnVRS3RxMjVieWZKZHRQR1pieklKM2NTZVZPLUpBUEIyT1laSkloaTNfNy14UVZOSndUY05VM05oaHFoMjE0VXN2UHJZRlUzNDhPejdZNFZPVG9YUW52N2hSWW5VS2dremN0V0RSNlE3aVpyOVNGUDNiQjhNMERFS3M?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-27T06:34:37.000Z"
+      "publishedAt": "2026-11-27T11:38:25.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMV9vRGxPaXcyZXJGNEN1V21SekNvX3A4OFl3WlFrZlJ4b0hTUEtTVE5zOXM5NjlnMjYxbm1UNGcyUFc0UW5iS245VkJMTnZ6TEQ1cVpES0xVaXctN09MeU5qXzRlbl9pOVMzUkNseUoycWNodjk3TEpjVE55cDJURk16aGo4SWZaYUpaRmN4NHBvTllZTXJrWktacGRyMEYyeWNqelhzYk0yUmIwR3pJQlNzS1J6WUJyV2hDSE9yRnFCdUJqbTF3QjQ2OTl6bENHSFNyaWhiTjIzNFlIREZCXzlmT1hRVms?oc=5",
-      "title": "School assembly news headlines today- November 27: Top national, sports and world news curated for you - India Today",
-      "description": "School assembly news headlines today- November 27: Top national, sports and world news curated for you&nbsp;&nbsp;India Today",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMV9vRGxPaXcyZXJGNEN1V21SekNvX3A4OFl3WlFrZlJ4b0hTUEtTVE5zOXM5NjlnMjYxbm1UNGcyUFc0UW5iS245VkJMTnZ6TEQ1cVpES0xVaXctN09MeU5qXzRlbl9pOVMzUkNseUoycWNodjk3TEpjVE55cDJURk16aGo4SWZaYUpaRmN4NHBvTllZTXJrWktacGRyMEYyeWNqelhzYk0yUmIwR3pJQlNzS1J6WUJyV2hDSE9yRnFCdUJqbTF3QjQ2OTl6bENHSFNyaWhiTjIzNFlIREZCXzlmT1hRVms?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qdmFuS2xlbHhWWERUcExFMjR0NmJrYUxreFdQRzViN2NKRTRzbXhaRDJQU2dsSUN2Z2FuRHB5RWh3ckk2UzhHbFZKOEtKWm81YlJrc2ZmLXFMd3c?oc=5",
+      "title": "Floriculture in India - ClearIAS",
+      "description": "Floriculture in India&nbsp;&nbsp;ClearIAS",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qdmFuS2xlbHhWWERUcExFMjR0NmJrYUxreFdQRzViN2NKRTRzbXhaRDJQU2dsSUN2Z2FuRHB5RWh3ckk2UzhHbFZKOEtKWm81YlJrc2ZmLXFMd3c?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-26T12:18:41.000Z"
+      "publishedAt": "2026-11-27T15:08:07.000Z"
     },
     {
-      "id": "current-affairs-https://news.google.com/rss/articles/CBMifkFVX3lxTE00WDNJODMtUEpnOXpIUFdaS1dUVW4tV21tODVrWVUxZWc4VHYxQkNyV3FMdi1YaVV4dkgxeVdibWN4d1N1NHROODh1ZkNPdTVyQWxRUE9aR05TazVueFI3QWoxUGFlU0h0UTc0eWRPejF3bkpBTmVhTHlHQmMyQQ?oc=5",
-      "title": "G’Day Namaste Festival to Bring BBL Match to India - GK Today",
-      "description": "G’Day Namaste Festival to Bring BBL Match to India&nbsp;&nbsp;GK Today",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00WDNJODMtUEpnOXpIUFdaS1dUVW4tV21tODVrWVUxZWc4VHYxQkNyV3FMdi1YaVV4dkgxeVdibWN4d1N1NHROODh1ZkNPdTVyQWxRUE9aR05TazVueFI3QWoxUGFlU0h0UTc0eWRPejF3bkpBTmVhTHlHQmMyQQ?oc=5",
+      "id": "current-affairs-https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVXl3dmN2MENfbFhFMm5YeF9DMU9CUVNob2NubHFJeW9McV9SU2gyVllqNVZnUFZEWDhyYUY3Wk9zNzUxcU5IcUVhWUQ3MHlSaFdHUjh1c3AxRUFXN3ZsZzBCeUMwR196bFRRUEFIX2VUSG1TVFg1eU5OWklkNlRpT1lNYU5SS2R2cDdSZ3N3OFZFUkh1eW5ENUhQYk15S0NYS2RvZ1p2cFZOcmtQaWVnbm8xQ1dYWjhzQnVfeEQ0RFhDV25lSlYzTXhFdUVVTGJEQU1uQWZnczFrVU42S3E0QkNaNjFLNTZZZTcybHhFdkfSAfcBQVVfeXFMTlRiM0VnZ3U1NmVQS2U5MTRYYzh3VGl0SmplVXBteVBtUWRjX1JYTC00YWNIbFZPYXFZNEpSVW5iUG5GLWx3VWYwYWY3cEJaNFZWdmh6blNNZHhFN0FfUzV0Y1pRTVZOU3NKemVkRklSdFM4UkZPaEFCS1U0MU5hcXlqWmZrS3B4dktaRUswWURSZjBTcjlsaFZHekJFTjhBY0pEalJudXpDYkczX1JRZDRCek1zNFAtZmxHWWYwd1VrZHdtZ1JIV2w3eUdCM25SLUpqQkVSMllVR3BWM3cwamJJTnJGYnNwNUZVMlVLV3FrOGdCN3ZYRQ?oc=5",
+      "title": "India’s Latest Ranking in Different Global Indexes of 2026: Check the Full List, Biggest Gains and Changes - Jagran Josh",
+      "description": "India’s Latest Ranking in Different Global Indexes of 2026: Check the Full List, Biggest Gains and Changes&nbsp;&nbsp;Jagran Josh",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVXl3dmN2MENfbFhFMm5YeF9DMU9CUVNob2NubHFJeW9McV9SU2gyVllqNVZnUFZEWDhyYUY3Wk9zNzUxcU5IcUVhWUQ3MHlSaFdHUjh1c3AxRUFXN3ZsZzBCeUMwR196bFRRUEFIX2VUSG1TVFg1eU5OWklkNlRpT1lNYU5SS2R2cDdSZ3N3OFZFUkh1eW5ENUhQYk15S0NYS2RvZ1p2cFZOcmtQaWVnbm8xQ1dYWjhzQnVfeEQ0RFhDV25lSlYzTXhFdUVVTGJEQU1uQWZnczFrVU42S3E0QkNaNjFLNTZZZTcybHhFdkfSAfcBQVVfeXFMTlRiM0VnZ3U1NmVQS2U5MTRYYzh3VGl0SmplVXBteVBtUWRjX1JYTC00YWNIbFZPYXFZNEpSVW5iUG5GLWx3VWYwYWY3cEJaNFZWdmh6blNNZHhFN0FfUzV0Y1pRTVZOU3NKemVkRklSdFM4UkZPaEFCS1U0MU5hcXlqWmZrS3B4dktaRUswWURSZjBTcjlsaFZHekJFTjhBY0pEalJudXpDYkczX1JRZDRCek1zNFAtZmxHWWYwd1VrZHdtZ1JIV2w3eUdCM25SLUpqQkVSMllVR3BWM3cwamJJTnJGYnNwNUZVMlVLV3FrOGdCN3ZYRQ?oc=5",
       "source": "Google News",
       "topic": "current-affairs",
       "topicLabel": "Current Affairs",
-      "publishedAt": "2026-11-27T05:44:14.000Z"
+      "publishedAt": "2026-11-27T13:49:43.000Z"
     }
   ]
 }
